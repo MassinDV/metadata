@@ -49,7 +49,7 @@ function extractIdFromImageUrl($imageUrl) {
     return $matches[1] ?? null;
 }
 
-// Function to process a category and save data to CSV
+// Function to process a category and save data to a JSON file
 function processCategory($categoryUrl, $categoryName) {
     $urls = scrapeUrlsFromCategory($categoryUrl);
     if (empty($urls)) {
@@ -57,20 +57,13 @@ function processCategory($categoryUrl, $categoryName) {
         return;
     }
 
-    $csvFileName = "$categoryName.csv";
-    $isNewFile = !file_exists($csvFileName);
+    $jsonFileName = "$categoryName.json";
+    $existingData = [];
 
-    // Open the CSV file in append mode to avoid overwriting
-    $csvFile = fopen($csvFileName, 'a');
-
-    if (!$csvFile) {
-        echo "Failed to create CSV: $csvFileName\n";
-        return;
-    }
-
-    // Write headers only if the file is new
-    if ($isNewFile) {
-        fputcsv($csvFile, ['CUID', 'Name', 'Session', 'Episode', 'imageUrl', 'Category', 'streamUrl']);
+    // Check if JSON file exists and load existing data
+    if (file_exists($jsonFileName)) {
+        $jsonContent = file_get_contents($jsonFileName);
+        $existingData = json_decode($jsonContent, true) ?? [];
     }
 
     foreach ($urls as $url) {
@@ -81,6 +74,7 @@ function processCategory($categoryUrl, $categoryName) {
         }
 
         $seriesName = $html->find('meta[data-hid="title"]', 0)->content ?? 'UnknownSeries';
+        $episodes = [];
         $episodeNumber = 1;
 
         foreach ($html->find('div.episode-container') as $episodeContainer) {
@@ -95,31 +89,37 @@ function processCategory($categoryUrl, $categoryName) {
                 if ($redirectId) {
                     $streamUrl = "https://forja.uplaytv3117.workers.dev/index.m3u8?id=$redirectId";
 
-                    // Save episode data to CSV
-                    fputcsv($csvFile, [
+                    $episodes[] = [
                         'CUID' => $cuid,
-                        'Name' => $seriesName,
                         'Session' => "S01",
                         'Episode' => sprintf("E%02d", $episodeNumber), // Formats as E01, E02, etc.
                         'imageUrl' => $imageUrl,
-                        'Category' => $categoryName,
                         'streamUrl' => $streamUrl
-                    ]);
+                    ];
 
                     $episodeNumber++;
                 }
             }
         }
+
+        if (!empty($episodes)) {
+            $existingData[] = [
+                'Name' => $seriesName,
+                'Category' => $categoryName,
+                'Episodes' => $episodes
+            ];
+        }
     }
 
-    fclose($csvFile);
-    echo "Data saved to $csvFileName\n";
+    // Save updated data to JSON file
+    file_put_contents($jsonFileName, json_encode($existingData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    echo "Data saved to $jsonFileName\n";
 }
 
 // Define categories and URLs
 $categories = [
-    'Action' => 'https://forja.ma/category/series?g=action-serie&contentType=playlist&lang=fr',
-    'History' => 'https://forja.ma/category/series?g=histoire-serie&contentType=playlist&lang=fr'
+    'Drama' => 'https://forja.ma/category/series?g=serie-drame&contentType=playlist&lang=fr',
+    'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr'
 ];
 
 // Process each category
