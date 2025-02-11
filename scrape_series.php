@@ -119,7 +119,7 @@ function processCategory($categoryUrl, $categoryName) {
 // Define categories and URLs
 $categories = [
     'Drama' => 'https://forja.ma/category/series?g=serie-drame&contentType=playlist&lang=fr',
-    'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr'
+    'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr',
     'Theater' => 'https://forja.ma/category/qwygxsxmgphvbrmncuuvvpmzswzsfbfpwjprvinh&lang=fr'
 ];
 
