@@ -49,6 +49,25 @@ function extractIdFromImageUrl($imageUrl) {
     return $matches[1] ?? null;
 }
 
+// Function to decode HTML entities and format series names
+function formatSeriesName($name) {
+    // Decode HTML entities (e.g., L&#x27;usine → L'usine)
+    $name = html_entity_decode($name, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+    // Convert to title case (e.g., SALAH ET FATI → Salah Et Fati)
+    $name = ucwords(strtolower($name));
+    return $name;
+}
+
+// Function to check if an episode already exists in the data
+function isEpisodeExists($episodes, $cuid) {
+    foreach ($episodes as $episode) {
+        if ($episode['CUID'] === $cuid) {
+            return true;
+        }
+    }
+    return false;
+}
+
 // Function to process a category and save data to a JSON file
 function processCategory($categoryUrl, $categoryName) {
     $urls = scrapeUrlsFromCategory($categoryUrl);
@@ -74,6 +93,8 @@ function processCategory($categoryUrl, $categoryName) {
         }
 
         $seriesName = $html->find('meta[data-hid="title"]', 0)->content ?? 'UnknownSeries';
+        // Format the series name
+        $seriesName = formatSeriesName($seriesName);
         $episodes = [];
         $episodeNumber = 1;
 
@@ -89,25 +110,51 @@ function processCategory($categoryUrl, $categoryName) {
                 if ($redirectId) {
                     $streamUrl = "https://forja.uplaytv3117.workers.dev/index.m3u8?id=$redirectId";
 
-                    $episodes[] = [
-                        'CUID' => $cuid,
-                        'Session' => "S01",
-                        'Episode' => sprintf("E%02d", $episodeNumber), // Formats as E01, E02, etc.
-                        'imageUrl' => $imageUrl,
-                        'streamUrl' => $streamUrl
-                    ];
+                    // Check if the episode already exists in the existing data
+                    $isDuplicate = false;
+                    foreach ($existingData as $series) {
+                        if ($series['Name'] === $seriesName && isEpisodeExists($series['Episodes'], $cuid)) {
+                            $isDuplicate = true;
+                            break;
+                        }
+                    }
 
-                    $episodeNumber++;
+                    if (!$isDuplicate) {
+                        $episodes[] = [
+                            'CUID' => $cuid,
+                            'Session' => "S01",
+                            'Episode' => sprintf("E%02d", $episodeNumber), // Formats as E01, E02, etc.
+                            'imageUrl' => $imageUrl,
+                            'streamUrl' => $streamUrl
+                        ];
+
+                        $episodeNumber++;
+                    }
                 }
             }
         }
 
         if (!empty($episodes)) {
-            $existingData[] = [
-                'Name' => $seriesName,
-                'Category' => $categoryName,
-                'Episodes' => $episodes
-            ];
+            // Check if the series already exists in the existing data
+            $seriesIndex = -1;
+            foreach ($existingData as $index => $series) {
+                if ($series['Name'] === $seriesName) {
+                    $seriesIndex = $index;
+                    break;
+                }
+            }
+
+            if ($seriesIndex === -1) {
+                // Add new series
+                $existingData[] = [
+                    'Name' => $seriesName,
+                    'Category' => $categoryName,
+                    'Episodes' => $episodes
+                ];
+            } else {
+                // Append new episodes to existing series
+                $existingData[$seriesIndex]['Episodes'] = array_merge($existingData[$seriesIndex]['Episodes'], $episodes);
+            }
         }
     }
 
@@ -118,9 +165,13 @@ function processCategory($categoryUrl, $categoryName) {
 
 // Define categories and URLs
 $categories = [
-    'Drama2' => 'https://forja.ma/category/series?g=serie-drame&contentType=playlist&lang=fr',
-    'Comedy2' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr',
-    'Theater' => 'https://forja.ma/category/qwygxsxmgphvbrmncuuvvpmzswzsfbfpwjprvinh&lang=fr'
+    'Drama' => 'https://forja.ma/category/series?g=serie-drame&contentType=playlist&lang=fr',
+    'Action' => 'https://forja.ma/category/series?g=action-serie&contentType=playlist&lang=fr',
+    'History' => 'https://forja.ma/category/series?g=histoire-serie&contentType=playlist&lang=fr',
+    'Docs' => 'https://forja.ma/category/fnqxzgjwehxiksgbfujypbplresdjsiegtngcqwm?lang=fr',
+    'Kids' => 'https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=fr',
+    'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr',
+
 ];
 
 // Process each category
