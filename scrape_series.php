@@ -2,21 +2,24 @@
 // Include the simple_html_dom library
 include('simple_html_dom.php');
 
+// Ensure the library is loaded correctly
+if (!function_exists('file_get_html')) {
+    echo "Error: The simple_html_dom library is not included or loaded correctly.\n";
+    exit;
+}
+
 // Function to scrape series URLs from a category page
 function scrapeUrlsFromCategory($categoryUrl) {
     $urls = [];
     $html = file_get_html($categoryUrl);
-
-    if (!$html) {
-        echo "Failed to load the HTML content from the URL: $categoryUrl\n";
+    if (!$html || empty($html->find('a[href^="/content/"]'))) {
+        echo "Failed to load or parse HTML content from the URL: $categoryUrl\n";
         return $urls;
     }
-
     foreach ($html->find('a[href^="/content/"]') as $element) {
         $fullUrl = "https://forja.ma" . $element->href . "?lang=fr";
         $urls[] = $fullUrl;
     }
-
     return $urls;
 }
 
@@ -27,51 +30,46 @@ function getRedirectUrl($url) {
     curl_setopt($ch, CURLOPT_HEADER, true);
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, false);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10); // Set timeout to 10 seconds
     $response = curl_exec($ch);
     curl_close($ch);
 
-    if (preg_match('/Location: (.*)/i', $response, $matches)) {
+    if (preg_match('/Location:\s*(.*)/i', $response, $matches)) {
         return trim($matches[1]);
     }
-
-    return $url;
+    return $url; // Fallback to original URL if no redirect is found
 }
 
 // Function to extract ID from a redirect URL
 function extractIdFromRedirectUrl($redirectUrl) {
     preg_match('/\/(\d+)\//', $redirectUrl, $matches);
-    return $matches[1] ?? null;
+    return isset($matches[1]) ? $matches[1] : null;
 }
 
 // Function to extract ID from an image URL
 function extractIdFromImageUrl($imageUrl) {
     preg_match('/(\d+)_tile_image/', $imageUrl, $matches);
-    return $matches[1] ?? null;
+    return isset($matches[1]) ? $matches[1] : null;
 }
 
 // Function to get existing CUIDs from CSV file
 function getExistingCuids($csvFilePath) {
     $existingCuids = [];
-
     if (file_exists($csvFilePath) && filesize($csvFilePath) > 0) {
         $file = fopen($csvFilePath, 'r');
-
-        // Skip header row
-        fgetcsv($file);
-
-        // Read CUIDs from the existing CSV file
+        fgetcsv($file); // Skip header row
         while (($data = fgetcsv($file)) !== false) {
-            $existingCuids[] = $data[0]; // CUID is the first column
+            $existingCuids[$data[0]] = true; // Use associative array for O(1) lookup
         }
-
         fclose($file);
     }
-
     return $existingCuids;
 }
 
 // Function to process a category and append unique data to CSV
 function processCategory($categoryUrl, $categoryName) {
+    echo "Processing category: $categoryName\n";
+
     $urls = scrapeUrlsFromCategory($categoryUrl);
     if (empty($urls)) {
         echo "No series found for category: $categoryName\n";
@@ -86,7 +84,6 @@ function processCategory($categoryUrl, $categoryName) {
 
     // Open the CSV file in append mode
     $csvFile = fopen($csvFilePath, 'a');
-
     if (!$csvFile) {
         echo "Failed to open CSV: $csvFilePath\n";
         return;
@@ -94,7 +91,9 @@ function processCategory($categoryUrl, $categoryName) {
 
     // If the file is new or empty, write the headers
     if (!file_exists($csvFilePath) || filesize($csvFilePath) === 0) {
-        fputcsv($csvFile, ['CUID', 'Name', 'Session', 'Episode', 'EpisodeName', 'imageUrl', 'Category', 'streamUrl']);
+        fputcsv($csvFile, [
+            'CUID', 'Name', 'Session', 'Episode', 'EpisodeName', 'imageUrl', 'Category', 'streamUrl'
+        ]);
     }
 
     foreach ($urls as $url) {
@@ -104,15 +103,19 @@ function processCategory($categoryUrl, $categoryName) {
             continue;
         }
 
-        $seriesName = $html->find('meta[data-hid="title"]', 0)->content ?? 'UnknownSeries';
+        // Extract series name
+        $seriesNameElement = $html->find('meta[data-hid="title"]', 0);
+        $seriesName = $seriesNameElement ? $seriesNameElement->content : 'UnknownSeries';
+
         $episodeNumber = 1;
 
+        // Process each episode container
         foreach ($html->find('div.episode-container') as $episodeContainer) {
             $imageUrl = $episodeContainer->find('img', 0)->src ?? '';
             $cuid = extractIdFromImageUrl($imageUrl);
 
             // Skip if CUID already exists in CSV
-            if ($cuid && !in_array($cuid, $existingCuids)) {
+            if ($cuid && !isset($existingCuids[$cuid])) {
                 $proxyUrl = "https://api.forja.ma/pages/proxy/content/$cuid/stream_url?lang=fr";
                 $redirectUrl = getRedirectUrl($proxyUrl);
                 $redirectId = extractIdFromRedirectUrl($redirectUrl);
@@ -120,19 +123,28 @@ function processCategory($categoryUrl, $categoryName) {
                 if ($redirectId) {
                     $streamUrl = "https://forja.uplaytv3117.workers.dev/index.m3u8?id=$redirectId";
 
-                    // Append only unique episode data to CSV
-                    fputcsv($csvFile, [
-                        'CUID' => $cuid,
-                        'Name' => $seriesName,
-                        'Session' => "S01",
-                        'Episode' => sprintf("E%02d", $episodeNumber), // Formats as E01, E02, etc.
-                        'EpisodeName' => '', // Empty value for EpisodeName
-                        'imageUrl' => $imageUrl,
-                        'Category' => $categoryName,
-                        'streamUrl' => $streamUrl
-                    ]);
+                    // Validate stream URL
+                    if (filter_var($streamUrl, FILTER_VALIDATE_URL)) {
+                        // Extract episode name if available
+                        $episodeNameElement = $episodeContainer->find('span.episode-name', 0);
+                        $episodeName = $episodeNameElement ? $episodeNameElement->plaintext : '';
 
-                    $episodeNumber++;
+                        // Append only unique episode data to CSV
+                        fputcsv($csvFile, [
+                            'CUID' => $cuid,
+                            'Name' => $seriesName,
+                            'Session' => "S01",
+                            'Episode' => sprintf("E%02d", $episodeNumber),
+                            'EpisodeName' => $episodeName,
+                            'imageUrl' => $imageUrl,
+                            'Category' => $categoryName,
+                            'streamUrl' => $streamUrl
+                        ]);
+
+                        $episodeNumber++;
+                    } else {
+                        echo "Invalid stream URL generated for CUID: $cuid\n";
+                    }
                 }
             }
         }
@@ -149,7 +161,7 @@ $categories = [
     'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr',
     'Theater' => 'https://forja.ma/category/qwygxsxmgphvbrmncuuvvpmzswzsfbfpwjprvinh&lang=fr',
     'Documentaries' => 'https://forja.ma/category/fnqxzgjwehxiksgbfujypbplresdjsiegtngcqwm?lang=fr',
-    'kids' => 'https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=fr',
+    'Kids' => 'https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=fr',
     'History' => 'https://forja.ma/category/series?g=histoire-serie&contentType=playlist&lang=fr'
 ];
 
