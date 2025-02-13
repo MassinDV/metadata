@@ -1,4 +1,4 @@
-name: Daily Series Scraping
+name: Daily Data Scraping
 
 on:
   schedule:
@@ -28,8 +28,11 @@ jobs:
         curl -sS https://getcomposer.org/installer | php
         sudo mv composer.phar /usr/local/bin/composer
 
-    - name: Run the PHP Script
+    - name: Run Scraper Script 1
       run: php sforjascraper.php
+
+    - name: Run Scraper Script 2
+      run: php movforjascraper.php
 
     - name: Commit and push changes (if new data is available)
       env:
@@ -37,12 +40,11 @@ jobs:
       run: |
         git config --global user.name "MassinDV"
         git config --global user.email "massindevelopment@gmail.com"
-
         git add .
         if git diff --staged --quiet; then
           echo "No new changes to commit."
         else
-          git commit -m "Update series data: $(date +'%Y-%m-%d')"
+          git commit -m "Update scraped data: $(date +'%Y-%m-%d')"
           git remote set-url origin https://MassinDV:${GH_PAT}@github.com/MassinDV/data-scraper.git
           git push origin main
         fi
