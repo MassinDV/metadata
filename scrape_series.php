@@ -118,8 +118,8 @@ function processCategory($categoryUrl, $categoryName) {
 
 // Define categories and URLs
 $categories = [
-    'Kidsfr' => ''https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=fr',
-    'kidsar' => ''https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=ar'
+    'Kidsfr' => ''https://forja.ma/category/series?g=action-serie&contentType=playlist&lang=fr',
+    'kidsar' => ''https://forja.ma/category/series?g=action-serie&contentType=playlist&lang=ar'
 ];
 
 // Process each category
