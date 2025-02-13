@@ -6,17 +6,14 @@ include('simple_html_dom.php');
 function scrapeUrlsFromCategory($categoryUrl) {
     $urls = [];
     $html = file_get_html($categoryUrl);
-
     if (!$html) {
         echo "Failed to load the HTML content from the URL: $categoryUrl\n";
         return $urls;
     }
-
     foreach ($html->find('a[href^="/content/"]') as $element) {
         $fullUrl = "https://forja.ma" . $element->href . "?lang=fr";
         $urls[] = $fullUrl;
     }
-
     return $urls;
 }
 
@@ -29,11 +26,9 @@ function getRedirectUrl($url) {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     $response = curl_exec($ch);
     curl_close($ch);
-
     if (preg_match('/Location: (.*)/i', $response, $matches)) {
         return trim($matches[1]);
     }
-
     return $url;
 }
 
@@ -78,7 +73,6 @@ function processCategory($categoryUrl, $categoryName) {
 
     $jsonFileName = "$categoryName.json";
     $existingData = [];
-
     // Check if JSON file exists and load existing data
     if (file_exists($jsonFileName)) {
         $jsonContent = file_get_contents($jsonFileName);
@@ -95,6 +89,7 @@ function processCategory($categoryUrl, $categoryName) {
         $seriesName = $html->find('meta[data-hid="title"]', 0)->content ?? 'UnknownSeries';
         // Format the series name
         $seriesName = formatSeriesName($seriesName);
+
         $episodes = [];
         $episodeNumber = 1;
 
@@ -108,7 +103,8 @@ function processCategory($categoryUrl, $categoryName) {
                 $redirectId = extractIdFromRedirectUrl($redirectUrl);
 
                 if ($redirectId) {
-                    $streamUrl = "https://forja.uplaytv3117.workers.dev/index.m3u8?id=$redirectId";
+                    // Removed the streamUrl assignment and added streamId
+                    $streamId = "$redirectId";
 
                     // Check if the episode already exists in the existing data
                     $isDuplicate = false;
@@ -125,9 +121,8 @@ function processCategory($categoryUrl, $categoryName) {
                             'Session' => "S01",
                             'Episode' => sprintf("E%02d", $episodeNumber), // Formats as E01, E02, etc.
                             'imageUrl' => $imageUrl,
-                            'streamUrl' => $streamUrl
+                            'streamId' => $streamId // Added streamId here
                         ];
-
                         $episodeNumber++;
                     }
                 }
@@ -171,7 +166,6 @@ $categories = [
     'Docs' => 'https://forja.ma/category/fnqxzgjwehxiksgbfujypbplresdjsiegtngcqwm?lang=fr',
     'Kids' => 'https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=fr',
     'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr',
-
 ];
 
 // Process each category
