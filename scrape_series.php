@@ -79,7 +79,7 @@ function processCategory($categoryUrl, $categoryName) {
     }
 
     // Define the CSV file path
-    $csvFilePath = "C:/Users/rifma/Dropbox/Forja/csv2/{$categoryName}.csv";
+    $csvFilePath = "{$categoryName}.csv";
 
     // Get existing CUIDs to prevent duplicates
     $existingCuids = getExistingCuids($csvFilePath);
