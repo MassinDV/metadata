@@ -49,7 +49,28 @@ function extractIdFromImageUrl($imageUrl) {
     return $matches[1] ?? null;
 }
 
-// Function to process a category and save data to a JSON file
+// Function to get existing CUIDs from CSV file
+function getExistingCuids($csvFilePath) {
+    $existingCuids = [];
+
+    if (file_exists($csvFilePath) && filesize($csvFilePath) > 0) {
+        $file = fopen($csvFilePath, 'r');
+
+        // Skip header row
+        fgetcsv($file);
+
+        // Read CUIDs from the existing CSV file
+        while (($data = fgetcsv($file)) !== false) {
+            $existingCuids[] = $data[0]; // CUID is the first column
+        }
+
+        fclose($file);
+    }
+
+    return $existingCuids;
+}
+
+// Function to process a category and append unique data to CSV
 function processCategory($categoryUrl, $categoryName) {
     $urls = scrapeUrlsFromCategory($categoryUrl);
     if (empty($urls)) {
@@ -57,13 +78,23 @@ function processCategory($categoryUrl, $categoryName) {
         return;
     }
 
-    $jsonFileName = "$categoryName.json";
-    $existingData = [];
+    // Define the CSV file path
+    $csvFilePath = "C:/Users/rifma/Dropbox/Forja/csv2/{$categoryName}.csv";
 
-    // Check if JSON file exists and load existing data
-    if (file_exists($jsonFileName)) {
-        $jsonContent = file_get_contents($jsonFileName);
-        $existingData = json_decode($jsonContent, true) ?? [];
+    // Get existing CUIDs to prevent duplicates
+    $existingCuids = getExistingCuids($csvFilePath);
+
+    // Open the CSV file in append mode
+    $csvFile = fopen($csvFilePath, 'a');
+
+    if (!$csvFile) {
+        echo "Failed to open CSV: $csvFilePath\n";
+        return;
+    }
+
+    // If the file is new or empty, write the headers
+    if (!file_exists($csvFilePath) || filesize($csvFilePath) === 0) {
+        fputcsv($csvFile, ['CUID', 'Name', 'Session', 'Episode', 'EpisodeName', 'imageUrl', 'Category', 'streamUrl']);
     }
 
     foreach ($urls as $url) {
@@ -74,14 +105,14 @@ function processCategory($categoryUrl, $categoryName) {
         }
 
         $seriesName = $html->find('meta[data-hid="title"]', 0)->content ?? 'UnknownSeries';
-        $episodes = [];
         $episodeNumber = 1;
 
         foreach ($html->find('div.episode-container') as $episodeContainer) {
             $imageUrl = $episodeContainer->find('img', 0)->src ?? '';
             $cuid = extractIdFromImageUrl($imageUrl);
 
-            if ($cuid) {
+            // Skip if CUID already exists in CSV
+            if ($cuid && !in_array($cuid, $existingCuids)) {
                 $proxyUrl = "https://api.forja.ma/pages/proxy/content/$cuid/stream_url?lang=fr";
                 $redirectUrl = getRedirectUrl($proxyUrl);
                 $redirectId = extractIdFromRedirectUrl($redirectUrl);
@@ -89,41 +120,40 @@ function processCategory($categoryUrl, $categoryName) {
                 if ($redirectId) {
                     $streamUrl = "https://forja.uplaytv3117.workers.dev/index.m3u8?id=$redirectId";
 
-                    $episodes[] = [
+                    // Append only unique episode data to CSV
+                    fputcsv($csvFile, [
                         'CUID' => $cuid,
+                        'Name' => $seriesName,
                         'Session' => "S01",
                         'Episode' => sprintf("E%02d", $episodeNumber), // Formats as E01, E02, etc.
+                        'EpisodeName' => '', // Empty value for EpisodeName
                         'imageUrl' => $imageUrl,
+                        'Category' => $categoryName,
                         'streamUrl' => $streamUrl
-                    ];
+                    ]);
 
                     $episodeNumber++;
                 }
             }
         }
-
-        if (!empty($episodes)) {
-            $existingData[] = [
-                'Name' => $seriesName,
-                'Category' => $categoryName,
-                'Episodes' => $episodes
-            ];
-        }
     }
 
-    // Save updated data to JSON file
-    file_put_contents($jsonFileName, json_encode($existingData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-    echo "Data saved to $jsonFileName\n";
+    fclose($csvFile);
+    echo "New unique data appended to $csvFilePath\n";
 }
 
 // Define categories and URLs
 $categories = [
+    'Action' => 'https://forja.ma/category/series?g=action-serie&contentType=playlist&lang=fr',
     'Drama' => 'https://forja.ma/category/series?g=serie-drame&contentType=playlist&lang=fr',
     'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr',
-    'Theater' => 'https://forja.ma/category/qwygxsxmgphvbrmncuuvvpmzswzsfbfpwjprvinh&lang=fr'
+    'Theater' => 'https://forja.ma/category/qwygxsxmgphvbrmncuuvvpmzswzsfbfpwjprvinh&lang=fr',
+    'Documentaries' => 'https://forja.ma/category/fnqxzgjwehxiksgbfujypbplresdjsiegtngcqwm?lang=fr',
+    'kids' => 'https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=fr',
+    'History' => 'https://forja.ma/category/series?g=histoire-serie&contentType=playlist&lang=fr'
 ];
 
-// Process each category
+// Process each category and append unique data
 foreach ($categories as $categoryName => $categoryUrl) {
     processCategory($categoryUrl, $categoryName);
 }
