@@ -1,0 +1,1454 @@
+[
+    {
+        "Name": "Khoyout Rafiâa",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "7107",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7107_tile_image_1691747256826.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90870"
+            },
+            {
+                "CUID": "7108",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7108_tile_image_1691747877460.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90871"
+            },
+            {
+                "CUID": "7109",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7109_tile_image_1691748019278.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90872"
+            },
+            {
+                "CUID": "7110",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7110_tile_image_1691748449491.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90873"
+            },
+            {
+                "CUID": "7111",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7111_tile_image_1691748582031.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90874"
+            },
+            {
+                "CUID": "7112",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7112_tile_image_1691748738724.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90875"
+            },
+            {
+                "CUID": "7113",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7113_tile_image_1691748927219.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90876"
+            },
+            {
+                "CUID": "7114",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7114_tile_image_1691749219201.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90877"
+            },
+            {
+                "CUID": "7115",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7115_tile_image_1691749819384.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90878"
+            },
+            {
+                "CUID": "7116",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7116_tile_image_1691749969848.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90879"
+            },
+            {
+                "CUID": "7117",
+                "Session": "S01",
+                "Episode": "E11",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7117_tile_image_1691750147062.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90880"
+            },
+            {
+                "CUID": "7118",
+                "Session": "S01",
+                "Episode": "E12",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7118_tile_image_1691750695331.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90881"
+            },
+            {
+                "CUID": "7119",
+                "Session": "S01",
+                "Episode": "E13",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7119_tile_image_1691750879161.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90882"
+            },
+            {
+                "CUID": "7120",
+                "Session": "S01",
+                "Episode": "E14",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7120_tile_image_1691751056364.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90883"
+            },
+            {
+                "CUID": "7121",
+                "Session": "S01",
+                "Episode": "E15",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7121_tile_image_1691751358315.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90884"
+            },
+            {
+                "CUID": "7122",
+                "Session": "S01",
+                "Episode": "E16",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7122_tile_image_1691751493606.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90885"
+            },
+            {
+                "CUID": "7123",
+                "Session": "S01",
+                "Episode": "E17",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7123_tile_image_1691751626817.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90886"
+            },
+            {
+                "CUID": "7124",
+                "Session": "S01",
+                "Episode": "E18",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7124_tile_image_1691751732534.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90887"
+            },
+            {
+                "CUID": "7125",
+                "Session": "S01",
+                "Episode": "E19",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7125_tile_image_1691751892807.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90888"
+            },
+            {
+                "CUID": "7126",
+                "Session": "S01",
+                "Episode": "E20",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7126_tile_image_1691752065104.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90889"
+            },
+            {
+                "CUID": "7127",
+                "Session": "S01",
+                "Episode": "E21",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7127_tile_image_1691752162753.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90890"
+            },
+            {
+                "CUID": "7128",
+                "Session": "S01",
+                "Episode": "E22",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7128_tile_image_1691752299848.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90891"
+            },
+            {
+                "CUID": "7129",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7129_tile_image_1691752436798.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90892"
+            },
+            {
+                "CUID": "7130",
+                "Session": "S01",
+                "Episode": "E24",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7130_tile_image_1691752839199.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90893"
+            },
+            {
+                "CUID": "7131",
+                "Session": "S01",
+                "Episode": "E25",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7131_tile_image_1691752959699.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90894"
+            },
+            {
+                "CUID": "7132",
+                "Session": "S01",
+                "Episode": "E26",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7132_tile_image_1691753160622.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90895"
+            },
+            {
+                "CUID": "7133",
+                "Session": "S01",
+                "Episode": "E27",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7133_tile_image_1691753273865.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90896"
+            },
+            {
+                "CUID": "7134",
+                "Session": "S01",
+                "Episode": "E28",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7134_tile_image_1691753445847.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90897"
+            },
+            {
+                "CUID": "7135",
+                "Session": "S01",
+                "Episode": "E29",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7135_tile_image_1691753664779.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90898"
+            },
+            {
+                "CUID": "7136",
+                "Session": "S01",
+                "Episode": "E30",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7136_tile_image_1691753801920.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90899"
+            }
+        ]
+    },
+    {
+        "Name": "Ila Al Abad - Le Pacte",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "2060",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2060_tile_image_1675333020148.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78581"
+            },
+            {
+                "CUID": "2059",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2059_tile_image_1675333032619.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78579"
+            },
+            {
+                "CUID": "2058",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2058_tile_image_1675333048446.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78577"
+            },
+            {
+                "CUID": "2057",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2057_tile_image_1675333068898.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78575"
+            },
+            {
+                "CUID": "2056",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2056_tile_image_1675333085623.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78573"
+            },
+            {
+                "CUID": "2055",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2055_tile_image_1675333097612.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78571"
+            },
+            {
+                "CUID": "2054",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2054_tile_image_1675333115892.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78569"
+            },
+            {
+                "CUID": "2053",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2053_tile_image_1675333134370.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78567"
+            },
+            {
+                "CUID": "2052",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2052_tile_image_1675333148858.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78565"
+            },
+            {
+                "CUID": "2051",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/2051_tile_image_1675333166554.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=78563"
+            }
+        ]
+    },
+    {
+        "Name": "Al Kinâa",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "7059",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7059_tile_image_1692277202069.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90822"
+            },
+            {
+                "CUID": "7060",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7060_tile_image_1692279070043.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90823"
+            },
+            {
+                "CUID": "7061",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7061_tile_image_1692279084870.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90824"
+            },
+            {
+                "CUID": "7062",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/7062_tile_image_1692279097823.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=90825"
+            }
+        ]
+    },
+    {
+        "Name": "Ana Wnti",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "19789",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19789_tile_image_1733685075137.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109727"
+            },
+            {
+                "CUID": "19790",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19790_tile_image_1734349862740.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109728"
+            },
+            {
+                "CUID": "20167",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20167_tile_image_1734992451385.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110108"
+            },
+            {
+                "CUID": "19798",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19798_tile_image_1735554165185.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109733"
+            },
+            {
+                "CUID": "19799",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19799_tile_image_1736177838764.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109734"
+            },
+            {
+                "CUID": "19800",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19800_tile_image_1736774665881.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110547"
+            },
+            {
+                "CUID": "19801",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19801_tile_image_1737370994466.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110740"
+            },
+            {
+                "CUID": "19802",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19802_tile_image_1737989560555.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109737"
+            },
+            {
+                "CUID": "20989",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20989_tile_image_1738593660045.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=111057"
+            },
+            {
+                "CUID": "21099",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21099_tile_image_1739190297640.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=111175"
+            }
+        ]
+    },
+    {
+        "Name": "Khat Rajaa",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "19748",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19748_tile_image_1733311364884.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109688"
+            },
+            {
+                "CUID": "19749",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19749_tile_image_1733349925077.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109689"
+            },
+            {
+                "CUID": "19835",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19835_tile_image_1733937272997.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109885"
+            },
+            {
+                "CUID": "19836",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19836_tile_image_1733937429414.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109887"
+            },
+            {
+                "CUID": "20080",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20080_tile_image_1734520503886.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110019"
+            },
+            {
+                "CUID": "20083",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20083_tile_image_1734521133949.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110021"
+            },
+            {
+                "CUID": "20238",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20238_tile_image_1735139032370.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110189"
+            },
+            {
+                "CUID": "20239",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20239_tile_image_1735139490608.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110190"
+            },
+            {
+                "CUID": "19841",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19841_tile_image_1735765895082.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110280"
+            },
+            {
+                "CUID": "19842",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19842_tile_image_1735765918051.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110281"
+            },
+            {
+                "CUID": "20478",
+                "Session": "S01",
+                "Episode": "E11",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20478_tile_image_1736347978471.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110437"
+            },
+            {
+                "CUID": "20479",
+                "Session": "S01",
+                "Episode": "E12",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20479_tile_image_1736348014930.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110436"
+            },
+            {
+                "CUID": "20603",
+                "Session": "S01",
+                "Episode": "E13",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20603_tile_image_1736947502748.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110564"
+            },
+            {
+                "CUID": "20605",
+                "Session": "S01",
+                "Episode": "E14",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20605_tile_image_1736947797156.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110566"
+            },
+            {
+                "CUID": "19847",
+                "Session": "S01",
+                "Episode": "E15",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19847_tile_image_1737451093045.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110762"
+            },
+            {
+                "CUID": "19848",
+                "Session": "S01",
+                "Episode": "E16",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19848_tile_image_1737452206038.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110763"
+            },
+            {
+                "CUID": "20889",
+                "Session": "S01",
+                "Episode": "E17",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20889_tile_image_1738162615099.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110949"
+            },
+            {
+                "CUID": "20887",
+                "Session": "S01",
+                "Episode": "E18",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/20887_tile_image_1738160045633.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=110948"
+            },
+            {
+                "CUID": "21025",
+                "Session": "S01",
+                "Episode": "E19",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21025_tile_image_1738768696321.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=111097"
+            },
+            {
+                "CUID": "21026",
+                "Session": "S01",
+                "Episode": "E20",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21026_tile_image_1738769985962.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=111098"
+            },
+            {
+                "CUID": "19853",
+                "Session": "S01",
+                "Episode": "E21",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19853_tile_image_1739267981173.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=111207"
+            },
+            {
+                "CUID": "19854",
+                "Session": "S01",
+                "Episode": "E22",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19854_tile_image_1739267962762.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=111206"
+            }
+        ]
+    },
+    {
+        "Name": "Rihlat Al Omr",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "18310",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18310_tile_image_1727878319899.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108190"
+            },
+            {
+                "CUID": "18312",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18312_tile_image_1727878332874.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108192"
+            },
+            {
+                "CUID": "18341",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18341_tile_image_1728035397073.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108218"
+            },
+            {
+                "CUID": "18342",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18342_tile_image_1728035700047.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108219"
+            },
+            {
+                "CUID": "18343",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18343_tile_image_1728035813289.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108220"
+            },
+            {
+                "CUID": "18344",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18344_tile_image_1728035982905.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108221"
+            },
+            {
+                "CUID": "18345",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18345_tile_image_1728036195184.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108222"
+            },
+            {
+                "CUID": "18346",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18346_tile_image_1728036432421.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108223"
+            },
+            {
+                "CUID": "18347",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18347_tile_image_1728036612457.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108224"
+            },
+            {
+                "CUID": "18348",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18348_tile_image_1728036790525.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108225"
+            },
+            {
+                "CUID": "18349",
+                "Session": "S01",
+                "Episode": "E11",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18349_tile_image_1728036915192.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108226"
+            },
+            {
+                "CUID": "18352",
+                "Session": "S01",
+                "Episode": "E12",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18352_tile_image_1728037093429.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108227"
+            },
+            {
+                "CUID": "18350",
+                "Session": "S01",
+                "Episode": "E13",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18350_tile_image_1728037274691.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108228"
+            },
+            {
+                "CUID": "18351",
+                "Session": "S01",
+                "Episode": "E14",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18351_tile_image_1728037487148.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108229"
+            },
+            {
+                "CUID": "18353",
+                "Session": "S01",
+                "Episode": "E15",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18353_tile_image_1728037631254.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108230"
+            },
+            {
+                "CUID": "18374",
+                "Session": "S01",
+                "Episode": "E16",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18374_tile_image_1728048023200.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108252"
+            },
+            {
+                "CUID": "18356",
+                "Session": "S01",
+                "Episode": "E17",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18356_tile_image_1728037803815.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108232"
+            },
+            {
+                "CUID": "18357",
+                "Session": "S01",
+                "Episode": "E18",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18357_tile_image_1728038036712.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108233"
+            },
+            {
+                "CUID": "18359",
+                "Session": "S01",
+                "Episode": "E19",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18359_tile_image_1728038156459.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108235"
+            },
+            {
+                "CUID": "18358",
+                "Session": "S01",
+                "Episode": "E20",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18358_tile_image_1728038327668.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108234"
+            },
+            {
+                "CUID": "18360",
+                "Session": "S01",
+                "Episode": "E21",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18360_tile_image_1728038440403.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108236"
+            },
+            {
+                "CUID": "18361",
+                "Session": "S01",
+                "Episode": "E22",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18361_tile_image_1728038590328.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108237"
+            },
+            {
+                "CUID": "18362",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18362_tile_image_1728038999028.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108238"
+            },
+            {
+                "CUID": "18363",
+                "Session": "S01",
+                "Episode": "E24",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18363_tile_image_1728039302931.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108239"
+            },
+            {
+                "CUID": "18364",
+                "Session": "S01",
+                "Episode": "E25",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18364_tile_image_1728041678350.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108240"
+            },
+            {
+                "CUID": "18365",
+                "Session": "S01",
+                "Episode": "E26",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18365_tile_image_1728041817203.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108242"
+            },
+            {
+                "CUID": "18366",
+                "Session": "S01",
+                "Episode": "E27",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18366_tile_image_1728042178740.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108244"
+            },
+            {
+                "CUID": "18368",
+                "Session": "S01",
+                "Episode": "E28",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18368_tile_image_1728042490880.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108245"
+            },
+            {
+                "CUID": "18369",
+                "Session": "S01",
+                "Episode": "E29",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18369_tile_image_1732879133147.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108246"
+            },
+            {
+                "CUID": "18370",
+                "Session": "S01",
+                "Episode": "E30",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18370_tile_image_1728042868144.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=108247"
+            }
+        ]
+    },
+    {
+        "Name": "Mahboubi",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "19616",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19616_tile_image_1732792829336.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109569"
+            },
+            {
+                "CUID": "19609",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19609_tile_image_1732792890381.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109562"
+            },
+            {
+                "CUID": "19615",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19615_tile_image_1732793124233.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109568"
+            },
+            {
+                "CUID": "19611",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19611_tile_image_1732793213905.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109564"
+            },
+            {
+                "CUID": "19614",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19614_tile_image_1732793345175.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109567"
+            },
+            {
+                "CUID": "19612",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19612_tile_image_1732793407308.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109565"
+            },
+            {
+                "CUID": "19610",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19610_tile_image_1732793481638.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109563"
+            },
+            {
+                "CUID": "19613",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19613_tile_image_1732793547295.png",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109566"
+            }
+        ]
+    },
+    {
+        "Name": "Woujae Attrab",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "18087",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18087_tile_image_1728903746330.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107937"
+            },
+            {
+                "CUID": "18088",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18088_tile_image_1728903745043.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107938"
+            },
+            {
+                "CUID": "18089",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18089_tile_image_1728903753444.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107939"
+            },
+            {
+                "CUID": "18090",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18090_tile_image_1728903761685.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107940"
+            },
+            {
+                "CUID": "18091",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18091_tile_image_1728903770227.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107941"
+            },
+            {
+                "CUID": "18092",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18092_tile_image_1728903778473.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107942"
+            },
+            {
+                "CUID": "18093",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18093_tile_image_1728903788634.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107943"
+            },
+            {
+                "CUID": "18094",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18094_tile_image_1728903805023.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107944"
+            },
+            {
+                "CUID": "18095",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18095_tile_image_1728903805766.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107945"
+            },
+            {
+                "CUID": "18116",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18116_tile_image_1728903853828.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107966"
+            },
+            {
+                "CUID": "18096",
+                "Session": "S01",
+                "Episode": "E11",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18096_tile_image_1728903813882.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107946"
+            },
+            {
+                "CUID": "18097",
+                "Session": "S01",
+                "Episode": "E12",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18097_tile_image_1728903820744.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107947"
+            },
+            {
+                "CUID": "18098",
+                "Session": "S01",
+                "Episode": "E13",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18098_tile_image_1728903969577.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107948"
+            },
+            {
+                "CUID": "18099",
+                "Session": "S01",
+                "Episode": "E14",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18099_tile_image_1728903985564.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107949"
+            },
+            {
+                "CUID": "18100",
+                "Session": "S01",
+                "Episode": "E15",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18100_tile_image_1728903955036.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107950"
+            },
+            {
+                "CUID": "18101",
+                "Session": "S01",
+                "Episode": "E16",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18101_tile_image_1728903933612.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107951"
+            },
+            {
+                "CUID": "18102",
+                "Session": "S01",
+                "Episode": "E17",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18102_tile_image_1728903941061.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107952"
+            },
+            {
+                "CUID": "18103",
+                "Session": "S01",
+                "Episode": "E18",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18103_tile_image_1728903896113.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107953"
+            },
+            {
+                "CUID": "18104",
+                "Session": "S01",
+                "Episode": "E19",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18104_tile_image_1728903961964.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107954"
+            },
+            {
+                "CUID": "18105",
+                "Session": "S01",
+                "Episode": "E20",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18105_tile_image_1728903924879.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107955"
+            },
+            {
+                "CUID": "18106",
+                "Session": "S01",
+                "Episode": "E21",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18106_tile_image_1728903956625.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107956"
+            },
+            {
+                "CUID": "18107",
+                "Session": "S01",
+                "Episode": "E22",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18107_tile_image_1728903878398.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107957"
+            },
+            {
+                "CUID": "18108",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18108_tile_image_1728903869601.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107958"
+            },
+            {
+                "CUID": "18109",
+                "Session": "S01",
+                "Episode": "E24",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18109_tile_image_1728903861709.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107959"
+            },
+            {
+                "CUID": "18110",
+                "Session": "S01",
+                "Episode": "E25",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18110_tile_image_1728903885875.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107960"
+            },
+            {
+                "CUID": "18111",
+                "Session": "S01",
+                "Episode": "E26",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18111_tile_image_1728903941996.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107961"
+            },
+            {
+                "CUID": "18112",
+                "Session": "S01",
+                "Episode": "E27",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18112_tile_image_1728903846711.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107962"
+            },
+            {
+                "CUID": "18113",
+                "Session": "S01",
+                "Episode": "E28",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18113_tile_image_1728903839121.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107963"
+            },
+            {
+                "CUID": "18114",
+                "Session": "S01",
+                "Episode": "E29",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18114_tile_image_1728903912206.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107964"
+            },
+            {
+                "CUID": "18115",
+                "Session": "S01",
+                "Episode": "E30",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18115_tile_image_1728903838005.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107965"
+            }
+        ]
+    },
+    {
+        "Name": "L'Étranger",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "19232",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19232_tile_image_1735911139678.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109230"
+            },
+            {
+                "CUID": "19233",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19233_tile_image_1736970894815.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109231"
+            },
+            {
+                "CUID": "19234",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19234_tile_image_1735911094452.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109232"
+            },
+            {
+                "CUID": "19235",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19235_tile_image_1736970955248.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109233"
+            },
+            {
+                "CUID": "19236",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19236_tile_image_1735911172379.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109234"
+            },
+            {
+                "CUID": "19237",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19237_tile_image_1735911245168.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109235"
+            },
+            {
+                "CUID": "19238",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19238_tile_image_1735911190935.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109236"
+            },
+            {
+                "CUID": "19239",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19239_tile_image_1735911200544.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109237"
+            },
+            {
+                "CUID": "19240",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19240_tile_image_1735911252302.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109238"
+            },
+            {
+                "CUID": "19241",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19241_tile_image_1735912237205.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109239"
+            },
+            {
+                "CUID": "19242",
+                "Session": "S01",
+                "Episode": "E11",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19242_tile_image_1735912833742.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109240"
+            },
+            {
+                "CUID": "19243",
+                "Session": "S01",
+                "Episode": "E12",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19243_tile_image_1735912843476.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109241"
+            },
+            {
+                "CUID": "19244",
+                "Session": "S01",
+                "Episode": "E13",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19244_tile_image_1735912855070.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109242"
+            },
+            {
+                "CUID": "19245",
+                "Session": "S01",
+                "Episode": "E14",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19245_tile_image_1735912866795.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109243"
+            },
+            {
+                "CUID": "19246",
+                "Session": "S01",
+                "Episode": "E15",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19246_tile_image_1735912877639.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109244"
+            },
+            {
+                "CUID": "19247",
+                "Session": "S01",
+                "Episode": "E16",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19247_tile_image_1735912891692.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109245"
+            },
+            {
+                "CUID": "19248",
+                "Session": "S01",
+                "Episode": "E17",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19248_tile_image_1735913099224.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109246"
+            },
+            {
+                "CUID": "19249",
+                "Session": "S01",
+                "Episode": "E18",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19249_tile_image_1735913057663.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109247"
+            },
+            {
+                "CUID": "19250",
+                "Session": "S01",
+                "Episode": "E19",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19250_tile_image_1735913071539.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109248"
+            },
+            {
+                "CUID": "19251",
+                "Session": "S01",
+                "Episode": "E20",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19251_tile_image_1735913097701.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109249"
+            },
+            {
+                "CUID": "19252",
+                "Session": "S01",
+                "Episode": "E21",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19252_tile_image_1735913617144.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109250"
+            },
+            {
+                "CUID": "19253",
+                "Session": "S01",
+                "Episode": "E22",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19253_tile_image_1735914091775.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109251"
+            },
+            {
+                "CUID": "19254",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19254_tile_image_1735914742609.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109252"
+            },
+            {
+                "CUID": "19255",
+                "Session": "S01",
+                "Episode": "E24",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19255_tile_image_1735915039228.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109253"
+            },
+            {
+                "CUID": "19256",
+                "Session": "S01",
+                "Episode": "E25",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19256_tile_image_1735915497760.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109254"
+            },
+            {
+                "CUID": "19257",
+                "Session": "S01",
+                "Episode": "E26",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19257_tile_image_1735915557091.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109255"
+            },
+            {
+                "CUID": "19258",
+                "Session": "S01",
+                "Episode": "E27",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19258_tile_image_1735915621557.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109256"
+            },
+            {
+                "CUID": "19259",
+                "Session": "S01",
+                "Episode": "E28",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19259_tile_image_1735915657293.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109257"
+            },
+            {
+                "CUID": "19260",
+                "Session": "S01",
+                "Episode": "E29",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19260_tile_image_1735915742573.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109258"
+            },
+            {
+                "CUID": "19261",
+                "Session": "S01",
+                "Episode": "E30",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19261_tile_image_1735915697502.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109259"
+            },
+            {
+                "CUID": "19262",
+                "Session": "S01",
+                "Episode": "E31",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19262_tile_image_1735915777777.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109260"
+            },
+            {
+                "CUID": "19263",
+                "Session": "S01",
+                "Episode": "E32",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19263_tile_image_1735915729587.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109261"
+            },
+            {
+                "CUID": "19264",
+                "Session": "S01",
+                "Episode": "E33",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19264_tile_image_1735915749168.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109262"
+            },
+            {
+                "CUID": "19265",
+                "Session": "S01",
+                "Episode": "E34",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19265_tile_image_1735915766157.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=109263"
+            }
+        ]
+    },
+    {
+        "Name": "L'autre Dimension",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "18129",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18129_tile_image_1728465975103.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107979"
+            },
+            {
+                "CUID": "18126",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18126_tile_image_1728466811419.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107976"
+            },
+            {
+                "CUID": "18124",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18124_tile_image_1728467052566.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107974"
+            },
+            {
+                "CUID": "18127",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18127_tile_image_1728467241050.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107977"
+            },
+            {
+                "CUID": "18125",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18125_tile_image_1728467668966.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107975"
+            },
+            {
+                "CUID": "18128",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18128_tile_image_1728467834094.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107978"
+            },
+            {
+                "CUID": "18130",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18130_tile_image_1728467993568.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107980"
+            },
+            {
+                "CUID": "18132",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18132_tile_image_1728468236589.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107982"
+            },
+            {
+                "CUID": "18133",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18133_tile_image_1728468634880.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107983"
+            },
+            {
+                "CUID": "18123",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/18123_tile_image_1728468773335.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=107973"
+            }
+        ]
+    },
+    {
+        "Name": "Une Heure En Enfer",
+        "Category": "Action",
+        "Episodes": [
+            {
+                "CUID": "14772",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14772_tile_image_1715003433798.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104252"
+            },
+            {
+                "CUID": "14773",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14773_tile_image_1715003363754.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104253"
+            },
+            {
+                "CUID": "14774",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14774_tile_image_1715003230310.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104254"
+            },
+            {
+                "CUID": "14775",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14775_tile_image_1715003186269.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104255"
+            },
+            {
+                "CUID": "14776",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14776_tile_image_1715003080880.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104256"
+            },
+            {
+                "CUID": "14777",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14777_tile_image_1715003013117.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104257"
+            },
+            {
+                "CUID": "14778",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14778_tile_image_1715002913624.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104258"
+            },
+            {
+                "CUID": "14779",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14779_tile_image_1715002867474.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104259"
+            },
+            {
+                "CUID": "14780",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14780_tile_image_1715002780345.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104260"
+            },
+            {
+                "CUID": "14781",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/14781_tile_image_1715002679536.jpeg",
+                "streamUrl": "https:\/\/forja.uplaytv3117.workers.dev\/index.m3u8?id=104261"
+            }
+        ]
+    }
+]
