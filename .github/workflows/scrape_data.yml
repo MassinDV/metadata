@@ -2,7 +2,7 @@ name: Daily Data Scraping
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  - cron: '5 0 * * *'  # Runs every day at 12:05 AM UTC
   workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
