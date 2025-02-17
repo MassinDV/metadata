@@ -1,5 +1,37 @@
 [
     {
+        "CUID": "11956",
+        "Title": "Dakirat Al Hob",
+        "Category": "Movies",
+        "Synopsis": "Myriam, rongée par la rancœur, s'est juré de faire payer à Hassan son infidélité. Sa rupture avec lui pour épouser Hanane l'a blessée profondément, la laissant aveugle à l'amour sincère que lui porte Reda. Ce dernier, dévoué et patient, multiplie les attentions et les sacrifices pour la consoler et la combler. Mais Myriam, obsédée par sa vengeance, ne voit pas ses efforts et reste insensible à ses sentiments.",
+        "Info": {
+            "Réalisateur": "Safaa Baraka",
+            "Scénariste": "Dounia Boutazout",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Dounia Boutazout        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11956_vertical_image_1721426058995.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11956_poster_image_1721426040434.jpeg",
+        "StreamID": "99944"
+    },
+    {
+        "CUID": "11947",
+        "Title": "Al Guamatt",
+        "Category": "Movies",
+        "Synopsis": "Les événements tournent autour de Muhammad al-Kammat, qui décide de se venger de ses anciens créanciers, en les trompant et en leur faisant croire qu'il est en train de mourir, ce qui les a incités à s'emparer de sa fortune.",
+        "Info": {
+            "Réalisateur": "Zakia Tahiri",
+            "Scénariste": "Zakia Tahiri",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Azelarab Kaghat         ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11947_vertical_image_1721816340453.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11947_poster_image_1721816340430.jpeg",
+        "StreamID": "99937"
+    },
+    {
         "CUID": "14237",
         "Title": "MAMA AAROUSSA",
         "Category": "Movies",
@@ -44,34 +76,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18085_vertical_image_1738237543839.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18085_poster_image_1738237543777.jpeg",
         "StreamID": "107935"
-    },
-    {
-        "CUID": "11946",
-        "Title": "Achahida",
-        "Category": "Movies",
-        "Synopsis": "Houria et Majda sont liées par une forte amitié et vivent une vie tranquille ensemble. Mais la vie de Majda va être bouleversée lorsqu'elle est attaquée par un tueur en série appelé (Mashisha), qui a tenté de voler son sac, ce qui a entraîné sa blessure, et le témoignage de Houria contre lui au tribunal bouleversera sa vie, car une fois sorti de prison, il compte bien se venger d'elle et de sa petite fille.",
-        "Info": {
-            "Réalisateur": "Brahim El Idrissi El Hassani",
-            "Audio": "AR",
-            "Genres": "Drame",
-            "Distribution": "Meryem Zaimi        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11946_vertical_image_1721426579327.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11946_poster_image_1721426579304.jpeg",
-        "StreamID": "99936"
-    },
-    {
-        "CUID": "11986",
-        "Title": "Noun Nissoua",
-        "Category": "Movies",
-        "Synopsis": "\"Karima sous l'autorité de son père, est dans une situation difficile et embarrassante, celui-ci voulait qu'elle épouse un homme qu'elle n'aime pas. Suite à cela, elle s'enfuit de la maison et partit pour la ville.  Avant de quitter sa famille, elle a réussi à trouver un travail d'enseignante et la possibilité de louer un appartement. Mais en arrivant à l'appartement, elle a découvert qu'elle devrait le partager avec un jeune homme nommé Karim, et c'est ainsi que lui est venu l'idée de se faire passer pour un homme pour louer un appartement.\"",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Drame"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11986_vertical_image_1721426337028.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11986_poster_image_1721426328452.jpeg",
-        "StreamID": "99975"
     },
     {
         "CUID": "14608",
@@ -145,6 +149,38 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
         "StreamID": "107968"
+    },
+    {
+        "CUID": "11956",
+        "Title": "Dakirat Al Hob",
+        "Category": "Movies",
+        "Synopsis": "Myriam, rongée par la rancœur, s'est juré de faire payer à Hassan son infidélité. Sa rupture avec lui pour épouser Hanane l'a blessée profondément, la laissant aveugle à l'amour sincère que lui porte Reda. Ce dernier, dévoué et patient, multiplie les attentions et les sacrifices pour la consoler et la combler. Mais Myriam, obsédée par sa vengeance, ne voit pas ses efforts et reste insensible à ses sentiments.",
+        "Info": {
+            "Réalisateur": "Safaa Baraka",
+            "Scénariste": "Dounia Boutazout",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Dounia Boutazout        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11956_vertical_image_1721426058995.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11956_poster_image_1721426040434.jpeg",
+        "StreamID": "99944"
+    },
+    {
+        "CUID": "11947",
+        "Title": "Al Guamatt",
+        "Category": "Movies",
+        "Synopsis": "Les événements tournent autour de Muhammad al-Kammat, qui décide de se venger de ses anciens créanciers, en les trompant et en leur faisant croire qu'il est en train de mourir, ce qui les a incités à s'emparer de sa fortune.",
+        "Info": {
+            "Réalisateur": "Zakia Tahiri",
+            "Scénariste": "Zakia Tahiri",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Azelarab Kaghat         ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11947_vertical_image_1721816340453.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11947_poster_image_1721816340430.jpeg",
+        "StreamID": "99937"
     },
     {
         "CUID": "14237",
@@ -1057,37 +1093,16 @@
         "StreamID": "77241"
     },
     {
-        "CUID": "1890",
-        "Title": "Âamti Fatna",
-        "Category": "Movies",
-        "Synopsis": "Alors qu'elle rêvait de vivre dans une métropole, quand Hanane s'installe avec son mari promu par son employeur à Casablanca, le doute gagne son esprit quant à la fidélité de ce dernier. Elle fait alors appel à sa tante Fatna, une immigrée retraitée et excentrique dont la mission est de sauver ce ménage....",
+        "CUID": "15330",
+        "Title": "Kabarha Tesghar ",
+        "Category": "Theater",
+        "Synopsis": "Kabarha Tesghar ",
         "Info": {
-            "Réalisateur": "Said Khallaf",
-            "Scénariste": "Bachir Damoun",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Comédie",
-            "Distribution": "Saida Baaddi        ,",
-            "Tags": "3amti Fatna"
+            "Audio": "AR"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1890_vertical_image_1681393826888.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1890_poster_image_1676986326395.jpeg",
-        "StreamID": "78241"
-    },
-    {
-        "CUID": "456",
-        "Title": "Nafidat Al Janna",
-        "Category": "Movies",
-        "Synopsis": "Le film tourne autour du parcours d'une femme et sa souffrance, après avoir été expulsée de la maison par son mari qui désire se remarier afin d'avoir des enfants.",
-        "Info": {
-            "Réalisateur": "Abdellilah Eljaouhary",
-            "Audio": "AR",
-            "Genres": "Drame",
-            "Distribution": "Meryem Zaimi        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/456_vertical_image_1678093443027.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/456_poster_image_1678093443008.jpeg",
-        "StreamID": "76611"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15330_vertical_image_1739703292538.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15330_poster_image_1739703292494.jpeg",
+        "StreamID": "105180"
     },
     {
         "CUID": "5864",
@@ -1144,17 +1159,16 @@
         "StreamID": "83776"
     },
     {
-        "CUID": "5840",
-        "Title": "Hada Nta",
+        "CUID": "15330",
+        "Title": "Kabarha Tesghar ",
         "Category": "Theater",
-        "Synopsis": "Hada Nta traite un ensemble de problèmes sociaux immédiats qui s'articulent autour de l'un des plus importants problèmes actuels au Maroc lié au détournement de l’argent publics et qui a été porté devant les tribunaux compétents.",
+        "Synopsis": "Kabarha Tesghar ",
         "Info": {
-            "Audio": "AR",
-            "Distribution": "Mohamed El Jem        ,"
+            "Audio": "AR"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5840_vertical_image_1704361180642.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5840_poster_image_1701441738671.jpeg",
-        "StreamID": "90186"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15330_vertical_image_1739703292538.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15330_poster_image_1739703292494.jpeg",
+        "StreamID": "105180"
     },
     {
         "CUID": "5864",
