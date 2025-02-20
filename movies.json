@@ -1,67 +1,35 @@
 [
     {
-        "CUID": "11956",
-        "Title": "Dakirat Al Hob",
+        "CUID": "18119",
+        "Title": "ACHAOUCH",
         "Category": "Movies",
-        "Synopsis": "Myriam, rongée par la rancœur, s'est juré de faire payer à Hassan son infidélité. Sa rupture avec lui pour épouser Hanane l'a blessée profondément, la laissant aveugle à l'amour sincère que lui porte Reda. Ce dernier, dévoué et patient, multiplie les attentions et les sacrifices pour la consoler et la combler. Mais Myriam, obsédée par sa vengeance, ne voit pas ses efforts et reste insensible à ses sentiments.",
+        "Synopsis": "Sellam est coursier dans une administration. Il met souvent son nez dans les affaires d'autrui. Curieux et bavard, il prétend être un ami proche de l'un de ses supérieurs hiérarchiques. Il exhibe fièrement les quelques photos qu'il avait prises avec tous ceux qui se sont succédés sur le siège de responsable.Sellam ne rêve que d'une chose : grandir aux yeux de ses collègues et se frotter à « l'élite » de la ville. Bref, faire son entrée dans la sphère des riches. Un jour, Sellam tombe sur une note administrative concernant un projet de relogement des habitants de bidonvilles. Il cache ce document pour pouvoir se servir lui-même en premier.Sellam ne sait pas qu'en recourant à cette méthode malhonnête, il allait tomber dans le piège d'un arnaqueur...",
         "Info": {
-            "Réalisateur": "Safaa Baraka",
-            "Scénariste": "Dounia Boutazout",
             "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Dounia Boutazout        ,"
+            "Genres": "Drame        ,",
+            "Distribution": "Mohamed OUSFOUR        ,"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11956_vertical_image_1721426058995.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11956_poster_image_1721426040434.jpeg",
-        "StreamID": "99944"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18119_vertical_image_1730366767017.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18119_poster_image_1730366766997.jpeg",
+        "StreamID": "107969"
     },
     {
-        "CUID": "11947",
-        "Title": "Al Guamatt",
+        "CUID": "2446",
+        "Title": "Imourane",
         "Category": "Movies",
-        "Synopsis": "Les événements tournent autour de Muhammad al-Kammat, qui décide de se venger de ses anciens créanciers, en les trompant et en leur faisant croire qu'il est en train de mourir, ce qui les a incités à s'emparer de sa fortune.",
+        "Synopsis": "C’est l’histoire de la jeune Tafoukt, soit le soleil en amazigh, et Bnadam, qui sont des enfants issus d’une seule tribu et qui se rencontrent dans la grotte d’Imourane… Un lieu plein de superstitions sur le mariage. Ils rêvent alors et font des projets d’avenir après leur union.",
         "Info": {
-            "Réalisateur": "Zakia Tahiri",
-            "Scénariste": "Zakia Tahiri",
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Azelarab Kaghat         ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11947_vertical_image_1721816340453.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11947_poster_image_1721816340430.jpeg",
-        "StreamID": "99937"
-    },
-    {
-        "CUID": "14237",
-        "Title": "MAMA AAROUSSA",
-        "Category": "Movies",
-        "Synopsis": "Aida est une maman célibataire qui depuis son divorce se consacre entièrement à son fils Amine, mais lorsque Jawad, un homme séduisant et prévenant croise son chemin, sa résolution de célibat ne tient plus. Mais la famille Jawad n'acceptera jamais que son fils se marie avec une maman divorcée. Alors Amine en connivence avec sa grand-mère décide de se faire passer pour le petit frère de Aida afin d'aider sa maman pour qu'elle puisse être enfin heureuse en amour. Qu'est-ce qui peut mal tourner ? Rien en théorie mais la réalité est tout autre...",
-        "Info": {
-            "Audio": "AR",
+            "Réalisateur": "Abdellah Dari",
+            "Scénariste": "Lahoucine Mourabih",
+            "Audio": "Tamazight        ,",
+            "Sous-titres": "Arabe",
             "Genres": "Drame",
-            "Distribution": "Fatima Ezzahra El Jaouhari        ,"
+            "Distribution": "Rachid Elhazmir         ,",
+            "Tags": "Imourane"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14237_vertical_image_1715006672388.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14237_poster_image_1715006672358.jpeg",
-        "StreamID": "103566"
-    },
-    {
-        "CUID": "1904",
-        "Title": "Al Bahlaouane - Sanae Wa Al Bahlaouane",
-        "Category": "Movies",
-        "Synopsis": "Quand Soufiane (Messoud BOUHSSINE) a quitté Sana (Farah EL FASSI), il n’a jamais pensé qu’il la reverrait un jour et des années plus tard, par le plus grand des hasards, le jeune homme finit par croiser son ex.  Entre temps, il a refait sa vie. Désormais, c’est un homme marié qui aime son épouse ou du moins, c’est ce qu’il croyait avant de revoir Sana. Partagé entre le passé et le présent, Soufiane est hanté par les souvenirs…",
-        "Info": {
-            "Réalisateur": "Mohamed Chrif Tribak",
-            "Scénariste": "Mohamed Benaboud",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Drame",
-            "Distribution": "Messaoud Bouhcine        ,",
-            "Tags": "Al Bahlaouane - Sanae Wa Al Bahlaouane"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1904_vertical_image_1677851035594.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1904_poster_image_1677850487503.jpeg",
-        "StreamID": "78269"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2446_vertical_image_1682076777978.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2446_poster_image_1682076324548.jpeg",
+        "StreamID": "80262"
     },
     {
         "CUID": "18085",
@@ -76,6 +44,36 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18085_vertical_image_1738237543839.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18085_poster_image_1738237543777.jpeg",
         "StreamID": "107935"
+    },
+    {
+        "CUID": "2448",
+        "Title": " Chadia",
+        "Category": "Movies",
+        "Synopsis": "Une histoire romantique qui raconte l'histoire d'un artiste plasticien qui vit dans des conditions financières difficiles qui l'empêchent de réaliser ses rêves et ses ambitions.Il rencontre une femme riche qui profite de son besoin d'argent et il accepte sa proposition de l'épouser.",
+        "Info": {
+            "Réalisateur": "Driss Chouika",
+            "Scénariste": "Larbi Bentarka",
+            "Audio": "Arabe        ,",
+            "Genres": "Drame",
+            "Distribution": "Sanaa Moubtassim        ,",
+            "Tags": "Chadia"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2448_vertical_image_1681821618658.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2448_poster_image_1681821481665.jpeg",
+        "StreamID": "80264"
+    },
+    {
+        "CUID": "18118",
+        "Title": "LE MANTEAU DE MON PERE",
+        "Category": "Movies",
+        "Synopsis": "Mokhtar est un père riche mais avare. Propriétaire de fermes, il oblige ses enfants à vivre dans la misère. En fait, Mokhtar n'a pas oublié la misère qu'il a vécue dans son enfance. C'est un vieil homme brisé qui s'inflige un dénuement total. L'avarice le pousse à des extrêmes, au point de s'interdire tout, même des vêtements neufs: il porte toujours le même manteau rapiécé.Son fils Khalid, qui rêve de succès, désespère d'avoir de l'aide de son père. Ce jeune diplômé désepère aussi de trouver un travail. Il n'a plus qu'une idée en tête: émigrer. Et pourquoi pas emporter le manteau de son père. La vie de Mokhtar devient infernale, lorsqu'il entre en conflit même avec ses filles.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Nezha Badr        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
+        "StreamID": "107968"
     },
     {
         "CUID": "14608",
@@ -151,20 +149,80 @@
         "StreamID": "107968"
     },
     {
-        "CUID": "11956",
-        "Title": "Dakirat Al Hob",
+        "CUID": "18119",
+        "Title": "ACHAOUCH",
         "Category": "Movies",
-        "Synopsis": "Myriam, rongée par la rancœur, s'est juré de faire payer à Hassan son infidélité. Sa rupture avec lui pour épouser Hanane l'a blessée profondément, la laissant aveugle à l'amour sincère que lui porte Reda. Ce dernier, dévoué et patient, multiplie les attentions et les sacrifices pour la consoler et la combler. Mais Myriam, obsédée par sa vengeance, ne voit pas ses efforts et reste insensible à ses sentiments.",
+        "Synopsis": "Sellam est coursier dans une administration. Il met souvent son nez dans les affaires d'autrui. Curieux et bavard, il prétend être un ami proche de l'un de ses supérieurs hiérarchiques. Il exhibe fièrement les quelques photos qu'il avait prises avec tous ceux qui se sont succédés sur le siège de responsable.Sellam ne rêve que d'une chose : grandir aux yeux de ses collègues et se frotter à « l'élite » de la ville. Bref, faire son entrée dans la sphère des riches. Un jour, Sellam tombe sur une note administrative concernant un projet de relogement des habitants de bidonvilles. Il cache ce document pour pouvoir se servir lui-même en premier.Sellam ne sait pas qu'en recourant à cette méthode malhonnête, il allait tomber dans le piège d'un arnaqueur...",
         "Info": {
-            "Réalisateur": "Safaa Baraka",
-            "Scénariste": "Dounia Boutazout",
             "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Dounia Boutazout        ,"
+            "Genres": "Drame        ,",
+            "Distribution": "Mohamed OUSFOUR        ,"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11956_vertical_image_1721426058995.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11956_poster_image_1721426040434.jpeg",
-        "StreamID": "99944"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18119_vertical_image_1730366767017.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18119_poster_image_1730366766997.jpeg",
+        "StreamID": "107969"
+    },
+    {
+        "CUID": "2446",
+        "Title": "Imourane",
+        "Category": "Movies",
+        "Synopsis": "C’est l’histoire de la jeune Tafoukt, soit le soleil en amazigh, et Bnadam, qui sont des enfants issus d’une seule tribu et qui se rencontrent dans la grotte d’Imourane… Un lieu plein de superstitions sur le mariage. Ils rêvent alors et font des projets d’avenir après leur union.",
+        "Info": {
+            "Réalisateur": "Abdellah Dari",
+            "Scénariste": "Lahoucine Mourabih",
+            "Audio": "Tamazight        ,",
+            "Sous-titres": "Arabe",
+            "Genres": "Drame",
+            "Distribution": "Rachid Elhazmir         ,",
+            "Tags": "Imourane"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2446_vertical_image_1682076777978.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2446_poster_image_1682076324548.jpeg",
+        "StreamID": "80262"
+    },
+    {
+        "CUID": "18085",
+        "Title": "AQBA LIK",
+        "Category": "Movies",
+        "Synopsis": "Zohra est une jeune et jolie trentenaire, indépendante financièrement, qui vit seule dans un appartement à Casablanca. A priori Zohra a tout pour être heureuse. Son unique problème : le célibat. En réalité, c'est plus un problème pour son entourage que pour elle : dès que Zohra est avec sa mère, ses tantes ou sa grand- mère, toutes n'ont qu'un mot à la bouche concernant le mariage : 'Okba Lik'.Afin de mettre fin à cette pression de plus en plus difficile à vivre ; Zohra se résout à chercher un mari. Mais comment faire ? Son collègue de bureau, Karim, a qui elle s'est confiée, lui suggère de s'inscrire sur un site de rencontres sur internet, ce qu'elle fait. C'est ainsi qu'elle rencontre Yassine, jeune cadre dynamique comme elle et qui a tout pour plaire. Zohra va se mettre à fréquenter Yassine de manière assidue et finit par tomber follement amoureuse de lui...",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame        ,",
+            "Distribution": "Aziz HETTAB        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18085_vertical_image_1738237543839.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18085_poster_image_1738237543777.jpeg",
+        "StreamID": "107935"
+    },
+    {
+        "CUID": "2448",
+        "Title": " Chadia",
+        "Category": "Movies",
+        "Synopsis": "Une histoire romantique qui raconte l'histoire d'un artiste plasticien qui vit dans des conditions financières difficiles qui l'empêchent de réaliser ses rêves et ses ambitions.Il rencontre une femme riche qui profite de son besoin d'argent et il accepte sa proposition de l'épouser.",
+        "Info": {
+            "Réalisateur": "Driss Chouika",
+            "Scénariste": "Larbi Bentarka",
+            "Audio": "Arabe        ,",
+            "Genres": "Drame",
+            "Distribution": "Sanaa Moubtassim        ,",
+            "Tags": "Chadia"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2448_vertical_image_1681821618658.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2448_poster_image_1681821481665.jpeg",
+        "StreamID": "80264"
+    },
+    {
+        "CUID": "18118",
+        "Title": "LE MANTEAU DE MON PERE",
+        "Category": "Movies",
+        "Synopsis": "Mokhtar est un père riche mais avare. Propriétaire de fermes, il oblige ses enfants à vivre dans la misère. En fait, Mokhtar n'a pas oublié la misère qu'il a vécue dans son enfance. C'est un vieil homme brisé qui s'inflige un dénuement total. L'avarice le pousse à des extrêmes, au point de s'interdire tout, même des vêtements neufs: il porte toujours le même manteau rapiécé.Son fils Khalid, qui rêve de succès, désespère d'avoir de l'aide de son père. Ce jeune diplômé désepère aussi de trouver un travail. Il n'a plus qu'une idée en tête: émigrer. Et pourquoi pas emporter le manteau de son père. La vie de Mokhtar devient infernale, lorsqu'il entre en conflit même avec ses filles.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Nezha Badr        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
+        "StreamID": "107968"
     },
     {
         "CUID": "11947",
@@ -181,6 +239,69 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11947_vertical_image_1721816340453.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11947_poster_image_1721816340430.jpeg",
         "StreamID": "99937"
+    },
+    {
+        "CUID": "2429",
+        "Title": "Tifinagh",
+        "Category": "Movies",
+        "Synopsis": "No synopsis available",
+        "Info": {
+            "Réalisateur": "Nabil Ayouch",
+            "Scénariste": "Hisham Lasri",
+            "Audio": "AR        ,",
+            "Genres": "Patrimonial",
+            "Distribution": "Jawad El Senani        ,",
+            "Tags": "Tifinar"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2429_vertical_image_1682605234299.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2429_poster_image_1682599666557.jpeg",
+        "StreamID": "80245"
+    },
+    {
+        "CUID": "2442",
+        "Title": "Bezdaz",
+        "Category": "Movies",
+        "Synopsis": "Les événements se déroulent dans un village balnéaire dont le mode de vie est lié à la pêche. Rais Jahmum, qui possède tous les bateaux et le seul magasin du village, s'empare de tous les revenus et trafic de la drogue.",
+        "Info": {
+            "Réalisateur": "Abbas farak",
+            "Audio": "Arabe        ,",
+            "Genres": "Drame",
+            "Distribution": "Aicha Mahmah        ,",
+            "Tags": "Bezdaz"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2442_vertical_image_1681223363349.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2442_poster_image_1681223363314.jpeg",
+        "StreamID": "80258"
+    },
+    {
+        "CUID": "2440",
+        "Title": "Rih",
+        "Category": "Movies",
+        "Synopsis": "Un couple marié mène une vie tranquille, malgré la différence d'âge entre eux, le mari étant plus âgé que sa femme. Toutefois, leur proximité et leur harmonie sont bouleversées par l'apparition d'une troisième personne dans leur vie, ce qui va transformer leur quotidien en enfer.",
+        "Info": {
+            "Réalisateur": "Abdelkamel Essebari",
+            "Scénariste": "Salah Jebali",
+            "Audio": "AR        ,",
+            "Genres": "Drame",
+            "Distribution": "Souad Saber        ,",
+            "Tags": "Rih"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2440_vertical_image_1681729032653.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2440_poster_image_1681728567132.jpeg",
+        "StreamID": "80256"
+    },
+    {
+        "CUID": "18577",
+        "Title": "Tah El Hok ou Sab Ghtah",
+        "Category": "Movies",
+        "Synopsis": "Masoud tente de sortir de la rue et de trouver un toit pour s’abriter sans perdre son sens de l’humour habituel et sa bonne humeur. Mais, un malheur n’arrivant jamais seul, il a été informé de son problème de santé. Un jour il rencontre Mbarka. Leurs situations similaires les rapprochent et une belle idylle commence alors entre Masoud et Mbarka qui semblent s'être bien trouvés. Un incident causé intentionnellement par Mbaraka mènera Masoud en prison où il découvrira que ses deux reins sont sains et qu'il ne souffre pas de problème de santé. À sa sortie de prison, Mbarka l’attend pour célébrer leur mariage, mais les problèmes les guettent de toutes parts. Réussiront-ils à se marier et à améliorer leur situation ?",
+        "Info": {
+            "Genres": "Comédie",
+            "Distribution": "Abdellah Ferkous        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18577_vertical_image_1729159020577.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18577_poster_image_1729159020547.jpeg",
+        "StreamID": "108592"
     },
     {
         "CUID": "14237",
@@ -215,18 +336,20 @@
         "StreamID": "78269"
     },
     {
-        "CUID": "18085",
-        "Title": "AQBA LIK",
+        "CUID": "11956",
+        "Title": "Dakirat Al Hob",
         "Category": "Movies",
-        "Synopsis": "Zohra est une jeune et jolie trentenaire, indépendante financièrement, qui vit seule dans un appartement à Casablanca. A priori Zohra a tout pour être heureuse. Son unique problème : le célibat. En réalité, c'est plus un problème pour son entourage que pour elle : dès que Zohra est avec sa mère, ses tantes ou sa grand- mère, toutes n'ont qu'un mot à la bouche concernant le mariage : 'Okba Lik'.Afin de mettre fin à cette pression de plus en plus difficile à vivre ; Zohra se résout à chercher un mari. Mais comment faire ? Son collègue de bureau, Karim, a qui elle s'est confiée, lui suggère de s'inscrire sur un site de rencontres sur internet, ce qu'elle fait. C'est ainsi qu'elle rencontre Yassine, jeune cadre dynamique comme elle et qui a tout pour plaire. Zohra va se mettre à fréquenter Yassine de manière assidue et finit par tomber follement amoureuse de lui...",
+        "Synopsis": "Myriam, rongée par la rancœur, s'est juré de faire payer à Hassan son infidélité. Sa rupture avec lui pour épouser Hanane l'a blessée profondément, la laissant aveugle à l'amour sincère que lui porte Reda. Ce dernier, dévoué et patient, multiplie les attentions et les sacrifices pour la consoler et la combler. Mais Myriam, obsédée par sa vengeance, ne voit pas ses efforts et reste insensible à ses sentiments.",
         "Info": {
+            "Réalisateur": "Safaa Baraka",
+            "Scénariste": "Dounia Boutazout",
             "Audio": "AR",
-            "Genres": "Drame        ,",
-            "Distribution": "Aziz HETTAB        ,"
+            "Genres": "Comédie",
+            "Distribution": "Dounia Boutazout        ,"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18085_vertical_image_1738237543839.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18085_poster_image_1738237543777.jpeg",
-        "StreamID": "107935"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11956_vertical_image_1721426058995.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11956_poster_image_1721426040434.jpeg",
+        "StreamID": "99944"
     },
     {
         "CUID": "11946",
@@ -257,72 +380,6 @@
         "StreamID": "99975"
     },
     {
-        "CUID": "2446",
-        "Title": "Imourane",
-        "Category": "Movies",
-        "Synopsis": "C’est l’histoire de la jeune Tafoukt, soit le soleil en amazigh, et Bnadam, qui sont des enfants issus d’une seule tribu et qui se rencontrent dans la grotte d’Imourane… Un lieu plein de superstitions sur le mariage. Ils rêvent alors et font des projets d’avenir après leur union.",
-        "Info": {
-            "Réalisateur": "Abdellah Dari",
-            "Scénariste": "Lahoucine Mourabih",
-            "Audio": "Tamazight        ,",
-            "Sous-titres": "Arabe",
-            "Genres": "Drame",
-            "Distribution": "Rachid Elhazmir         ,",
-            "Tags": "Imourane"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2446_vertical_image_1682076777978.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2446_poster_image_1682076324548.jpeg",
-        "StreamID": "80262"
-    },
-    {
-        "CUID": "2429",
-        "Title": "Tifinagh",
-        "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": {
-            "Réalisateur": "Nabil Ayouch",
-            "Scénariste": "Hisham Lasri",
-            "Audio": "AR        ,",
-            "Genres": "Patrimonial",
-            "Distribution": "Jawad El Senani        ,",
-            "Tags": "Tifinar"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2429_vertical_image_1682605234299.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2429_poster_image_1682599666557.jpeg",
-        "StreamID": "80245"
-    },
-    {
-        "CUID": "18119",
-        "Title": "ACHAOUCH",
-        "Category": "Movies",
-        "Synopsis": "Sellam est coursier dans une administration. Il met souvent son nez dans les affaires d'autrui. Curieux et bavard, il prétend être un ami proche de l'un de ses supérieurs hiérarchiques. Il exhibe fièrement les quelques photos qu'il avait prises avec tous ceux qui se sont succédés sur le siège de responsable.Sellam ne rêve que d'une chose : grandir aux yeux de ses collègues et se frotter à « l'élite » de la ville. Bref, faire son entrée dans la sphère des riches. Un jour, Sellam tombe sur une note administrative concernant un projet de relogement des habitants de bidonvilles. Il cache ce document pour pouvoir se servir lui-même en premier.Sellam ne sait pas qu'en recourant à cette méthode malhonnête, il allait tomber dans le piège d'un arnaqueur...",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Drame        ,",
-            "Distribution": "Mohamed OUSFOUR        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18119_vertical_image_1730366767017.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18119_poster_image_1730366766997.jpeg",
-        "StreamID": "107969"
-    },
-    {
-        "CUID": "2448",
-        "Title": " Chadia",
-        "Category": "Movies",
-        "Synopsis": "Une histoire romantique qui raconte l'histoire d'un artiste plasticien qui vit dans des conditions financières difficiles qui l'empêchent de réaliser ses rêves et ses ambitions.Il rencontre une femme riche qui profite de son besoin d'argent et il accepte sa proposition de l'épouser.",
-        "Info": {
-            "Réalisateur": "Driss Chouika",
-            "Scénariste": "Larbi Bentarka",
-            "Audio": "Arabe        ,",
-            "Genres": "Drame",
-            "Distribution": "Sanaa Moubtassim        ,",
-            "Tags": "Chadia"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2448_vertical_image_1681821618658.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2448_poster_image_1681821481665.jpeg",
-        "StreamID": "80264"
-    },
-    {
         "CUID": "11988",
         "Title": "Rbibi Millionnaire",
         "Category": "Movies",
@@ -333,23 +390,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11988_vertical_image_1721816982907.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11988_poster_image_1721816982881.jpeg",
         "StreamID": "99977"
-    },
-    {
-        "CUID": "2440",
-        "Title": "Rih",
-        "Category": "Movies",
-        "Synopsis": "Un couple marié mène une vie tranquille, malgré la différence d'âge entre eux, le mari étant plus âgé que sa femme. Toutefois, leur proximité et leur harmonie sont bouleversées par l'apparition d'une troisième personne dans leur vie, ce qui va transformer leur quotidien en enfer.",
-        "Info": {
-            "Réalisateur": "Abdelkamel Essebari",
-            "Scénariste": "Salah Jebali",
-            "Audio": "AR        ,",
-            "Genres": "Drame",
-            "Distribution": "Souad Saber        ,",
-            "Tags": "Rih"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2440_vertical_image_1681729032653.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2440_poster_image_1681728567132.jpeg",
-        "StreamID": "80256"
     },
     {
         "CUID": "14610",
@@ -364,19 +404,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14610_vertical_image_1713523607529.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14610_poster_image_1713523607499.jpeg",
         "StreamID": "104009"
-    },
-    {
-        "CUID": "18118",
-        "Title": "LE MANTEAU DE MON PERE",
-        "Category": "Movies",
-        "Synopsis": "Mokhtar est un père riche mais avare. Propriétaire de fermes, il oblige ses enfants à vivre dans la misère. En fait, Mokhtar n'a pas oublié la misère qu'il a vécue dans son enfance. C'est un vieil homme brisé qui s'inflige un dénuement total. L'avarice le pousse à des extrêmes, au point de s'interdire tout, même des vêtements neufs: il porte toujours le même manteau rapiécé.Son fils Khalid, qui rêve de succès, désespère d'avoir de l'aide de son père. Ce jeune diplômé désepère aussi de trouver un travail. Il n'a plus qu'une idée en tête: émigrer. Et pourquoi pas emporter le manteau de son père. La vie de Mokhtar devient infernale, lorsqu'il entre en conflit même avec ses filles.",
-        "Info": {
-            "Audio": "AR",
-            "Distribution": "Nezha Badr        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
-        "StreamID": "107968"
     },
     {
         "CUID": "11976",
@@ -437,22 +464,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14264_vertical_image_1713955202637.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14264_poster_image_1713955202597.jpeg",
         "StreamID": "103593"
-    },
-    {
-        "CUID": "2442",
-        "Title": "Bezdaz",
-        "Category": "Movies",
-        "Synopsis": "Les événements se déroulent dans un village balnéaire dont le mode de vie est lié à la pêche. Rais Jahmum, qui possède tous les bateaux et le seul magasin du village, s'empare de tous les revenus et trafic de la drogue.",
-        "Info": {
-            "Réalisateur": "Abbas farak",
-            "Audio": "Arabe        ,",
-            "Genres": "Drame",
-            "Distribution": "Aicha Mahmah        ,",
-            "Tags": "Bezdaz"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2442_vertical_image_1681223363349.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2442_poster_image_1681223363314.jpeg",
-        "StreamID": "80258"
     },
     {
         "CUID": "14608",
@@ -555,19 +566,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18842_vertical_image_1729868986491.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18842_poster_image_1729868986469.jpeg",
         "StreamID": "108797"
-    },
-    {
-        "CUID": "18577",
-        "Title": "Tah El Hok ou Sab Ghtah",
-        "Category": "Movies",
-        "Synopsis": "Masoud tente de sortir de la rue et de trouver un toit pour s’abriter sans perdre son sens de l’humour habituel et sa bonne humeur. Mais, un malheur n’arrivant jamais seul, il a été informé de son problème de santé. Un jour il rencontre Mbarka. Leurs situations similaires les rapprochent et une belle idylle commence alors entre Masoud et Mbarka qui semblent s'être bien trouvés. Un incident causé intentionnellement par Mbaraka mènera Masoud en prison où il découvrira que ses deux reins sont sains et qu'il ne souffre pas de problème de santé. À sa sortie de prison, Mbarka l’attend pour célébrer leur mariage, mais les problèmes les guettent de toutes parts. Réussiront-ils à se marier et à améliorer leur situation ?",
-        "Info": {
-            "Genres": "Comédie",
-            "Distribution": "Abdellah Ferkous        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18577_vertical_image_1729159020577.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18577_poster_image_1729159020547.jpeg",
-        "StreamID": "108592"
     },
     {
         "CUID": "18483",

@@ -239,6 +239,20 @@
                 "Episode": "E22",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/19854_tile_image_1739267962762.jpeg",
                 "streamId": "111206"
+            },
+            {
+                "CUID": "21263",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21263_tile_image_1739955996051.jpeg",
+                "streamId": "111348"
+            },
+            {
+                "CUID": "21262",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21262_tile_image_1739956241064.jpeg",
+                "streamId": "111347"
             }
         ]
     },
