@@ -1,5 +1,37 @@
 [
     {
+        "CUID": "346",
+        "Title": "Al Garabe",
+        "Category": "Movies",
+        "Synopsis": "L'histoire suit notre protagoniste qui très jeune, assiste au meurtre de sa petite sœur, il jure alors sur sa tombe qu'il se vengera même si cette vengeance lui prend toute sa vie.",
+        "Info": {
+            "Réalisateur": ",",
+            "Audio": "AR",
+            "Genres": "Action",
+            "Distribution": "Mourad Zaoui        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/346_vertical_image_1740264888236.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/346_poster_image_1740264888195.jpeg",
+        "StreamID": "76620"
+    },
+    {
+        "CUID": "2417",
+        "Title": "Ana Noura Awalan",
+        "Category": "Movies",
+        "Synopsis": "Le film suit notre protagoniste qui, à un mois de son trentième anniversaire, découvre dans son journal intime qu'elle s'est juré de ne pas se marier avant d'avoir exaucé ses huit souhaits. Sa vie professionnelle en est donc bouleversée, si bien qu'elle s'est confrontée aux tracas de la vie, mais cela lui permit d'apprendre de belles leçons.",
+        "Info": {
+            "Réalisateur": "Hicham Lasri",
+            "Scénariste": "Meriem Drissi        ,",
+            "Audio": "AR        ,",
+            "Genres": "Drame        ,",
+            "Distribution": "Mourad Zaoui        ,",
+            "Tags": "Ana Noura Awalan"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2417_vertical_image_1681992576325.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2417_poster_image_1681991254329.jpeg",
+        "StreamID": "80233"
+    },
+    {
         "CUID": "18119",
         "Title": "ACHAOUCH",
         "Category": "Movies",
@@ -44,36 +76,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18085_vertical_image_1738237543839.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18085_poster_image_1738237543777.jpeg",
         "StreamID": "107935"
-    },
-    {
-        "CUID": "2448",
-        "Title": " Chadia",
-        "Category": "Movies",
-        "Synopsis": "Une histoire romantique qui raconte l'histoire d'un artiste plasticien qui vit dans des conditions financières difficiles qui l'empêchent de réaliser ses rêves et ses ambitions.Il rencontre une femme riche qui profite de son besoin d'argent et il accepte sa proposition de l'épouser.",
-        "Info": {
-            "Réalisateur": "Driss Chouika",
-            "Scénariste": "Larbi Bentarka",
-            "Audio": "Arabe        ,",
-            "Genres": "Drame",
-            "Distribution": "Sanaa Moubtassim        ,",
-            "Tags": "Chadia"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2448_vertical_image_1681821618658.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2448_poster_image_1681821481665.jpeg",
-        "StreamID": "80264"
-    },
-    {
-        "CUID": "18118",
-        "Title": "LE MANTEAU DE MON PERE",
-        "Category": "Movies",
-        "Synopsis": "Mokhtar est un père riche mais avare. Propriétaire de fermes, il oblige ses enfants à vivre dans la misère. En fait, Mokhtar n'a pas oublié la misère qu'il a vécue dans son enfance. C'est un vieil homme brisé qui s'inflige un dénuement total. L'avarice le pousse à des extrêmes, au point de s'interdire tout, même des vêtements neufs: il porte toujours le même manteau rapiécé.Son fils Khalid, qui rêve de succès, désespère d'avoir de l'aide de son père. Ce jeune diplômé désepère aussi de trouver un travail. Il n'a plus qu'une idée en tête: émigrer. Et pourquoi pas emporter le manteau de son père. La vie de Mokhtar devient infernale, lorsqu'il entre en conflit même avec ses filles.",
-        "Info": {
-            "Audio": "AR",
-            "Distribution": "Nezha Badr        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
-        "StreamID": "107968"
     },
     {
         "CUID": "14608",
@@ -147,6 +149,38 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
         "StreamID": "107968"
+    },
+    {
+        "CUID": "346",
+        "Title": "Al Garabe",
+        "Category": "Movies",
+        "Synopsis": "L'histoire suit notre protagoniste qui très jeune, assiste au meurtre de sa petite sœur, il jure alors sur sa tombe qu'il se vengera même si cette vengeance lui prend toute sa vie.",
+        "Info": {
+            "Réalisateur": ",",
+            "Audio": "AR",
+            "Genres": "Action",
+            "Distribution": "Mourad Zaoui        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/346_vertical_image_1740264888236.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/346_poster_image_1740264888195.jpeg",
+        "StreamID": "76620"
+    },
+    {
+        "CUID": "2417",
+        "Title": "Ana Noura Awalan",
+        "Category": "Movies",
+        "Synopsis": "Le film suit notre protagoniste qui, à un mois de son trentième anniversaire, découvre dans son journal intime qu'elle s'est juré de ne pas se marier avant d'avoir exaucé ses huit souhaits. Sa vie professionnelle en est donc bouleversée, si bien qu'elle s'est confrontée aux tracas de la vie, mais cela lui permit d'apprendre de belles leçons.",
+        "Info": {
+            "Réalisateur": "Hicham Lasri",
+            "Scénariste": "Meriem Drissi        ,",
+            "Audio": "AR        ,",
+            "Genres": "Drame        ,",
+            "Distribution": "Mourad Zaoui        ,",
+            "Tags": "Ana Noura Awalan"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2417_vertical_image_1681992576325.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2417_poster_image_1681991254329.jpeg",
+        "StreamID": "80233"
     },
     {
         "CUID": "18119",
@@ -1056,39 +1090,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1907_vertical_image_1706526498035.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1907_poster_image_1706522788112.jpeg",
         "StreamID": "78275"
-    },
-    {
-        "CUID": "2426",
-        "Title": " ELLE",
-        "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": {
-            "Réalisateur": "Brahim Chkiri",
-            "Scénariste": "Brahim Chkiri        ,",
-            "Audio": "Arabe        ,",
-            "Genres": "Drame",
-            "Distribution": "Rachid Elhazmir         ,",
-            "Tags": "Elle"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2426_vertical_image_1681903705687.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2426_poster_image_1681773881364.jpeg",
-        "StreamID": "80242"
-    },
-    {
-        "CUID": "651",
-        "Title": "La Warda La Hanane",
-        "Category": "Movies",
-        "Synopsis": "Les événements se déroulent dans une société qui vit des luttes de classes, laissant subsister des problèmes matériels et moraux sur différents plans : professionnel, familial et social...Comme le montre le personnage de Hanane, qui est forcée d'affronter les difficultés de la vie après la mort de son mari. ",
-        "Info": {
-            "Réalisateur": "Said Khallaf",
-            "Scénariste": "Aziz Satouri",
-            "Audio": "AR",
-            "Genres": "Drame",
-            "Distribution": "Farid Regragui        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/651_vertical_image_1708691717235.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/651_poster_image_1708690517566.jpeg",
-        "StreamID": "77241"
     },
     {
         "CUID": "15330",

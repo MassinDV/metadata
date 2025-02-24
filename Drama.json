@@ -9485,5 +9485,46 @@
                 "streamId": "96237"
             }
         ]
+    },
+    {
+        "Name": "Wlad Ali",
+        "Category": "Drama",
+        "Episodes": [
+            {
+                "CUID": "1783",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1783_tile_image_1675424162431.jpeg",
+                "streamId": "77849"
+            },
+            {
+                "CUID": "1782",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1782_tile_image_1675424168673.jpeg",
+                "streamId": "77848"
+            },
+            {
+                "CUID": "1781",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1781_tile_image_1675424174411.jpeg",
+                "streamId": "77847"
+            },
+            {
+                "CUID": "1780",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1780_tile_image_1675424179981.jpeg",
+                "streamId": "77846"
+            },
+            {
+                "CUID": "1691",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1691_tile_image_1675424186057.jpeg",
+                "streamId": "77757"
+            }
+        ]
     }
 ]
