@@ -165,6 +165,7 @@ $categories = [
     'History' => 'https://forja.ma/category/series?g=histoire-serie&contentType=playlist&lang=fr',
     'Docs' => 'https://forja.ma/category/fnqxzgjwehxiksgbfujypbplresdjsiegtngcqwm?lang=fr',
     'Kids' => 'https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=fr',
+    'Ramadan' => 'https://forja.ma/category/okzcntibiugptsesdsuzbtydjuudvoirezaifofo?lang=fr',
     'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr',
 ];
 
