@@ -9755,6 +9755,41 @@
                 "Episode": "E05",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1672_tile_image_1696332948572.jpeg",
                 "streamId": "77738"
+            },
+            {
+                "CUID": "1671",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1671_tile_image_1696332954237.jpeg",
+                "streamId": "77737"
+            },
+            {
+                "CUID": "1670",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1670_tile_image_1696332960004.jpeg",
+                "streamId": "77736"
+            },
+            {
+                "CUID": "1669",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1669_tile_image_1696332966306.jpeg",
+                "streamId": "77735"
+            },
+            {
+                "CUID": "1668",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1668_tile_image_1696332971958.jpeg",
+                "streamId": "77734"
+            },
+            {
+                "CUID": "1667",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1667_tile_image_1696332979238.jpeg",
+                "streamId": "77733"
             }
         ]
     },
@@ -9781,6 +9816,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21420_tile_image_1740762130144.jpeg",
                 "streamId": "111489"
+            },
+            {
+                "CUID": "21398",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21398_tile_image_1740838798689.jpeg",
+                "streamId": "21398"
             }
         ]
     },
