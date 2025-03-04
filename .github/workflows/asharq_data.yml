@@ -1,9 +1,9 @@
-name: Daily Data Scraping
+name: Asharq Daily Data Scraping
 
 on:
   schedule:
-  - cron: '5 0 * * *'  # Runs every day at 12:05 AM UTC
-  workflow_dispatch:  # Allows manual triggering of the workflow
+  - cron: '0 0,12 * * *'  # Runs at 12:00 AM and 12:00 PM GMT
+  workflow_dispatch:     # Allows manual triggering of the workflow
 
 jobs:
   scrape:
@@ -29,10 +29,10 @@ jobs:
         sudo mv composer.phar /usr/local/bin/composer
 
     - name: Run Scraper Script 1
-      run: php sforjascraper.php
+      run: php asharq/epgroya.php
 
     - name: Run Scraper Script 2
-      run: php movforjascraper.php
+      run: php asharq/nowasharq.php
 
     - name: Commit and push changes (if new data is available)
       env:
