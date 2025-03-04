@@ -17,7 +17,7 @@ function fetchJsonData($url) {
 function getCategoryFromUrl($url) {
     $path = parse_url($url, PHP_URL_PATH);
     $segments = explode('/', $path);
-    return urldecode($segments[3]);
+    return urldecode($segments[3]); // Extracts category like "ثقافة" or "رياضة"
 }
 
 // Function to capitalize slug (e.g., "australias-open" to "Australias Open")
@@ -144,16 +144,23 @@ function processMovieData($data, $category) {
     return $movies;
 }
 
-// Function to merge and export data to JSON
+// Function to merge and export data to JSON in a specific folder
 function appendToJson($newData, $filename, $uniqueKey) {
+    $folder = 'Asharq';
+    if (!file_exists($folder)) {
+        mkdir($folder, 0777, true); // Create folder if it doesn't exist
+    }
+    $filepath = "$folder/$filename";
+
     $existingData = [];
-    if (file_exists($filename)) {
-        $existingData = json_decode(file_get_contents($filename), true);
+    if (file_exists($filepath)) {
+        $existingData = json_decode(file_get_contents($filepath), true);
         if (!is_array($existingData)) {
             $existingData = [];
         }
     }
 
+    // Merge new data with existing data
     $mergedData = $existingData;
     foreach ($newData as $item) {
         $key = $uniqueKey === 'CUID' ? $item[$uniqueKey] : ($item['Name'] . '|' . $item['Category']);
@@ -177,6 +184,7 @@ function appendToJson($newData, $filename, $uniqueKey) {
         }
     }
 
+    // Remove duplicates within episodes for shows
     if ($uniqueKey !== 'CUID') {
         foreach ($mergedData as &$show) {
             $uniqueEpisodes = [];
@@ -189,8 +197,8 @@ function appendToJson($newData, $filename, $uniqueKey) {
     }
 
     $jsonData = json_encode($uniqueKey === 'CUID' ? array_values($mergedData) : $mergedData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
-    file_put_contents($filename, $jsonData);
-    echo "Data appended to $filename successfully.\n";
+    file_put_contents($filepath, $jsonData);
+    echo "Data appended to $filepath successfully.\n";
 }
 
 // API URLs
@@ -225,15 +233,15 @@ foreach ($urls as $url) {
     }
 }
 
-// Append to JSON files
+// Append to JSON files in Asharq folder
 if (!empty($allShowData)) {
-    appendToJson($allShowData, 'shows_with_episodes_output.json', 'Name');
+    appendToJson($allShowData, 'showdocs.json', 'Name');
 } else {
     echo "No 'show' or 'episode' data to append.\n";
 }
 
 if (!empty($allMovieData)) {
-    appendToJson($allMovieData, 'movies_output.json', 'CUID');
+    appendToJson($allMovieData, 'movdocs.json', 'CUID');
 } else {
     echo "No 'movie' data to append.\n";
 }
