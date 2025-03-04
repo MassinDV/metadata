@@ -29,10 +29,10 @@ jobs:
         sudo mv composer.phar /usr/local/bin/composer
 
     - name: Run Scraper Script 1
-      run: php sforjascraper.php
+      run: php epgroya.php
 
     - name: Run Scraper Script 2
-      run: php movforjascraper.php
+      run: php nowasharq.php
 
     - name: Commit and push changes (if new data is available)
       env:
