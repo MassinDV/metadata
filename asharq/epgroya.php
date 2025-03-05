@@ -104,7 +104,7 @@ for ($page = 1; $page <= 6; $page++) {
 
 // Save XML to file
 $doc->formatOutput = true;
-$doc->save('./epg/royaepg.xml');
+$doc->save('royaepg.xml');
 
 echo "EPG file has been created successfully.\n";
 
