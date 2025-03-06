@@ -281,6 +281,13 @@
                 "Episode": "E26",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21427_tile_image_1740588481118.png",
                 "streamId": "111497"
+            },
+            {
+                "CUID": "21566",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21566_tile_image_1741178082183.jpeg",
+                "streamId": "111621"
             }
         ]
     },
@@ -9844,6 +9851,20 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21516_tile_image_1740999041862.jpeg",
                 "streamId": "111570"
+            },
+            {
+                "CUID": "21541",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21541_tile_image_1741086906406.jpeg",
+                "streamId": "111595"
+            },
+            {
+                "CUID": "21567",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21567_tile_image_1741177042876.jpeg",
+                "streamId": "111655"
             }
         ]
     },
