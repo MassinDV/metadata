@@ -1362,17 +1362,17 @@
         "StreamID": "84775"
     },
     {
-        "CUID": null,
+        "CUID": "15429",
         "Title": "Al Bayda Fi Tass",
         "Category": "Theater",
         "Synopsis": "Un jeune homme sous la garde d'un père autoritaire.  Les circonstances veulent que le jeune homme rejoigne un travail dans une autre ville, et là il fera la connaissance d'une fille et l'épousera secrètement par peur de l'oppression de son père, qui lui rend visite avec sa nièce, souhaitant la marier avec lui...",
         "Info": {
-            "الصوت": "AR",
-            "توزيع الأدوار": "Mohamed El Jem        ,"
+            "Audio": "AR",
+            "Distribution": "Mohamed El Jem        ,"
         },
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15429_vertical_image_1722796065010.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15429_poster_image_1722796064991.jpeg",
+        "StreamID": "105135"
     },
     {
         "CUID": "4950",
