@@ -53,30 +53,28 @@ function formatSeriesName($name) {
     return $name;
 }
 
-// Function to check if an episode already exists in the data
-function isEpisodeExists($episodes, $cuid) {
-    foreach ($episodes as $episode) {
-        if ($episode['CUID'] === $cuid) {
-            return true;
-        }
-    }
-    return false;
-}
-
 // Function to process a category and save data to a JSON file
 function processCategory($categoryUrl, $categoryName) {
+    $jsonFileName = "$categoryName.json";
+    $existingData = [];
+    $existingEpisodesMap = [];
+
+    // Load existing data if JSON file exists
+    if (file_exists($jsonFileName)) {
+        $jsonContent = file_get_contents($jsonFileName);
+        $existingData = json_decode($jsonContent, true) ?? [];
+        foreach ($existingData as $series) {
+            foreach ($series['Episodes'] ?? [] as $episode) {
+                $existingEpisodesMap[$episode['CUID']] = true;
+            }
+        }
+    }
+
+    // Scrape series URLs from the category page
     $urls = scrapeUrlsFromCategory($categoryUrl);
     if (empty($urls)) {
         echo "No series found for category: $categoryName\n";
         return;
-    }
-
-    $jsonFileName = "$categoryName.json";
-    $existingData = [];
-    // Check if JSON file exists and load existing data
-    if (file_exists($jsonFileName)) {
-        $jsonContent = file_get_contents($jsonFileName);
-        $existingData = json_decode($jsonContent, true) ?? [];
     }
 
     foreach ($urls as $url) {
@@ -86,69 +84,65 @@ function processCategory($categoryUrl, $categoryName) {
             continue;
         }
 
-        $seriesName = $html->find('meta[data-hid="title"]', 0)->content ?? 'UnknownSeries';
-        // Format the series name
+        // Extract series name
+        $seriesName = $html->find('meta[data-hid="title"]', 0)?->content ?? 'UnknownSeries';
         $seriesName = formatSeriesName($seriesName);
 
+        // Find episode containers and process them
         $episodes = [];
         $episodeNumber = 1;
 
         foreach ($html->find('div.episode-container') as $episodeContainer) {
-            $imageUrl = $episodeContainer->find('img', 0)->src ?? '';
-            $cuid = extractIdFromImageUrl($imageUrl);
-
-            if ($cuid) {
-                $proxyUrl = "https://api.forja.ma/pages/proxy/content/$cuid/stream_url?lang=fr";
-                $redirectUrl = getRedirectUrl($proxyUrl);
-                $redirectId = extractIdFromRedirectUrl($redirectUrl);
-
-                if ($redirectId) {
-                    // Removed the streamUrl assignment and added streamId
-                    $streamId = "$redirectId";
-
-                    // Check if the episode already exists in the existing data
-                    $isDuplicate = false;
-                    foreach ($existingData as $series) {
-                        if ($series['Name'] === $seriesName && isEpisodeExists($series['Episodes'], $cuid)) {
-                            $isDuplicate = true;
-                            break;
-                        }
-                    }
-
-                    if (!$isDuplicate) {
-                        $episodes[] = [
-                            'CUID' => $cuid,
-                            'Session' => "S01",
-                            'Episode' => sprintf("E%02d", $episodeNumber), // Formats as E01, E02, etc.
-                            'imageUrl' => $imageUrl,
-                            'streamId' => $streamId // Added streamId here
-                        ];
-                        $episodeNumber++;
-                    }
-                }
+            $imageUrl = $episodeContainer->find('img', 0)?->src ?? '';
+            if (empty($imageUrl)) {
+                echo "Missing image URL for series: $seriesName\n";
+                continue;
             }
+
+            $cuid = extractIdFromImageUrl($imageUrl);
+            if (!$cuid || isset($existingEpisodesMap[$cuid])) {
+                echo "Duplicate or invalid CUID for series: $seriesName\n";
+                continue;
+            }
+
+            // Fetch stream ID
+            $proxyUrl = "https://api.forja.ma/pages/proxy/content/$cuid/stream_url?lang=fr";
+            $redirectUrl = getRedirectUrl($proxyUrl);
+            $streamId = extractIdFromRedirectUrl($redirectUrl);
+
+            if (!$streamId) {
+                echo "Failed to extract stream ID for CUID: $cuid\n";
+                continue;
+            }
+
+            // Add the episode
+            $episodes[] = [
+                'CUID' => $cuid,
+                'Session' => 'S01', // Update this logic if multiple seasons exist
+                'Episode' => sprintf("E%02d", $episodeNumber),
+                'imageUrl' => $imageUrl,
+                'streamId' => $streamId,
+            ];
+
+            $episodeNumber++;
         }
 
+        // Append new episodes to existing data
         if (!empty($episodes)) {
-            // Check if the series already exists in the existing data
-            $seriesIndex = -1;
-            foreach ($existingData as $index => $series) {
+            $found = false;
+            foreach ($existingData as &$series) {
                 if ($series['Name'] === $seriesName) {
-                    $seriesIndex = $index;
+                    $series['Episodes'] = array_merge($series['Episodes'], $episodes);
+                    $found = true;
                     break;
                 }
             }
-
-            if ($seriesIndex === -1) {
-                // Add new series
+            if (!$found) {
                 $existingData[] = [
                     'Name' => $seriesName,
                     'Category' => $categoryName,
-                    'Episodes' => $episodes
+                    'Episodes' => $episodes,
                 ];
-            } else {
-                // Append new episodes to existing series
-                $existingData[$seriesIndex]['Episodes'] = array_merge($existingData[$seriesIndex]['Episodes'], $episodes);
             }
         }
     }
