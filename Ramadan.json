@@ -13,35 +13,35 @@
             {
                 "CUID": "21516",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E02",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21516_tile_image_1740999041862.jpeg",
                 "streamId": "111570"
             },
             {
                 "CUID": "21541",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E03",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21541_tile_image_1741086906406.jpeg",
                 "streamId": "111595"
             },
             {
                 "CUID": "21567",
                 "Session": "S01",
-                "Episode": "E02",
+                "Episode": "E04",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21567_tile_image_1741177042876.jpeg",
                 "streamId": "111655"
             },
             {
                 "CUID": "21635",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E05",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21635_tile_image_1741276421651.jpeg",
                 "streamId": "111694"
             },
             {
                 "CUID": "21645",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E06",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21645_tile_image_1741342917045.jpeg",
                 "streamId": "111713"
             }
@@ -61,21 +61,21 @@
             {
                 "CUID": "21517",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E02",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21517_tile_image_1740998630948.png",
                 "streamId": "111571"
             },
             {
                 "CUID": "21539",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E02",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21539_tile_image_1741085036186.jpeg",
                 "streamId": "111593"
             },
             {
                 "CUID": "21563",
                 "Session": "S01",
-                "Episode": "E02",
+                "Episode": "E03",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21563_tile_image_1741177587641.jpeg",
                 "streamId": "111618"
             },
@@ -89,7 +89,7 @@
             {
                 "CUID": "21646",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E04",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21646_tile_image_1741342870966.jpeg",
                 "streamId": "111711"
             }
@@ -109,35 +109,35 @@
             {
                 "CUID": "21518",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E02",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21518_tile_image_1740999306620.jpeg",
                 "streamId": "111573"
             },
             {
                 "CUID": "21540",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E03",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21540_tile_image_1741086008748.jpeg",
                 "streamId": "111594"
             },
             {
                 "CUID": "21565",
                 "Session": "S01",
-                "Episode": "E02",
+                "Episode": "E04",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21565_tile_image_1741177552476.jpeg",
                 "streamId": "111657"
             },
             {
                 "CUID": "21632",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E05",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21632_tile_image_1741276456079.jpeg",
                 "streamId": "111691"
             },
             {
                 "CUID": "21647",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E06",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21647_tile_image_1741342801579.jpeg",
                 "streamId": "111712"
             }
@@ -157,35 +157,35 @@
             {
                 "CUID": "21533",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E02",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21533_tile_image_1741014832602.jpeg",
                 "streamId": "111587"
             },
             {
                 "CUID": "21556",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E03",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21556_tile_image_1741103714091.jpeg",
                 "streamId": "111610"
             },
             {
                 "CUID": "21595",
                 "Session": "S01",
-                "Episode": "E02",
+                "Episode": "E04",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21595_tile_image_1741198324268.jpeg",
                 "streamId": "111652"
             },
             {
                 "CUID": "21636",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E05",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21636_tile_image_1741277586897.jpeg",
                 "streamId": "111695"
             },
             {
                 "CUID": "21690",
                 "Session": "S01",
-                "Episode": "E01",
+                "Episode": "E06",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21690_tile_image_1741370896864.jpeg",
                 "streamId": "111738"
             }
