@@ -5178,5 +5178,18 @@
                 "streamId": "111577"
             }
         ]
+    },
+    {
+        "Name": "Ahl Al Maghrib",
+        "Category": "Docs",
+        "Episodes": [
+            {
+                "CUID": "21660",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21660_tile_image_1741349959348.jpeg",
+                "streamId": "111723"
+            }
+        ]
     }
 ]

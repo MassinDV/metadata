@@ -5708,6 +5708,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21690_tile_image_1741370896864.jpeg",
                 "streamId": "111738"
+            },
+            {
+                "CUID": "21709",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21709_tile_image_1741456071230.jpeg",
+                "streamId": "111754"
             }
         ]
     },
@@ -13385,6 +13392,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21646_tile_image_1741342870966.jpeg",
                 "streamId": "111711"
+            },
+            {
+                "CUID": "21697",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21697_tile_image_1741447254808.jpeg",
+                "streamId": "111745"
             }
         ]
     },
@@ -13453,6 +13467,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21647_tile_image_1741342801579.jpeg",
                 "streamId": "111712"
+            },
+            {
+                "CUID": "21698",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21698_tile_image_1741449777655.jpeg",
+                "streamId": "111746"
             }
         ]
     },
@@ -13521,6 +13542,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21643_tile_image_1741343103054.jpeg",
                 "streamId": "111710"
+            },
+            {
+                "CUID": "21696",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21696_tile_image_1741446982724.jpeg",
+                "streamId": "111744"
             }
         ]
     }
