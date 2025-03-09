@@ -125,44 +125,62 @@
         "StreamID": "80255"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "18483",
+        "Title": "La puce",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "« La puce » est un téléfilm comique qui raconte l’histoire de Saïd , un jeune homme considéré comme une « star » influente des réseaux sociaux. Le jour de son anniversaire, Saïd reçoit d'étranges appels, après avoir acheté une puce de téléphone déjà utilisée, de personnes souhaitant contacter l’ancien propriétaire du numéro de téléphone. Il se retrouve dans une aventure numérique en rebondissements et en situations comiques avec l’aide de son amie Dalal.",
+        "Info": {
+            "Genres": "Comédie",
+            "Distribution": "Ibtissam Laaroussi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18483_vertical_image_1728641678794.png",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18483_poster_image_1728641900981.png",
+        "StreamID": "108353"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "18118",
+        "Title": "LE MANTEAU DE MON PERE",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Mokhtar est un père riche mais avare. Propriétaire de fermes, il oblige ses enfants à vivre dans la misère. En fait, Mokhtar n'a pas oublié la misère qu'il a vécue dans son enfance. C'est un vieil homme brisé qui s'inflige un dénuement total. L'avarice le pousse à des extrêmes, au point de s'interdire tout, même des vêtements neufs: il porte toujours le même manteau rapiécé.Son fils Khalid, qui rêve de succès, désespère d'avoir de l'aide de son père. Ce jeune diplômé désepère aussi de trouver un travail. Il n'a plus qu'une idée en tête: émigrer. Et pourquoi pas emporter le manteau de son père. La vie de Mokhtar devient infernale, lorsqu'il entre en conflit même avec ses filles.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Nezha Badr        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
+        "StreamID": "107968"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "346",
+        "Title": "Al Garabe",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "L'histoire suit notre protagoniste qui très jeune, assiste au meurtre de sa petite sœur, il jure alors sur sa tombe qu'il se vengera même si cette vengeance lui prend toute sa vie.",
+        "Info": {
+            "Réalisateur": ",",
+            "Audio": "AR",
+            "Genres": "Action",
+            "Distribution": "Mourad Zaoui        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/346_vertical_image_1740264888236.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/346_poster_image_1740264888195.jpeg",
+        "StreamID": "76620"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2417",
+        "Title": "Ana Noura Awalan",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Le film suit notre protagoniste qui, à un mois de son trentième anniversaire, découvre dans son journal intime qu'elle s'est juré de ne pas se marier avant d'avoir exaucé ses huit souhaits. Sa vie professionnelle en est donc bouleversée, si bien qu'elle s'est confrontée aux tracas de la vie, mais cela lui permit d'apprendre de belles leçons.",
+        "Info": {
+            "Réalisateur": "Hicham Lasri",
+            "Scénariste": "Meriem Drissi        ,",
+            "Audio": "AR        ,",
+            "Genres": "Drame        ,",
+            "Distribution": "Mourad Zaoui        ,",
+            "Tags": "Ana Noura Awalan"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2417_vertical_image_1681992576325.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2417_poster_image_1681991254329.jpeg",
+        "StreamID": "80233"
     },
     {
         "CUID": "18119",
@@ -179,54 +197,82 @@
         "StreamID": "107969"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2446",
+        "Title": "Imourane",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "C’est l’histoire de la jeune Tafoukt, soit le soleil en amazigh, et Bnadam, qui sont des enfants issus d’une seule tribu et qui se rencontrent dans la grotte d’Imourane… Un lieu plein de superstitions sur le mariage. Ils rêvent alors et font des projets d’avenir après leur union.",
+        "Info": {
+            "Réalisateur": "Abdellah Dari",
+            "Scénariste": "Lahoucine Mourabih",
+            "Audio": "Tamazight        ,",
+            "Sous-titres": "Arabe",
+            "Genres": "Drame",
+            "Distribution": "Rachid Elhazmir         ,",
+            "Tags": "Imourane"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2446_vertical_image_1682076777978.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2446_poster_image_1682076324548.jpeg",
+        "StreamID": "80262"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "18085",
+        "Title": "AQBA LIK",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Zohra est une jeune et jolie trentenaire, indépendante financièrement, qui vit seule dans un appartement à Casablanca. A priori Zohra a tout pour être heureuse. Son unique problème : le célibat. En réalité, c'est plus un problème pour son entourage que pour elle : dès que Zohra est avec sa mère, ses tantes ou sa grand- mère, toutes n'ont qu'un mot à la bouche concernant le mariage : 'Okba Lik'.Afin de mettre fin à cette pression de plus en plus difficile à vivre ; Zohra se résout à chercher un mari. Mais comment faire ? Son collègue de bureau, Karim, a qui elle s'est confiée, lui suggère de s'inscrire sur un site de rencontres sur internet, ce qu'elle fait. C'est ainsi qu'elle rencontre Yassine, jeune cadre dynamique comme elle et qui a tout pour plaire. Zohra va se mettre à fréquenter Yassine de manière assidue et finit par tomber follement amoureuse de lui...",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame        ,",
+            "Distribution": "Aziz HETTAB        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18085_vertical_image_1738237543839.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18085_poster_image_1738237543777.jpeg",
+        "StreamID": "107935"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2448",
+        "Title": " Chadia",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Une histoire romantique qui raconte l'histoire d'un artiste plasticien qui vit dans des conditions financières difficiles qui l'empêchent de réaliser ses rêves et ses ambitions.Il rencontre une femme riche qui profite de son besoin d'argent et il accepte sa proposition de l'épouser.",
+        "Info": {
+            "Réalisateur": "Driss Chouika",
+            "Scénariste": "Larbi Bentarka",
+            "Audio": "Arabe        ,",
+            "Genres": "Drame",
+            "Distribution": "Sanaa Moubtassim        ,",
+            "Tags": "Chadia"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2448_vertical_image_1681821618658.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2448_poster_image_1681821481665.jpeg",
+        "StreamID": "80264"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "18118",
+        "Title": "LE MANTEAU DE MON PERE",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Mokhtar est un père riche mais avare. Propriétaire de fermes, il oblige ses enfants à vivre dans la misère. En fait, Mokhtar n'a pas oublié la misère qu'il a vécue dans son enfance. C'est un vieil homme brisé qui s'inflige un dénuement total. L'avarice le pousse à des extrêmes, au point de s'interdire tout, même des vêtements neufs: il porte toujours le même manteau rapiécé.Son fils Khalid, qui rêve de succès, désespère d'avoir de l'aide de son père. Ce jeune diplômé désepère aussi de trouver un travail. Il n'a plus qu'une idée en tête: émigrer. Et pourquoi pas emporter le manteau de son père. La vie de Mokhtar devient infernale, lorsqu'il entre en conflit même avec ses filles.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Nezha Badr        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
+        "StreamID": "107968"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "11947",
+        "Title": "Al Guamatt",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Les événements tournent autour de Muhammad al-Kammat, qui décide de se venger de ses anciens créanciers, en les trompant et en leur faisant croire qu'il est en train de mourir, ce qui les a incités à s'emparer de sa fortune.",
+        "Info": {
+            "Réalisateur": "Zakia Tahiri",
+            "Scénariste": "Zakia Tahiri",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Azelarab Kaghat         ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11947_vertical_image_1721816340453.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11947_poster_image_1721816340430.jpeg",
+        "StreamID": "99937"
     },
     {
         "CUID": "2429",
@@ -292,14 +338,18 @@
         "StreamID": "108592"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "14237",
+        "Title": "MAMA AAROUSSA",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Aida est une maman célibataire qui depuis son divorce se consacre entièrement à son fils Amine, mais lorsque Jawad, un homme séduisant et prévenant croise son chemin, sa résolution de célibat ne tient plus. Mais la famille Jawad n'acceptera jamais que son fils se marie avec une maman divorcée. Alors Amine en connivence avec sa grand-mère décide de se faire passer pour le petit frère de Aida afin d'aider sa maman pour qu'elle puisse être enfin heureuse en amour. Qu'est-ce qui peut mal tourner ? Rien en théorie mais la réalité est tout autre...",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Fatima Ezzahra El Jaouhari        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14237_vertical_image_1715006672388.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14237_poster_image_1715006672358.jpeg",
+        "StreamID": "103566"
     },
     {
         "CUID": "1904",
@@ -320,14 +370,20 @@
         "StreamID": "78269"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "11956",
+        "Title": "Dakirat Al Hob",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Myriam, rongée par la rancœur, s'est juré de faire payer à Hassan son infidélité. Sa rupture avec lui pour épouser Hanane l'a blessée profondément, la laissant aveugle à l'amour sincère que lui porte Reda. Ce dernier, dévoué et patient, multiplie les attentions et les sacrifices pour la consoler et la combler. Mais Myriam, obsédée par sa vengeance, ne voit pas ses efforts et reste insensible à ses sentiments.",
+        "Info": {
+            "Réalisateur": "Safaa Baraka",
+            "Scénariste": "Dounia Boutazout",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Dounia Boutazout        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11956_vertical_image_1721426058995.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11956_poster_image_1721426040434.jpeg",
+        "StreamID": "99944"
     },
     {
         "CUID": "11946",
@@ -358,104 +414,147 @@
         "StreamID": "99975"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "11988",
+        "Title": "Rbibi Millionnaire",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Une comédie sur la vie d'une famille qui vit dans la paix et dans la stabilité jusqu'à ce qu'un événement inattendu se produise et bouleverse sa vie.",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11988_vertical_image_1721816982907.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11988_poster_image_1721816982881.jpeg",
+        "StreamID": "99977"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "14610",
+        "Title": "AKHIR KALAM",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Internée dans un hôpital psychiatrique, Nadia, la soixantaine, décide de se suicider et sauter de la terrasse de l´hôpital. Le Docteur Ibtissam psychiatre est sollicité pour éviter le drame. Cette dernière usera de toutes les notions pour dissuader la patiente désespérée et faire tomber sa détermination en présence de la sureté nationale, des pompiers et de tout le corps médical...",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Hicham El Ouali        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14610_vertical_image_1713523607529.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14610_poster_image_1713523607499.jpeg",
+        "StreamID": "104009"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "11976",
+        "Title": "Khafat Rjel",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Hisham est obligé d'épouser Kelthum, sachant qu'ils ne se connaissent pas. Hisham est détenu par le père de Kulthum pour découvrir quelle est la relation qui les lie l'un à l'autre, au milieu de nombreuses situations délicates.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Comédie"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11976_vertical_image_1721426506034.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11976_poster_image_1721426500864.jpeg",
+        "StreamID": "99965"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2439",
+        "Title": "Moudakirat Wardia",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Les événements tournent autour de la vie de Mme (Wardia), qui est mère de deux enfants, et souffre de troubles psychologiques, ce qui l'oblige à recourir à un psychiatre, et les événements révèlent les causes qui ont conduit à ces troubles.",
+        "Info": {
+            "Réalisateur": "Mohammed Houseni",
+            "Scénariste": "Brahim Ali Boubakdi",
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Mohamed Marouazi        ,",
+            "Tags": "Moudakirat Wardia"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2439_vertical_image_1678186660665.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2439_poster_image_1676626181253.jpeg",
+        "StreamID": "80255"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1889",
+        "Title": "Houb Wa Ghadab",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Lalla Zahra, devenue veuve suite a la mort de son mari qui a péri en mer, travaille comme femme de ménage pour subvenir aux besoins de ses enfants Younes et Youssef. Le premier décide de quitter l’école pour devenir marin comme son père. Son rêve est d’être l'homme fort du port de Larache. Le second poursuit ses études et réussit un parcours brillant. A la fac, Youssef vit une passion amoureuse avec Houda. Mais sa vie va être bouleversée, le jour ou il va écoper de 20 ans de prison, a cause de son militantisme. En même temps, Houda découvre qu'elle est enceinte et se tourne vers Younes, pour la protéger de sa famille...",
+        "Info": {
+            "Réalisateur": "Abdeslam Kelai",
+            "Scénariste": "Aziz Belhejjam        ,",
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Amine Ennaji        ,",
+            "Tags": "Houb Wa Ghadab"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1889_vertical_image_1677151324521.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1889_poster_image_1677152294543.jpeg",
+        "StreamID": "81374"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "14264",
+        "Title": "SAMT ADDAKIRA",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "SAMT ADDAKIRASynopsis : Meryem, romancière, rend visite à son père retraité et découvre que celui-ci souffre de l'Alzheimer. Elle essaye de le réconcilier avec son passé et tente de retrouver les traces de son frère Adil, anthropologue installé au Canada depuis 20 ans... Le frère revient au pays mais le père disparaît. Accompagné de Lamia, son amour de jeunesse, Adil part à la recherche du père...Fiche technique :Réalisation : Abdeslam KELAIScénario : Adil BELHAJJAM & Abdeslam KELAIGenre : DrameCasting : Abdellatif CHAOUKI, Mohammed CHOUBI, Kalila BOUNAYLAT, Younes BOUAB.Durée : 90 minutesAnnée : 2015",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Younes Bouab        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14264_vertical_image_1713955202637.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14264_poster_image_1713955202597.jpeg",
+        "StreamID": "103593"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "14608",
+        "Title": "Azzawj Mitali",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Assâad, haut fonctionnaire et député, est un homme à qui tout réussit. Il est admiré de toute la bonne société rbatie pour sa probité et sa rigueur morale. Il est aussi l'heureux époux de la parfaite Selma. Mais cette belle image risque d'être détruite à jamais, lorsque l'intrigante Jamila Tazi débarque dans sa vie, pour lui rappeler une vieille affaire de corruption... Assâad craint de perdre l'amour et l'admiration de sa femme qui voit en lui 'un mari idéal'.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Yassine AHJAM        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14608_vertical_image_1713959685771.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14608_poster_image_1713959685735.jpeg",
+        "StreamID": "104007"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "11979",
+        "Title": "Al Matmoura",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Les événements du film ont lieu durant la colonisation française au Maroc, pour révéler de multiples histoires de la résistance marocaine, et comment le peuple marocain a réussi à affronter les forces d'occupation, malgré la torture et l'injustice qu'il subissait.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11979_vertical_image_1721426197967.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11979_poster_image_1721426192419.jpeg",
+        "StreamID": "99968"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "14235",
+        "Title": "Janb Al Bahr",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "SYNOPSIS :  Mi Saadia, femme de ménage dans une salle de cinéma, est une mère-courage qui a perdu deux de ses enfants, morts dans des tentatives d'immigration clandestine. Le troisième disparaît avec le même objectif. Mi Saadia part à sa recherche dans l'enfer de Casablanca, le milieu de la rue et des réseaux de passeurs. Il y rencontre un enfant abandonné qui tente d'être reconnu par son père biologique, le commissaire El Maati... Mi Saadia et le petit SDF s'entraident dans leur quête respective du fils et du père.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Rachid El Ouali        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14235_vertical_image_1713959338806.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14235_poster_image_1713959338771.jpeg",
+        "StreamID": "103564"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2438",
+        "Title": "Al Kenz",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Un employé est convaincu par l'un de ses amis de rechercher un trésor. Il commence les fouilles et néglige son travail, sa maison et gaspille son argent en apportant les fonds nécessaires pour sortir le trésor. Finalement, il découvre qu'il n'y a pas de trésor et qu'il a tout perdu.",
+        "Info": {
+            "Réalisateur": "Mohamed Kortobi",
+            "Scénariste": "Mohamed Kortobi",
+            "Audio": "AR        ,",
+            "Genres": "Drame        ,",
+            "Distribution": "Hamid Zoughi        ,",
+            "Tags": "Al Kenz"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2438_vertical_image_1690892459382.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2438_poster_image_1690888717271.jpeg",
+        "StreamID": "80254"
     },
     {
         "CUID": "2418",
@@ -475,34 +574,45 @@
         "StreamID": "80234"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "15461",
+        "Title": "Makatib ",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Makatib ",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Said Bey        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15461_vertical_image_1729006976481.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15461_poster_image_1729006976449.jpeg",
+        "StreamID": "105097"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "18842",
+        "Title": "Fndeq Bba Moussa",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Un hôtel qui cache bien des mystères…   Youness est un écrivain et romancier bien connu qui s'est toujours consacré à l'écriture et à la créativité, mais cela fait quelques années qu'il manque d’inspiration.  Lors d'une importante conférence de presse, une journaliste l'embarrasse en lui demandant la date de sortie de son prochain ouvrage et il se retrouve contraint de déclarer qu'il est en train d'écrire un roman qui sera prêt d'ici trois mois. Une promesse qu'il lui sera difficile de tenir.   Nima, une amie proche de Youness et qui éprouve des sentiments amoureux pour lui, lui propose de faire un voyage dans différentes villes du Maroc pour puiser l’inspiration. Ils s'installent alors à l'hôtel « Ba Moussa », où logent des personnes marginalisées et dont la situation est précaire.   Le séjour de Youness dans cet hôtel le conduira à la découverte d'énigmes, révélant  des meurtres survenus dans le passé. Avec l’aide de la journaliste Sabrine, Youness tente de mener l'enquête afin de découvrir ce qu'il s’est réellement passé. Parviendront-ils à percer le mystère autour de ces crimes ?",
+        "Info": {
+            "Réalisateur": "Adil Elfadili",
+            "Genres": "Drame",
+            "Distribution": "Abdellah Didane        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18842_vertical_image_1729868986491.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18842_poster_image_1729868986469.jpeg",
+        "StreamID": "108797"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "18483",
+        "Title": "La puce",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "« La puce » est un téléfilm comique qui raconte l’histoire de Saïd , un jeune homme considéré comme une « star » influente des réseaux sociaux. Le jour de son anniversaire, Saïd reçoit d'étranges appels, après avoir acheté une puce de téléphone déjà utilisée, de personnes souhaitant contacter l’ancien propriétaire du numéro de téléphone. Il se retrouve dans une aventure numérique en rebondissements et en situations comiques avec l’aide de son amie Dalal.",
+        "Info": {
+            "Genres": "Comédie",
+            "Distribution": "Ibtissam Laaroussi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18483_vertical_image_1728641678794.png",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18483_poster_image_1728641900981.png",
+        "StreamID": "108353"
     },
     {
         "CUID": "1894",
@@ -523,14 +633,17 @@
         "StreamID": "78249"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "17790",
+        "Title": "Moule Ihsae",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Moule Ihsae",
+        "Info": {
+            "Audio": "Arabe",
+            "Genres": "Comédie"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/17790_vertical_image_1726685618165.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/17790_poster_image_1727278148029.jpeg",
+        "StreamID": "107644"
     },
     {
         "CUID": "1910",
@@ -551,134 +664,214 @@
         "StreamID": "78281"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "15464",
+        "Title": "Coucou lbnat",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Halima devient une star des réseaux sociaux en partageant son quotidien sur YouTube, comblant sa solitude grâce à sa communauté grandissante. Cependant, son mari Ali est jaloux et réticent face à cette vie virtuelle. Un incident imprévu multiplie ses abonnés et ses revenus. Comment Ali réagira-t-il ? Succombera-t-il au luxe ou restera-t-il fidèle à ses principes dans un monde obsédé par les apparences ? \"Une vie virtuelle\" explore ce phénomène de société moderne.",
+        "Info": {
+            "Réalisateur": "Safaa Baraka",
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Ibtissam Laaroussi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15464_vertical_image_1727882429153.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15464_poster_image_1727263204424.jpeg",
+        "StreamID": "105100"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "14604",
+        "Title": "Lweekend",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Saleh accepte, après insistance de son épouse, de quitter Marrakech pour passer le week-end à Essaouira en famille.Sur la route, il s'arrête pour contrôler la voiture empruntée à un ami. Son fils Saad profite de la pause et descend de la voiture.Le père redémarre, oubliant son fils au bord de la route... Le week-end s'annonce compromis.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Abdellah Ferkous        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14604_vertical_image_1714991378806.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14604_poster_image_1713959232249.jpeg",
+        "StreamID": "104003"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "13941",
+        "Title": "BATIMA 42",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "BATIMA 42",
+        "Info": {
+            "Réalisateur": "Yassine Fennane",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "El Mehdi Foullan        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13941_vertical_image_1721425867607.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13941_poster_image_1721425845791.jpeg",
+        "StreamID": "103226"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1884",
+        "Title": "Aarss Addib",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "El Kamla vit un drame, lorsque son père lui enlève le bébé qu'il vient de mettre au monde, au moment même ou on lui annonce le décès de son mari, tue dans le désert. Triste et abattue, elle se mure dans le silence. Son mariage arrange avec un riche commerçant veuf ne comblera pas le vide affectif qu'il ressent. Marginalisée par sa belle-famille qui la trouve étrange, elle partage quelques rares moments de joie avec la fille de son nouveau mari. Un jour, elle croise un petit garçon qu'il croit, poussée par son instinct maternel, être son fils enlevé",
+        "Info": {
+            "Réalisateur": "Sana Akroud",
+            "Scénariste": "Sana Akroud",
+            "Audio": "AR        ,",
+            "Genres": "Drame        ,",
+            "Distribution": "Fatima Boujou        ,",
+            "Tags": "3arss Addib"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1884_vertical_image_1680090860876.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1884_poster_image_1680090838239.jpeg",
+        "StreamID": "78229"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1902",
+        "Title": "Qalbi Bghah ",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Zineb, responsable événements et banquets, travaille sous les ordres de Mourad,  Directeur commercial arrogant d'une grande chaine d'hotels de luxe.   Jeune et sur de lui, il  pointe  les fautes des employés, et celles de Zineb en particulier. Aussi, quand il demande a Zineb de l'épouser, elle tombe des nues. Il ne parle pas d'amour, mais de motivations rationnelles et pratiques. En se rapprochant de lui petit a petit, elle découvre un nouveau visage de Mourad.",
+        "Info": {
+            "Réalisateur": "Hicham El Jebbari",
+            "Scénariste": "Meryem Drissi",
+            "Audio": "AR        ,",
+            "Sous-titres": "Français",
+            "Genres": "Drame",
+            "Distribution": "Nasser Akabab        ,",
+            "Tags": "Qalbi Bghah"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1902_vertical_image_1695120530664.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1902_poster_image_1677491600656.jpeg",
+        "StreamID": "78265"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "470",
+        "Title": "Menni Mennek",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Salah et Radia   sont la risée de leur entourage. Tous les prétextes sont bons pour se disputer et il ne passe pas un jour sans qu’ils ne se chamaillent.  Cette situation ne fait pas l’affaire de leur fils unique qui, avec sa femme Nadia, habite sous le même toit que ses parents.   Comment les réconcilier sans prendre parti… C’est le dilemme de son quotidien sachant que les deux n’hésitent pas à lui faire payer ses prises de position. Comment sortir alors de cet imbroglio ? L’intervention des voisins ne va que rajouter à la confusion dans une succession de situations comiques qui n’en sont pas moins porteuses de messages concernant notre société.   Mais au fond, Salah et Radia ont-ils vraiment besoin de quelqu’un pour les réconcilier ? Leurs disputes constituent-elles une réelle menace pour leur couple ? C’est là toute la question…",
+        "Info": {
+            "Réalisateur": "Abdellah Ferkous",
+            "Scénariste": "Abdelmajid Lmhdoubi",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Zahira Sadik        ,",
+            "Tags": "Menni Mennek"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/470_vertical_image_1681381618708.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/470_poster_image_1674049581537.jpeg",
+        "StreamID": "76824"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1898",
+        "Title": "Baba Tconecta",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Lhaj Chaoui, traiteur marrakchi, s'implique dans l'education de ses trois filles apres le deces de sa femme. Ses journees sont reglees comme du papier a musique, jusqu'au jour ou il decouvre l'ecran de l'ordinateur une photo de lui rajeuni, aux cotes de sa mere devenue blonde par la magie de Photoshop ! Il decide de s'interesser de pres au  monde virtuel de l'internet pour mieux connaitre ses filles.",
+        "Info": {
+            "Réalisateur": "Farida Bourquia",
+            "Scénariste": "Abdessamad  El Fettal",
+            "Audio": "AR        ,",
+            "Sous-titres": "Français",
+            "Genres": "Comédie",
+            "Distribution": "Aicha Mahmah        ,",
+            "Tags": "Baba Tconecta"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1898_vertical_image_1681394368705.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1898_poster_image_1677075330709.jpeg",
+        "StreamID": "81372"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "11951",
+        "Title": "Al Khatib",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Une comédie sur une étudiante en médecine qui vit avec trois frères, chacun ayant son propre tempérament et son comportement. Ils l'aiment beaucoup, mais ils rejettent tous, l'idée qu'elle épouse le jeune l'homme qu'elle aime ce qui va créer beaucoup de problèmes.",
+        "Info": {
+            "Réalisateur": "Abdellah Ferkous",
+            "Scénariste": "Abdelmajid Lmhdoubi",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Aziz Hattab        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11951_vertical_image_1721815102778.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11951_poster_image_1721815102752.jpeg",
+        "StreamID": "99939"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "13940",
+        "Title": "JAREB TCHOF",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Saleh, un employé de la bibliothèque municipal qui mène une vie tout à fait normale. C’est un homme sérieux et travailleur qui craint l'autorité et ne sait pas faire entendre sa voix. Jusqu'au jour où les autorités locales menacent de fermer la bibliothèque et la remplacer par une salle de fête.   Un jour, il découvre l’existence d’un génie entre les livres. Ce dernier serait capable de transformer la personnalité de Saleh grâce à des manuscrits magiques.  S'ensuit une série de situations plus drôles les unes que les autres, au gré des changements de personnalité de Saleh… ",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Aziz Dadas        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13940_vertical_image_1721815265635.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13940_poster_image_1721815265612.jpeg",
+        "StreamID": "103225"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2017",
+        "Title": "Souq Nssa",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "\"Souq Nssa\" est une histoire pleine de rebondissements, dans laquelle le bien fait face aux forces du mal. Au coeur de l'intrigue, le Sultan des Tolbas (étudiants). Ce dernier, symbolise dans la mémoire collective, l’érudition en matière de langues, de théologie et de savoir en général.  Quand il décide de partir en voyage pour compléter ses connaissances théoriques, il se lance dans une aventure qui ne sera pas de tout repos. Jonchée d’embûches et marquée de rencontres comme celle avec la charmante Taja, une jeune femme qui incarne la ruse et l'intelligence au féminin.  Ce voyage initiatique sera, pour le Sultan des Tolbas, riche en enseignements et en découvertes. Des leçons d'une grande valeur autour de la vie et de la femme...",
+        "Info": {
+            "Réalisateur": "Fatima Ali Boubakdi",
+            "Scénariste": "Brahim Ali Boubakdi",
+            "Audio": "AR        ,",
+            "Sous-titres": "Français",
+            "Genres": "Patrimonial        ,",
+            "Distribution": "Hanane Zouhdi        ,",
+            "Tags": "Souq Nssa"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2017_vertical_image_1677753277425.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2017_poster_image_1677752450023.jpeg",
+        "StreamID": "78495"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "646",
+        "Title": "Takrim",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Sarhane Nawrass, un écrivain et romancier célèbre qui accumulé de nombreuses publications littéraires, reçoit l’invitation d’une des associations de Casablanca afin d’assister à sa cérémonie d’honneur.  S’attendant à ce que cet honneur s’accompagne d’un montant financier de 10 millions de centimes, le voyage de Sarhane depuis Agadir vers Casablanca ne se passe finalement comme prévu.",
+        "Info": {
+            "Réalisateur": ",",
+            "Audio": "AR",
+            "Distribution": ","
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/646_vertical_image_1675331020510.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/646_poster_image_1675331020509.jpeg",
+        "StreamID": "76834"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2427",
+        "Title": "Yamna ",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Yamna raconte une histoire d'amour entre mensonge et abandon. La belle Yamna ne fait que mentir et manipuler ceux qui tombent sous son charme. Cependant, ils ne peuvent pas la quitter car elle les captive d'une manière qui leur ferait tout abandonner pour elle...",
+        "Info": {
+            "Réalisateur": "Abdullah Al Yazni",
+            "Scénariste": "Hicham Amal",
+            "Audio": "AR        ,",
+            "Genres": "Comédie",
+            "Distribution": "Abderrazzak Al Zaytouni        ,",
+            "Tags": "Yamna"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2427_vertical_image_1681395860611.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2427_poster_image_1681395843600.jpeg",
+        "StreamID": "80243"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1891",
+        "Title": "Tlata Delferhate",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Souilem et Souilah sont frères, ainsi que voisins d'habitation et de commerce. Souilem a trois filles et Souilah trois garçons. Souilem est au bord de la faillite, et certains pensent que c'est à cause de la poisse que lui portent ses trois filles. Il se voit alors contraint de vendre son commerce à son frère Souilah, qui, lui, réussit tout ce qu'il entreprend. Mais les évènements vont montrer que contrairement aux préjugés, Souilem détient le plus grand des trésors : ses trois filles. Ces dernières seront source de richesse et de bonheur, non seulement pour leur père mais aussi pour leur oncle et leurs trois cousins.",
+        "Info": {
+            "Réalisateur": "Driss Sawab",
+            "Audio": "Arabe        ,",
+            "Sous-titres": "Français",
+            "Genres": "Drame",
+            "Distribution": "Sakina Lafdaili        ,",
+            "Tags": "Tlata Delferhate"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1891_vertical_image_1682420361254.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1891_poster_image_1682419566646.jpeg",
+        "StreamID": "78243"
     },
     {
         "CUID": "1892",
@@ -699,54 +892,86 @@
         "StreamID": "104217"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1899",
+        "Title": "Chrif Moul Lbaraka",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Lhaj Driss a tout pour lui : une femme aimante, une bijouterie en pleine expansion, une fortune enviée par tous.. Mais voilà que Cherif, un faux dévot, prônant la parole de Dieu, se glisse dans sa vie et la fait basculer. Du jour au lendemain, Lhaj se transforme et les femmes de sa famille en sont les premières victimes...",
+        "Info": {
+            "Réalisateur": "Samia Akariou",
+            "Scénariste": "Sonia Terrab",
+            "Audio": "Arabe        ,",
+            "Sous-titres": "Français",
+            "Genres": "Comédie",
+            "Distribution": "Zineb Ennajem        ,",
+            "Tags": "Chrif Moul Lbaraka"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1899_vertical_image_1681381003284.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1899_poster_image_1676901293772.jpeg",
+        "StreamID": "81004"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "14236",
+        "Title": "AL MAKINA",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Said est un petit fonctionnaire âgé d'une quarantaine d'années. Pour faire plaisir à sa femme Zineb, qui aime se mettre en valeur devant ses voisines, il achète à crédit une machine à laver. Ce qui lui vaudra un cadeau de la part de la société de produits électroménagers : un week-end pour deux personnes à Agadir. C'est le début d'une aventure imprévue pour ce Marrakchi, qui croit avoir gagné un voyage de rêve !",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Abdellah Ferkous        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14236_vertical_image_1713278634592.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14236_poster_image_1713278634566.jpeg",
+        "StreamID": "103565"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2415",
+        "Title": "Awili O Marhaba",
         "Category": "Movies",
         "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Info": {
+            "Réalisateur": "Narjiss Nejjar",
+            "Scénariste": "Narjiss Nejjar",
+            "Audio": "Arabe        ,",
+            "Genres": "Comédie",
+            "Distribution": "Aziz Hattab        ,",
+            "Tags": "Awili O Marhaba"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2415_vertical_image_1691505996566.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2415_poster_image_1691506094652.jpeg",
+        "StreamID": "80231"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "344",
+        "Title": "Iktichaf",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Adnan cherche à inventer et à découvrir de nouvelles choses qui profitent à la société, mais il rencontre de nombreux obstacles sur son chemin pour réaliser son rêve.",
+        "Info": {
+            "Réalisateur": "Yazid Al Qadri",
+            "Scénariste": "Moncef El Kadiri",
+            "Audio": "AR        ,",
+            "Genres": "Drame",
+            "Distribution": "Mohamed Choubi        ,",
+            "Tags": "Iktichaf"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/344_vertical_image_1673262481522.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/344_poster_image_1673262481521.jpeg",
+        "StreamID": "76614"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1073",
+        "Title": "Âami Noufel",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "L'histoire d'un couple qui n'a pas pu avoir d'enfant et décide d'adopter un vieil homme, ce qui les expose aux critiques de leur entourage. Peut-être leur décision est-elle due au fait qu'ils ont vécu orphelins dans leur jeunesse et souhaitaient être compensés par la tendresse du père perdu.",
+        "Info": {
+            "Réalisateur": "Hicham Lasri",
+            "Scénariste": "Yahya El Fandi        ,",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Yahya El Fandi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1073_vertical_image_1683903269269.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1073_poster_image_1683903269232.jpeg",
+        "StreamID": "77239"
     },
     {
         "CUID": "1067",
@@ -763,14 +988,21 @@
         "StreamID": "77233"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "2020",
+        "Title": "Al Kanz Al Marsoud",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "El Bachir est un modeste paysan éleveur, qui possède deux lopins de terre et une vingtaine de moutons. Conscient du fait que l’héritage est source de conflits et de ruptures, il décide de son vivant, de donner à chacun de ses deux fils sa part. Après avoir pris possession de leurs biens, Mahjoub et Mbarek délaissent leur père et s’occupent à faire fructifier leurs affaires et propriétés. El Bachir utilisera alors la ruse pour leur donner une leçon de vie...",
+        "Info": {
+            "Scénariste": "Brahim Ali Boubakdi",
+            "Audio": "AR        ,",
+            "Sous-titres": "Français",
+            "Genres": "Drame        ,",
+            "Distribution": "Kalila Bounaylat        ,",
+            "Tags": "Al Kanz Al Marsoud"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2020_vertical_image_1684499823885.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2020_poster_image_1684498556060.jpeg",
+        "StreamID": "78501"
     },
     {
         "CUID": "3146",
@@ -790,43 +1022,549 @@
         "StreamID": "81411"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "3147",
+        "Title": "Lbes Keddek",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Issue d’une famille modeste, Safia est une jeune femme qui rêve d’une vie ostentatoire . Elle épouse Mohcine, un jeune cadre ambitieux, qui se rend compte rapidement à quel point sa femme est dépensière.",
+        "Info": {
+            "Réalisateur": "Mohamed Amine Mounna",
+            "Scénariste": "Bouchra Malek",
+            "Audio": "AR        ,",
+            "Genres": "Drame",
+            "Distribution": "Meryem Bakouch        ,",
+            "Tags": "Lbes Kedek"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/3147_vertical_image_1712240234501.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/3147_poster_image_1712240234316.jpeg",
+        "StreamID": "81412"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1887",
+        "Title": "Sbaâ Lyali",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Vivre l'amour à quarante ans, l'âge où la maturité fait son travail et nous pousse à réfléchir profondément dans notre quête de l'âme sœur. C'est l'histoire d'une célibataire sans enfants, Kenza, propriétaire d'un Riad destiné au tourisme raffiné. La crise sanitaire et la solitude la poussent à vendre son bien et à quitter le Maroc. Une firme russe vivement intéressée par le Riad lui envoie un certain Alexis, spécialiste des investissements étrangers, pour conclure la vente. Le coup de foudre est immédiat. Mais Alexis, alias Ali, a besoin de retrouver la résilience avant de se lancer dans une histoire d'amour. Ils n'ont que 7 jours pour prendre une décision qui risque de chambouler toute leur existence.",
+        "Info": {
+            "Réalisateur": "Chaouki El Oufir",
+            "Scénariste": "Samia Akariou        ,",
+            "Audio": "AR        ,",
+            "Sous-titres": "Français",
+            "Genres": "Drame",
+            "Distribution": "Malika El Omari        ,",
+            "Tags": "Sba3 Lyali"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1887_vertical_image_1677584010216.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1887_poster_image_1677582814763.jpeg",
+        "StreamID": "78235"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1906",
+        "Title": "Achabih",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "Synopsis": "Driss et Ahmed, les deux fils du millionnaire Hajj Thami, complotent pour lui retirer la gestion de sa fortune, sous prétexte qu'il n'a plus toute sa tête. Ce dernier réussit à leur échapper et erre dans les rues de la ville. Mais les deux frères tombent sur un sosie de leur père et comptent bien profiter de cette incroyable ressemblance pour arriver à leur fin…",
+        "Info": {
+            "Réalisateur": "Abderrahim Majd",
+            "Scénariste": "ahmed amal        ,",
+            "Audio": "AR        ,",
+            "Sous-titres": "Français",
+            "Genres": "Drame        ,",
+            "Distribution": "Nabil Atif        ,",
+            "Tags": "Achabih"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1906_vertical_image_1681392581906.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1906_poster_image_1677241021463.jpeg",
+        "StreamID": "78273"
     },
     {
-        "CUID": null,
-        "Title": "Unknown Title",
+        "CUID": "1907",
+        "Title": "Al Âati Allah",
         "Category": "Movies",
-        "Synopsis": "No synopsis available",
+        "Synopsis": "Lhaj El Maâti est un vieux veuf tyrannique et extrêmement avare. Quand un héritage lui tombe dessus, ses enfants veulent enfin avoir une belle vie et décident de lui jouer un tour. Mais c'est sans compter sur la ruse et la perfidie de Lhaj, qui décide de retourner tous les complots en sa faveur... Rira bien qui rira le dernier !",
+        "Info": {
+            "Réalisateur": "Samia Akariou",
+            "Scénariste": "Samia Akariou        ,",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "Saadia Ladib        ,",
+            "Tags": "Al 3ati Allah"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1907_vertical_image_1706526498035.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1907_poster_image_1706522788112.jpeg",
+        "StreamID": "78275"
+    },
+    {
+        "CUID": "15330",
+        "Title": "Kabarha Tesghar ",
+        "Category": "Theater",
+        "Synopsis": "La pièce tente, à travers ses axes, de soulever les problèmes et les enjeux auxquels un simple salarié est exposé lorsqu'il entre en contact avec l'employeur, ce qui expose les intérêts des clients à des pertes et préjudices dus à la routine administrative.",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15330_vertical_image_1739703292538.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15330_poster_image_1739703292494.jpeg",
+        "StreamID": "105180"
+    },
+    {
+        "CUID": "5864",
+        "Title": "Nssib Al-wazir",
+        "Category": "Theater",
+        "Synopsis": "La pièce présente l'abus d'influence d'un gendre du ministre qui a utilisé la parenté pour escroquer les gens, alors le ministre a douté de ses actions, il lui a tendu un piège jusqu'à ce qu'il soit pris en flagrant délit et puni comme toutes les autres personnes, ainsi le ministre limite les malheurs de son gendre envers les citoyens..",
+        "Info": {
+            "Réalisateur": "Mustapha Fakir",
+            "Audio": "AR",
+            "Distribution": "Zhor Slimani"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5864_vertical_image_1685097144973.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5864_poster_image_1685097144932.jpeg",
+        "StreamID": "84781"
+    },
+    {
+        "CUID": "5859",
+        "Title": "Qdam Rbah",
+        "Category": "Theater",
+        "Synopsis": "Une pièce théâtrale comique qui tourne autour de Jilali, qui, après avoir été à la retraite, s’est livré à une activité commerciale avec la participation de sa femme, mais est rapidement victime de détournements de fonds, avec des situations sociales comiques qui l'accompagnent.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Nezha Regragui        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5859_vertical_image_1701945989833.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5859_poster_image_1701945975839.jpeg",
+        "StreamID": "84776"
+    },
+    {
+        "CUID": "1553",
+        "Title": "star acadeby",
+        "Category": "Theater",
+        "Synopsis": "Semblables à des compétitions connues, nous vivons des situations satiriques et parodiques dans Sattar Akadibi, qui fait des contes une pièce divertissante où la musique se mêle à l'humour. Les personnages caricaturaux créent des événements comiques.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Anouar El Joundi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1553_vertical_image_1684937954103.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1553_poster_image_1701690308926.jpeg",
+        "StreamID": "77616"
+    },
+    {
+        "CUID": "4948",
+        "Title": "Lah Yataamna Halal",
+        "Category": "Theater",
+        "Synopsis": "Que se passe-t-il lorsque la femme révèle l'infidélité de son mari et comment le mari agit-il dans cette situation pour se déclarer innocent ? Des événements que nous vivrons avec des personnages qui miment la réalité vécue.",
+        "Info": {
+            "Réalisateur": "Mustapha Fakir",
+            "Audio": "AR",
+            "Distribution": "Amina Rachid        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/4948_vertical_image_1689172565135.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/4948_poster_image_1689172553223.jpeg",
+        "StreamID": "83776"
+    },
+    {
+        "CUID": "15330",
+        "Title": "Kabarha Tesghar ",
+        "Category": "Theater",
+        "Synopsis": "La pièce tente, à travers ses axes, de soulever les problèmes et les enjeux auxquels un simple salarié est exposé lorsqu'il entre en contact avec l'employeur, ce qui expose les intérêts des clients à des pertes et préjudices dus à la routine administrative.",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15330_vertical_image_1739703292538.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15330_poster_image_1739703292494.jpeg",
+        "StreamID": "105180"
+    },
+    {
+        "CUID": "5864",
+        "Title": "Nssib Al-wazir",
+        "Category": "Theater",
+        "Synopsis": "La pièce présente l'abus d'influence d'un gendre du ministre qui a utilisé la parenté pour escroquer les gens, alors le ministre a douté de ses actions, il lui a tendu un piège jusqu'à ce qu'il soit pris en flagrant délit et puni comme toutes les autres personnes, ainsi le ministre limite les malheurs de son gendre envers les citoyens..",
+        "Info": {
+            "Réalisateur": "Mustapha Fakir",
+            "Audio": "AR",
+            "Distribution": "Zhor Slimani"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5864_vertical_image_1685097144973.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5864_poster_image_1685097144932.jpeg",
+        "StreamID": "84781"
+    },
+    {
+        "CUID": "5859",
+        "Title": "Qdam Rbah",
+        "Category": "Theater",
+        "Synopsis": "Une pièce théâtrale comique qui tourne autour de Jilali, qui, après avoir été à la retraite, s’est livré à une activité commerciale avec la participation de sa femme, mais est rapidement victime de détournements de fonds, avec des situations sociales comiques qui l'accompagnent.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Nezha Regragui        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5859_vertical_image_1701945989833.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5859_poster_image_1701945975839.jpeg",
+        "StreamID": "84776"
+    },
+    {
+        "CUID": "1553",
+        "Title": "star acadeby",
+        "Category": "Theater",
+        "Synopsis": "Semblables à des compétitions connues, nous vivons des situations satiriques et parodiques dans Sattar Akadibi, qui fait des contes une pièce divertissante où la musique se mêle à l'humour. Les personnages caricaturaux créent des événements comiques.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Anouar El Joundi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1553_vertical_image_1684937954103.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1553_poster_image_1701690308926.jpeg",
+        "StreamID": "77616"
+    },
+    {
+        "CUID": "4948",
+        "Title": "Lah Yataamna Halal",
+        "Category": "Theater",
+        "Synopsis": "Que se passe-t-il lorsque la femme révèle l'infidélité de son mari et comment le mari agit-il dans cette situation pour se déclarer innocent ? Des événements que nous vivrons avec des personnages qui miment la réalité vécue.",
+        "Info": {
+            "Réalisateur": "Mustapha Fakir",
+            "Audio": "AR",
+            "Distribution": "Amina Rachid        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/4948_vertical_image_1689172565135.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/4948_poster_image_1689172553223.jpeg",
+        "StreamID": "83776"
+    },
+    {
+        "CUID": "5840",
+        "Title": "Hada Nta",
+        "Category": "Theater",
+        "Synopsis": "Hada Nta traite un ensemble de problèmes sociaux immédiats qui s'articulent autour de l'un des plus importants problèmes actuels au Maroc lié au détournement de l’argent publics et qui a été porté devant les tribunaux compétents.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Mohamed El Jem        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5840_vertical_image_1704361180642.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5840_poster_image_1701441738671.jpeg",
+        "StreamID": "90186"
+    },
+    {
+        "CUID": "5843",
+        "Title": "GOULOU TBARKELLAH",
+        "Category": "Theater",
+        "Synopsis": "C'est une épopée nationale qui mêle musique, chant et danse. Elle comprend des chants patriotiques et des scènes comiques qui suivent la réalité de manière sarcastique. S'inspirant des traditions marocaines authentiques, dans lesquelles  se mêle au tapis...",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5843_vertical_image_1701266517814.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5843_poster_image_1701266566685.jpeg",
+        "StreamID": "84760"
+    },
+    {
+        "CUID": "19013",
+        "Title": "Ard Allah",
+        "Category": "Theater",
+        "Synopsis": "Ard Allah",
         "Info": [],
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/19013_vertical_image_1730824699717.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/19013_poster_image_1730824699700.jpeg",
+        "StreamID": "109023"
+    },
+    {
+        "CUID": "5868",
+        "Title": "Al Fil wa Saraouil",
+        "Category": "Theater",
+        "Synopsis": "La pièce théâtrale puise dans l'héritage pour créer des peintures artistiques qui mêlent jeu, danse, musique et poésie dans une robe comique où le mot se mêle à l'expression physique, et dans laquelle chaque acteur incarne différents personnages de manière ludique issue de l'art de \"lhalka\"",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Latefa Ahrrare"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5868_vertical_image_1686144487706.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5868_poster_image_1686144487630.jpeg",
+        "StreamID": "84785"
+    },
+    {
+        "CUID": "5865",
+        "Title": "Qadia fiha inna",
+        "Category": "Theater",
+        "Synopsis": "L'histoire de la pièce tourne autour du personnage d'un dentiste qui dirige un groupe musical et invite le groupe à s'entraîner à la clinique, de sorte que des situations et des événements comiques se produisent.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Khadija Adli"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5865_vertical_image_1702374481499.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5865_poster_image_1702374544190.jpeg",
+        "StreamID": "84782"
+    },
+    {
+        "CUID": "1196",
+        "Title": "HADDOU KADDOU",
+        "Category": "Theater",
+        "Synopsis": "Après avoir préparé le mariage de sa fille pendant des jours et des jours, Haddou annule tout au dernier moment et romp soudainement sa relation avec son voisin Kaddou. Ce qui plonge ce dernier dans une mer de questions sur ce qui a poussé son voisin à agir ainsi.. ",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Ahmed Chergui        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1196_vertical_image_1684851640210.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1196_poster_image_1684852191687.jpeg",
+        "StreamID": "77370"
+    },
+    {
+        "CUID": "5867",
+        "Title": "Maqamat  Badi&#x27; Al-Zaman Al-Hamadhani",
+        "Category": "Theater",
+        "Synopsis": "C'est une pièce qui combine la scène mondiale avec le folklore marocain bien connu, Elle contient des peintures satiriques et des stands comiques sur les ravages de la mendicité, de la fraude et de l'abus de pouvoir.",
+        "Info": {
+            "Audio": "AR        ,",
+            "Distribution": "Abdellatif Hilal"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5867_vertical_image_1684834479585.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5867_poster_image_1684838185438.jpeg",
+        "StreamID": "84784"
+    },
+    {
+        "CUID": "1552",
+        "Title": "Hassla o fiha mera",
+        "Category": "Theater",
+        "Synopsis": "Il s'agit d'une pièce qui caractérise la réalité du Maroc et la fragilité des infrastructures avec un style comique observant tous les dérapages qui se cachent derrière le fonctionnaire autoritaire et l'autorité exercée aux dépens de la classe ouvrière.",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1552_vertical_image_1695121364123.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1552_poster_image_1684845416254.jpeg",
+        "StreamID": "77615"
+    },
+    {
+        "CUID": "5852",
+        "Title": "Dayf Lghafla",
+        "Category": "Theater",
+        "Synopsis": "Le thème de la pièce tourne autour d'un homme religieux trompeur qui utilise ce qu'il sait de la religion islamique de tolérance, d'idées nobles et son éloquence en tant que prédicateur afin de manipuler les gens. Son objectif est d’obtenir des gains de la plus méprisable des manières.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Adil Abatourab        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5852_vertical_image_1687784885361.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5852_poster_image_1686056562411.jpeg",
+        "StreamID": "84769"
+    },
+    {
+        "CUID": "5851",
+        "Title": "Habibaty Zahia",
+        "Category": "Theater",
+        "Synopsis": "حبيبتي الزاهية\/ فرقة مسرح البدوي",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Abderazzaq Al Badawy        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5851_vertical_image_1708684877396.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5851_poster_image_1686054276721.jpeg",
+        "StreamID": "84768"
+    },
+    {
+        "CUID": "5858",
+        "Title": "AL Matâam",
+        "Category": "Theater",
+        "Synopsis": "À la recherche d'un emploi, Abdou Raouf trouve une opportunité dans un restaurant. Brave homme, le propriétaire du restaurant s'efforce de lui apprendre au mieux le métier de serveur, mais sa naïveté lui causera de nombreux problèmes avec les clients...",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Omar Chanbout"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5858_vertical_image_1686061339984.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5858_poster_image_1686060935683.jpeg",
+        "StreamID": "84775"
+    },
+    {
+        "CUID": "15429",
+        "Title": "Al Bayda Fi Tass",
+        "Category": "Theater",
+        "Synopsis": "Un jeune homme sous la garde d'un père autoritaire.  Les circonstances veulent que le jeune homme rejoigne un travail dans une autre ville, et là il fera la connaissance d'une fille et l'épousera secrètement par peur de l'oppression de son père, qui lui rend visite avec sa nièce, souhaitant la marier avec lui...",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Mohamed El Jem        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15429_vertical_image_1722796065010.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15429_poster_image_1722796064991.jpeg",
+        "StreamID": "105135"
+    },
+    {
+        "CUID": "4950",
+        "Title": "Hamman Al Mahzala",
+        "Category": "Theater",
+        "Synopsis": "Doté d'une imposante silhouette, Hamman qui vit avec sa mère est célibataire. Il travaille comme boucher et mène une vie de luxe. Un jour, il tombe amoureux d'une jeune femme instruite et cultivée. Il fera alors tout ce qu'il peut pour qu'elle l'aime en retour, mais il ne réussira pas à conquérir son cœur...",
+        "Info": {
+            "Scénariste": "Abdeslam Chraïbi",
+            "Audio": "AR",
+            "Distribution": "Abdellah Ferkous        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/4950_vertical_image_1687858183899.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/4950_poster_image_1687857495340.jpeg",
+        "StreamID": "83778"
+    },
+    {
+        "CUID": "5848",
+        "Title": "Daret Bina Dora",
+        "Category": "Theater",
+        "Synopsis": "La pièce raconte l'histoire de la famille « Salem », surprise par un inconnu qui est entré dans leur maison.  « Lghalia » , la mère de famille et sa fille « Radia » vont alors tout faire pour sauver leur famille de ce nouveau venu qui prétend être le fils de « Salem»...",
+        "Info": {
+            "Audio": "AR        ,",
+            "Distribution": "Sanaa Bahaj"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5848_vertical_image_1701697829283.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5848_poster_image_1701697799353.jpeg",
+        "StreamID": "84765"
+    },
+    {
+        "CUID": "5861",
+        "Title": "AL Moudir AL Jadid",
+        "Category": "Theater",
+        "Synopsis": "Après avoir été nommé nouveau responsable dans l'administration, le nouveau directeur découvre de nombreux déséquilibres et rencontre des problèmes avec certains employés et fonctionnaires. Le tout avec beaucoup d'humour...",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Noureddine Bikr        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5861_vertical_image_1685112011896.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5861_poster_image_1685112001467.jpeg",
+        "StreamID": "84778"
+    },
+    {
+        "CUID": "15327",
+        "Title": "Men hna dazou ",
+        "Category": "Theater",
+        "Synopsis": "Men hna dazou ",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15327_vertical_image_1725533227155.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15327_poster_image_1725533227123.jpeg",
+        "StreamID": "105126"
+    },
+    {
+        "CUID": "5849",
+        "Title": "Daq w Skat",
+        "Category": "Theater",
+        "Synopsis": "La pièce raconte l'histoire d'un employé sans espoir et sa femme misérable, ainsi qu’un journaliste raté et sa femme noyée dans ses rêves. Elle met l'accent sur les luttes quotidiennes entre ces couples qui finissent par aboutir à une impasse...",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Jamila El Haouni        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5849_vertical_image_1686144928015.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5849_poster_image_1686138960662.jpeg",
+        "StreamID": "84766"
+    },
+    {
+        "CUID": "15318",
+        "Title": "Hassi Massi",
+        "Category": "Theater",
+        "Synopsis": "Hassi Massi",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Mohamed Khiyari        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15318_vertical_image_1718952798642.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15318_poster_image_1718952798611.jpeg",
+        "StreamID": "105127"
+    },
+    {
+        "CUID": "5834",
+        "Title": "Bin Lbareh w Lyom",
+        "Category": "Theater",
+        "Synopsis": "« Bin Lbareh w Lyoum » traite sous forme de revue, l'histoire artistique du groupe Jil Jilala, à travers une comparaison entre le passé de ce groupe international et son présent avec des scènes basées sur l'humour, la danse et la musique... Vous allez revivre les succès du célèbre groupe marocain !",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5834_vertical_image_1702391857493.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5834_poster_image_1702391839087.jpeg",
+        "StreamID": "84751"
+    },
+    {
+        "CUID": "5846",
+        "Title": "Azziara",
+        "Category": "Theater",
+        "Synopsis": "C'est l'histoire d'un couple très amoureux au point que chacun souhaite mourir avant l'autre car aucun d'eux ne pourrait vivre sans l'autre. C'est la raison pour laquelle le mari a eu recours à un représentant d'une compagnie d'assurance pour souscire à une assurance vie pour un montant décent. Mais la vie de ce couple légendaire va changer quand ils vont recevoir la visite de leur voisin « l'artiste »...",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5846_vertical_image_1686321240741.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5846_poster_image_1686321200199.jpeg",
+        "StreamID": "84763"
+    },
+    {
+        "CUID": "5862",
+        "Title": "Halouf karmouss",
+        "Category": "Theater",
+        "Synopsis": "حلوف كرموس",
+        "Info": {
+            "Réalisateur": "Mustapha Fakir",
+            "Audio": "AR",
+            "Distribution": "Souad Saber"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5862_vertical_image_1702305844090.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5862_poster_image_1702305008048.jpeg",
+        "StreamID": "84779"
+    },
+    {
+        "CUID": "1551",
+        "Title": "ÂAfak khddama",
+        "Category": "Theater",
+        "Synopsis": "La pièce aborde le problème des femmes domestiques et leurs difficultés à faire valoir leurs droits, mais aussi les plaintes des femmes au foyer concernant certaines travailleuses. Une approche comique d’une catégorie marginalisée…",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Majida Benkirane        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1551_vertical_image_1702549287886.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1551_poster_image_1702548413407.jpeg",
+        "StreamID": "77614"
+    },
+    {
+        "CUID": "5841",
+        "Title": "Lalla Moulaty",
+        "Category": "Theater",
+        "Synopsis": "La fille du Caïd souffre d'une maladie qu'aucun médecin ne peut guérir. Le Caïd envoie alors son serviteur apporter le meilleur narrateur du pays pour faire rire sa fille en échange d'une récompense ou d'une punition de cent coups de fouet. Le narrateur commence la narration et les arguments s'enchaînent dévoilant la tromperie des femmes pour atteindre leurs objectifs avec habileté et intelligence....",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Jamal Lababsi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5841_vertical_image_1685370141574.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5841_poster_image_1685369771813.jpeg",
+        "StreamID": "84758"
+    },
+    {
+        "CUID": "2858",
+        "Title": "Al Maraa Alati",
+        "Category": "Theater",
+        "Synopsis": "Une femme à la tête de trois associations féminines après la mort de son mari qui la maltraitait, a commemncé à hair les hommes. Elle conseille alors aux autres femmes de s'abstenir de se marier et leur recommande le divorce. Mais ses paroles deviennent peu convaincantes auprés de nombreuses femmes...",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Mohamed El Jem        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2858_vertical_image_1701947791517.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2858_poster_image_1701947397335.jpeg",
+        "StreamID": "81438"
+    },
+    {
+        "CUID": "1197",
+        "Title": "Al hayata",
+        "Category": "Theater",
+        "Synopsis": "Masoud travaille comme domestique dans une villa pour rester près de son fils qu'il a abandonné sous la contrainte. La pièce revient sur les problèmes du quotidien des enfants abandonnés et de la polygamie. ",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Abdelkabir Rgagna        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1197_vertical_image_1701682064582.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1197_poster_image_1701444517794.jpeg",
+        "StreamID": "77372"
+    },
+    {
+        "CUID": "5837",
+        "Title": "Lhayha Nouveau Modèle",
+        "Category": "Theater",
+        "Synopsis": "Les événements se déroulent à l'intérieur de la fourrière, lieu de vente des anciennes pièces automobiles. Ainsi, la pièce théâtrale montre un ensemble de peintures comiques satiriques, ainsi que des panneaux qui traitent les questions sociétales de manière comique. ",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5837_vertical_image_1702293539929.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5837_poster_image_1702293292338.jpeg",
+        "StreamID": "84754"
+    },
+    {
+        "CUID": "3830",
+        "Title": " Jar Wa Majrour 1",
+        "Category": "Theater",
+        "Synopsis": "Pièce de théâtre: Jar Wa Majrour ( Saison 1)",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Mohamed El Jem        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/3830_vertical_image_1701947577035.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/3830_poster_image_1701947562668.jpeg",
+        "StreamID": "82361"
     }
 ]
