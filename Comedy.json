@@ -893,6 +893,13 @@
                 "Episode": "E07",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21696_tile_image_1741446982724.jpeg",
                 "streamId": "111744"
+            },
+            {
+                "CUID": "21730",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21730_tile_image_1741543531495.jpeg",
+                "streamId": "111774"
             }
         ]
     },
@@ -1164,6 +1171,13 @@
                 "Episode": "E07",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21709_tile_image_1741456071230.jpeg",
                 "streamId": "111754"
+            },
+            {
+                "CUID": "21733",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21733_tile_image_1741543449608.jpeg",
+                "streamId": "111781"
             }
         ]
     },
@@ -1219,6 +1233,13 @@
                 "Episode": "E07",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21698_tile_image_1741449777655.jpeg",
                 "streamId": "111746"
+            },
+            {
+                "CUID": "21732",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21732_tile_image_1741543471056.jpeg",
+                "streamId": "111776"
             }
         ]
     },
@@ -1274,6 +1295,13 @@
                 "Episode": "E07",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21697_tile_image_1741447254808.jpeg",
                 "streamId": "111745"
+            },
+            {
+                "CUID": "21731",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21731_tile_image_1741543491406.jpeg",
+                "streamId": "111775"
             }
         ]
     },
@@ -11883,6 +11911,19 @@
                 "Episode": "E30",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1116_tile_image_1674832478144.jpeg",
                 "streamId": "77291"
+            }
+        ]
+    },
+    {
+        "Name": "Arss Leïla Tadbirou Am",
+        "Category": "Comedy",
+        "Episodes": [
+            {
+                "CUID": "21699",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21699_tile_image_1741450372720.jpeg",
+                "streamId": "111747"
             }
         ]
     }
