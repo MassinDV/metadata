@@ -840,21 +840,21 @@
         "StreamID": "76834"
     },
     {
-        "CUID": null,
+        "CUID": "2427",
         "Title": "Yamna ",
         "Category": "Movies",
         "Synopsis": "Yamna raconte une histoire d'amour entre mensonge et abandon. La belle Yamna ne fait que mentir et manipuler ceux qui tombent sous son charme. Cependant, ils ne peuvent pas la quitter car elle les captive d'une manière qui leur ferait tout abandonner pour elle...",
         "Info": {
-            "المخرج": "Abdullah Al Yazni",
-            "سيناريست": "Hicham Amal",
-            "الصوت": "AR        ,",
-            "تصنيفات": "Comédie",
-            "توزيع الأدوار": "Abderrazzak Al Zaytouni        ,",
-            "وسوم": "Yamna"
+            "Réalisateur": "Abdullah Al Yazni",
+            "Scénariste": "Hicham Amal",
+            "Audio": "AR        ,",
+            "Genres": "Comédie",
+            "Distribution": "Abderrazzak Al Zaytouni        ,",
+            "Tags": "Yamna"
         },
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2427_vertical_image_1681395860611.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2427_poster_image_1681395843600.jpeg",
+        "StreamID": "80243"
     },
     {
         "CUID": "1891",
