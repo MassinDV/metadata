@@ -949,6 +949,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21838_tile_image_1741793544978.jpeg",
                 "streamId": "111879"
+            },
+            {
+                "CUID": "21875",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21875_tile_image_1741874303085.jpeg",
+                "streamId": "111918"
             }
         ]
     },
@@ -1248,6 +1255,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21841_tile_image_1741793483085.jpeg",
                 "streamId": "111895"
+            },
+            {
+                "CUID": "21885",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21885_tile_image_1741878871550.jpeg",
+                "streamId": "111927"
             }
         ]
     },
@@ -1331,6 +1345,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21840_tile_image_1741793506469.jpeg",
                 "streamId": "111880"
+            },
+            {
+                "CUID": "21874",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21874_tile_image_1741873993975.jpeg",
+                "streamId": "111917"
             }
         ]
     },
@@ -1414,6 +1435,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21839_tile_image_1741793525747.jpeg",
                 "streamId": "111899"
+            },
+            {
+                "CUID": "21873",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21873_tile_image_1741874106468.jpeg",
+                "streamId": "111916"
             }
         ]
     },
