@@ -1917,5 +1917,32 @@
                 "streamId": "112029"
             }
         ]
+    },
+    {
+        "Name": "Tawarghit Iwlan ",
+        "Category": "Ramadan",
+        "Episodes": [
+            {
+                "CUID": "21853",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21853_tile_image_1741889158946.jpeg",
+                "streamId": "111891"
+            },
+            {
+                "CUID": "21659",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21659_tile_image_1741356790959.jpeg",
+                "streamId": "111719"
+            },
+            {
+                "CUID": "21816",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21816_tile_image_1741787561374.jpeg",
+                "streamId": "111856"
+            }
+        ]
     }
 ]
