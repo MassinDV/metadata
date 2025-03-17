@@ -166,7 +166,13 @@ function processCategory($categoryUrl, $categoryName) {
 
 // Define categories and URLs
 $categories = [
+    'Drama' => 'https://forja.ma/category/series?g=serie-drame&contentType=playlist&lang=fr',
+    'Action' => 'https://forja.ma/category/series?g=action-serie&contentType=playlist&lang=fr',
+    'History' => 'https://forja.ma/category/series?g=histoire-serie&contentType=playlist&lang=fr',
+    'Docs' => 'https://forja.ma/category/fnqxzgjwehxiksgbfujypbplresdjsiegtngcqwm?lang=fr',
+    'Kids' => 'https://forja.ma/category/uvrqdsllaeoaxfporlrbsqehcyffsoufneihoyow?lang=fr',
     'Ramadan' => 'https://forja.ma/category/okzcntibiugptsesdsuzbtydjuudvoirezaifofo?lang=fr',
+    'Comedy' => 'https://forja.ma/category/series?g=comedie-serie&contentType=playlist&lang=fr',
 ];
 
 // Process each category
