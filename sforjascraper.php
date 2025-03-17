@@ -115,6 +115,16 @@ function processCategory($categoryUrl, $categoryName) {
                 continue;
             }
 
+            // Determine the next episode number dynamically
+            $existingEpisodeCount = 0;
+            foreach ($existingData as $series) {
+                if ($series['Name'] === $seriesName) {
+                    $existingEpisodeCount = count($series['Episodes']);
+                    break;
+                }
+            }
+            $episodeNumber = $existingEpisodeCount + 1;
+
             // Add the episode
             $episodes[] = [
                 'CUID' => $cuid,
@@ -124,7 +134,8 @@ function processCategory($categoryUrl, $categoryName) {
                 'streamId' => $streamId,
             ];
 
-            $episodeNumber++;
+            // Mark this CUID as processed
+            $existingEpisodesMap[$cuid] = true;
         }
 
         // Append new episodes to existing data
