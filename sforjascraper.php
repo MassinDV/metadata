@@ -92,6 +92,14 @@ function processCategory($categoryUrl, $categoryName) {
         $episodes = [];
         $episodeNumber = 1;
 
+        // Determine the starting episode number based on existing episodes
+        foreach ($existingData as $series) {
+            if ($series['Name'] === $seriesName) {
+                $episodeNumber = count($series['Episodes']) + 1;
+                break;
+            }
+        }
+
         foreach ($html->find('div.episode-container') as $episodeContainer) {
             $imageUrl = $episodeContainer->find('img', 0)?->src ?? '';
             if (empty($imageUrl)) {
@@ -115,17 +123,7 @@ function processCategory($categoryUrl, $categoryName) {
                 continue;
             }
 
-            // Determine the next episode number dynamically
-            $existingEpisodeCount = 0;
-            foreach ($existingData as $series) {
-                if ($series['Name'] === $seriesName) {
-                    $existingEpisodeCount = count($series['Episodes']);
-                    break;
-                }
-            }
-            $episodeNumber = $existingEpisodeCount + 1;
-
-            // Add the episode
+            // Add the episode with a unique episode number
             $episodes[] = [
                 'CUID' => $cuid,
                 'Session' => 'S01', // Update this logic if multiple seasons exist
@@ -133,6 +131,9 @@ function processCategory($categoryUrl, $categoryName) {
                 'imageUrl' => $imageUrl,
                 'streamId' => $streamId,
             ];
+
+            // Increment the episode number
+            $episodeNumber++;
 
             // Mark this CUID as processed
             $existingEpisodesMap[$cuid] = true;
