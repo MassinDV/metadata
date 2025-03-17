@@ -970,6 +970,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21944_tile_image_1742061280672.jpeg",
                 "streamId": "112002"
+            },
+            {
+                "CUID": "21981",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21981_tile_image_1742146888311.png",
+                "streamId": "112023"
             }
         ]
     },
@@ -1290,6 +1297,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21939_tile_image_1742058334137.jpeg",
                 "streamId": "111988"
+            },
+            {
+                "CUID": "21988",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21988_tile_image_1742156719090.png",
+                "streamId": "112036"
             }
         ]
     },
@@ -1394,6 +1408,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21947_tile_image_1742060883686.jpeg",
                 "streamId": "112003"
+            },
+            {
+                "CUID": "21983",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21983_tile_image_1742147517383.png",
+                "streamId": "112025"
             }
         ]
     },
@@ -1498,6 +1519,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21945_tile_image_1742060927499.jpeg",
                 "streamId": "112000"
+            },
+            {
+                "CUID": "21982",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21982_tile_image_1742147173828.png",
+                "streamId": "112024"
             }
         ]
     },
