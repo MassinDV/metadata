@@ -1224,17 +1224,17 @@
         "StreamID": "83776"
     },
     {
-        "CUID": null,
+        "CUID": "5840",
         "Title": "Hada Nta",
         "Category": "Theater",
         "Synopsis": "Hada Nta traite un ensemble de problèmes sociaux immédiats qui s'articulent autour de l'un des plus importants problèmes actuels au Maroc lié au détournement de l’argent publics et qui a été porté devant les tribunaux compétents.",
         "Info": {
-            "الصوت": "AR",
-            "توزيع الأدوار": "Mohamed El Jem        ,"
+            "Audio": "AR",
+            "Distribution": "Mohamed El Jem        ,"
         },
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5840_vertical_image_1704361180642.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5840_poster_image_1701441738671.jpeg",
+        "StreamID": "90186"
     },
     {
         "CUID": "5843",
