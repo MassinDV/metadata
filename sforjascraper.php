@@ -46,9 +46,7 @@ function extractIdFromImageUrl($imageUrl) {
 
 // Function to decode HTML entities and format series names
 function formatSeriesName($name) {
-    // Decode HTML entities (e.g., L&#x27;usine → L'usine)
     $name = html_entity_decode($name, ENT_QUOTES | ENT_HTML5, 'UTF-8');
-    // Convert to title case (e.g., SALAH ET FATI → Salah Et Fati)
     $name = ucwords(strtolower($name));
     return $name;
 }
@@ -62,7 +60,16 @@ function processCategory($categoryUrl, $categoryName) {
     // Load existing data if JSON file exists
     if (file_exists($jsonFileName)) {
         $jsonContent = file_get_contents($jsonFileName);
-        $existingData = json_decode($jsonContent, true) ?? [];
+        if ($jsonContent === false) {
+            echo "Error: Could not read $jsonFileName\n";
+            return;
+        }
+        $existingData = json_decode($jsonContent, true);
+        if ($existingData === null) {
+            echo "Error: Invalid JSON in $jsonFileName, starting fresh\n";
+            $existingData = [];
+        }
+        // Build map of existing episode CUIDs
         foreach ($existingData as $series) {
             foreach ($series['Episodes'] ?? [] as $episode) {
                 $existingEpisodesMap[$episode['CUID']] = true;
@@ -74,8 +81,14 @@ function processCategory($categoryUrl, $categoryName) {
     $urls = scrapeUrlsFromCategory($categoryUrl);
     if (empty($urls)) {
         echo "No series found for category: $categoryName\n";
+        // Save existing data unchanged if no new data is found
+        if (!empty($existingData)) {
+            file_put_contents($jsonFileName, json_encode($existingData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        }
         return;
     }
+
+    $newData = []; // Temporary array for new series/episodes
 
     foreach ($urls as $url) {
         $html = file_get_html($url);
@@ -92,7 +105,7 @@ function processCategory($categoryUrl, $categoryName) {
         $episodes = [];
         $episodeNumber = 1;
 
-        // Determine the starting episode number based on existing episodes
+        // Check if series exists in existing data and get next episode number
         foreach ($existingData as $series) {
             if ($series['Name'] === $seriesName) {
                 $episodeNumber = count($series['Episodes']) + 1;
@@ -109,7 +122,7 @@ function processCategory($categoryUrl, $categoryName) {
 
             $cuid = extractIdFromImageUrl($imageUrl);
             if (!$cuid || isset($existingEpisodesMap[$cuid])) {
-                echo "Duplicate or invalid CUID for series: $seriesName\n";
+                // Skip duplicates or invalid CUIDs
                 continue;
             }
 
@@ -132,36 +145,43 @@ function processCategory($categoryUrl, $categoryName) {
                 'streamId' => $streamId,
             ];
 
-            // Increment the episode number
             $episodeNumber++;
-
-            // Mark this CUID as processed
-            $existingEpisodesMap[$cuid] = true;
+            $existingEpisodesMap[$cuid] = true; // Mark as processed
         }
 
-        // Append new episodes to existing data
+        // Store new episodes in temporary array
         if (!empty($episodes)) {
-            $found = false;
-            foreach ($existingData as &$series) {
-                if ($series['Name'] === $seriesName) {
-                    $series['Episodes'] = array_merge($series['Episodes'], $episodes);
-                    $found = true;
-                    break;
-                }
+            $newData[$seriesName] = [
+                'Name' => $seriesName,
+                'Category' => $categoryName,
+                'Episodes' => $episodes,
+            ];
+        }
+    }
+
+    // Merge new data with existing data
+    foreach ($newData as $seriesName => $newSeries) {
+        $found = false;
+        foreach ($existingData as &$series) {
+            if ($series['Name'] === $seriesName) {
+                // Append new episodes to existing series
+                $series['Episodes'] = array_merge($series['Episodes'], $newSeries['Episodes']);
+                $found = true;
+                break;
             }
-            if (!$found) {
-                $existingData[] = [
-                    'Name' => $seriesName,
-                    'Category' => $categoryName,
-                    'Episodes' => $episodes,
-                ];
-            }
+        }
+        if (!$found) {
+            // Add new series if it doesn’t exist
+            $existingData[] = $newSeries;
         }
     }
 
     // Save updated data to JSON file
-    file_put_contents($jsonFileName, json_encode($existingData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-    echo "Data saved to $jsonFileName\n";
+    if (file_put_contents($jsonFileName, json_encode($existingData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)) === false) {
+        echo "Error: Failed to write to $jsonFileName\n";
+    } else {
+        echo "Data saved to $jsonFileName\n";
+    }
 }
 
 // Define categories and URLs
