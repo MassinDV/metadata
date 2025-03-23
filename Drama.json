@@ -9925,6 +9925,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21952_tile_image_1742060667166.jpeg",
                 "streamId": "112004"
+            },
+            {
+                "CUID": "22179",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22179_tile_image_1742680353747.png",
+                "streamId": "112231"
             }
         ]
     },
@@ -10496,6 +10503,13 @@
                 "Episode": "E18",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22135_tile_image_1742567300498.jpeg",
                 "streamId": "112188"
+            },
+            {
+                "CUID": "22157",
+                "Session": "S01",
+                "Episode": "E19",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22157_tile_image_1742605361926.png",
+                "streamId": "112210"
             }
         ]
     },
@@ -10676,6 +10690,13 @@
                 "Episode": "E19",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22151_tile_image_1742577341204.jpeg",
                 "streamId": "112203"
+            },
+            {
+                "CUID": "22156",
+                "Session": "S01",
+                "Episode": "E20",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22156_tile_image_1742650938340.png",
+                "streamId": "112209"
             }
         ]
     },
@@ -10822,6 +10843,13 @@
                 "Episode": "E20",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22142_tile_image_1742571356863.jpeg",
                 "streamId": "112196"
+            },
+            {
+                "CUID": "22178",
+                "Session": "S01",
+                "Episode": "E21",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22178_tile_image_1742678587763.png",
+                "streamId": "112230"
             }
         ]
     }
