@@ -9,6 +9,13 @@
                 "Episode": "E01",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21986_tile_image_1742149319016.png",
                 "streamId": "112031"
+            },
+            {
+                "CUID": "22217",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22217_tile_image_1742773977315.jpeg",
+                "streamId": "112272"
             }
         ]
     },
@@ -636,6 +643,13 @@
                 "Episode": "E02",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21955_tile_image_1742060566641.jpeg",
                 "streamId": "112001"
+            },
+            {
+                "CUID": "22181",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22181_tile_image_1742809656261.jpeg",
+                "streamId": "112233"
             }
         ]
     },
@@ -1031,6 +1045,13 @@
                 "Episode": "E03",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21989_tile_image_1742158868181.jpeg",
                 "streamId": "112037"
+            },
+            {
+                "CUID": "22189",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22189_tile_image_1742749166614.jpeg",
+                "streamId": "112244"
             }
         ]
     },
@@ -2557,6 +2578,13 @@
                 "Episode": "E20",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22214_tile_image_1742766618963.jpeg",
                 "streamId": "112269"
+            },
+            {
+                "CUID": "22202",
+                "Session": "S01",
+                "Episode": "E21",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22202_tile_image_1742751408920.jpeg",
+                "streamId": "112254"
             }
         ]
     },
