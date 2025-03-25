@@ -14045,6 +14045,13 @@
                 "Episode": "E22",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22207_tile_image_1742757345450.jpeg",
                 "streamId": "112261"
+            },
+            {
+                "CUID": "22219",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22219_tile_image_1742816916964.jpeg",
+                "streamId": "112274"
             }
         ]
     },
@@ -14205,6 +14212,13 @@
                 "Episode": "E22",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22209_tile_image_1742760253437.jpeg",
                 "streamId": "112263"
+            },
+            {
+                "CUID": "22252",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22252_tile_image_1742829323886.jpeg",
+                "streamId": "112308"
             }
         ]
     },
@@ -14365,6 +14379,13 @@
                 "Episode": "E22",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22205_tile_image_1742756192957.jpeg",
                 "streamId": "112258"
+            },
+            {
+                "CUID": "22220",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22220_tile_image_1742816939438.jpeg",
+                "streamId": "112275"
             }
         ]
     },
@@ -14525,6 +14546,13 @@
                 "Episode": "E22",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22208_tile_image_1742759283069.jpeg",
                 "streamId": "112262"
+            },
+            {
+                "CUID": "22224",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22224_tile_image_1742817602903.jpeg",
+                "streamId": "112278"
             }
         ]
     }
