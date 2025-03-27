@@ -10283,6 +10283,13 @@
                 "Episode": "E02",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22226_tile_image_1742817780649.jpeg",
                 "streamId": "112281"
+            },
+            {
+                "CUID": "22303",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22303_tile_image_1742987548008.jpeg",
+                "streamId": "112359"
             }
         ]
     },
@@ -10538,6 +10545,20 @@
                 "Episode": "E22",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22281_tile_image_1742913668584.jpeg",
                 "streamId": "112338"
+            },
+            {
+                "CUID": "22308",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22308_tile_image_1743000023225.jpeg",
+                "streamId": "112364"
+            },
+            {
+                "CUID": "22309",
+                "Session": "S01",
+                "Episode": "E24",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22309_tile_image_1743000128960.jpeg",
+                "streamId": "112365"
             }
         ]
     },
@@ -10760,6 +10781,13 @@
                 "Episode": "E23",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22278_tile_image_1742913323906.jpeg",
                 "streamId": "112335"
+            },
+            {
+                "CUID": "22310",
+                "Session": "S01",
+                "Episode": "E24",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22310_tile_image_1743000237930.jpeg",
+                "streamId": "112366"
             }
         ]
     },
@@ -10934,6 +10962,13 @@
                 "Episode": "E24",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22263_tile_image_1742901346646.jpeg",
                 "streamId": "112320"
+            },
+            {
+                "CUID": "22304",
+                "Session": "S01",
+                "Episode": "E25",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22304_tile_image_1742987702880.jpeg",
+                "streamId": "112360"
             }
         ]
     }
