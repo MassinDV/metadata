@@ -3752,5 +3752,18 @@
                 "streamId": "112385"
             }
         ]
+    },
+    {
+        "Name": "Alhane Al Madi",
+        "Category": "Ramadan",
+        "Episodes": [
+            {
+                "CUID": "22118",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22118_tile_image_1742504445987.jpeg",
+                "streamId": "112171"
+            }
+        ]
     }
 ]
