@@ -9932,6 +9932,13 @@
                 "Episode": "E03",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22179_tile_image_1742680353747.png",
                 "streamId": "112231"
+            },
+            {
+                "CUID": "22395",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22395_tile_image_1743265884721.jpeg",
+                "streamId": "112451"
             }
         ]
     },
@@ -10580,6 +10587,13 @@
                 "Episode": "E26",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22375_tile_image_1743175199054.jpeg",
                 "streamId": "112431"
+            },
+            {
+                "CUID": "22408",
+                "Session": "S01",
+                "Episode": "E27",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22408_tile_image_1743279616681.jpeg",
+                "streamId": "112462"
             }
         ]
     },
@@ -10816,6 +10830,13 @@
                 "Episode": "E25",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22340_tile_image_1743084922315.jpeg",
                 "streamId": "112396"
+            },
+            {
+                "CUID": "22407",
+                "Session": "S01",
+                "Episode": "E26",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22407_tile_image_1743280091876.jpeg",
+                "streamId": "112461"
             }
         ]
     },
@@ -11004,6 +11025,13 @@
                 "Episode": "E26",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22329_tile_image_1743074817718.jpeg",
                 "streamId": "112385"
+            },
+            {
+                "CUID": "22384",
+                "Session": "S01",
+                "Episode": "E27",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22384_tile_image_1743265047671.jpeg",
+                "streamId": "112441"
             }
         ]
     }
