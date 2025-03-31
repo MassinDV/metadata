@@ -1566,5 +1566,17 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/3830_vertical_image_1701947577035.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/3830_poster_image_1701947562668.jpeg",
         "StreamID": "82361"
+    },
+    {
+        "CUID": "5835",
+        "Title": "JA w Jab",
+        "Category": "Theater",
+        "Synopsis": "Les événements tournent autour de la vie de Kassem Mazouzi et les circonstances difficiles que traverse sa famille. Cependant, il accueille les accidents de la vie avec humour, critiques, proverbes populaires, rires sarcastiques... et indifférence.",
+        "Info": {
+            "Audio": "AR"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5835_vertical_image_1685527990197.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5835_poster_image_1685527256876.jpeg",
+        "StreamID": "84752"
     }
 ]
