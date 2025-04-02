@@ -1,81 +1,76 @@
 [
     {
-        "CUID": "346",
-        "Title": "Al Garabe",
+        "CUID": "21419",
+        "Title": "Trik lycée",
         "Category": "Movies",
-        "Synopsis": "L'histoire suit notre protagoniste qui très jeune, assiste au meurtre de sa petite sœur, il jure alors sur sa tombe qu'il se vengera même si cette vengeance lui prend toute sa vie.",
+        "Synopsis": "Plongée dans les années 90, bien avant l’ère des réseaux sociaux, cette comédie romantique au cœur tendre raconte une histoire d’amour interdit entre deux jeunes voisins. Dans un quartier populaire, deux familles voisines s’entrecroisent : celle de Houria, une femme prétentieuse mariée à Allal, un bijoutier, et mère de deux enfants très différents – Aziza, la fille rebelle qui rêve de mariage, et Farid, le jeune homme studieux destiné à une brillante carrière d’ingénieur – et celle de Fatna et Jawad, des gens simples et bienveillants, menant une vie modeste avec leur fille modèle, Amina, qui aspire à devenir journaliste. Entre ces deux mondes opposés, une histoire d’amour naît : Farid et Amina s’aiment en secret depuis leur tendre enfance. Mais cet amour est confronté aux préjugés de Houria, qui refuse catégoriquement cette union, espérant pour son fils un avenir brillant en France, loin de cette “simple voisine”. Malgré les obstacles, Farid s’accroche à son amour pour Amina, allant jusqu’à défier ses parents et quitter la maison. Alors que la vie s’écoule entre les joies et drames du quotidien – la grossesse inattendue de Fatna, les rêves contrariés de Farid, et les espoirs d’Amina –, un événement tragique bouleverse tout : Fatna décède en mettant au monde une petite fille. Ce drame bouleverse Farid, qui décide de ne pas poursuivre ses études pour rester auprès d‘Amina et de son père. Mais, consciente des sacrifices qu’il fait pour elle, Amina prend une décision douloureuse : déménager en pleine nuit avec son père, laissant une lettre à Farid pour lui dire de ne pas la chercher. Après 15 ans de séparation, les souvenirs refont surface dans un monde désormais transformé par la technologie. Un heureux hasard sur Internet entre la petite sœur d’Amina et le fils d’Aziza, relance l’histoire. Aziza, toujours fidèle à son rôle de médiatrice, s’efforce de réunir son frère et son premier amour. Dans une scène poignante, ils se retrouvent sur le banc de leur enfance, prêts à renouer avec cet amour qui a traversé le temps et les épreuves. Entre nostalgie, humour et émotion, cette histoire explore les tensions familiales, les rêves brisés et la force des sentiments dans un Maroc des années 90, riche de traditions et de contradictions. ",
         "Info": {
-            "Réalisateur": ",",
-            "Audio": "AR",
-            "Genres": "Action",
-            "Distribution": "Mourad Zaoui        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/346_vertical_image_1740264888236.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/346_poster_image_1740264888195.jpeg",
-        "StreamID": "76620"
-    },
-    {
-        "CUID": "2417",
-        "Title": "Ana Noura Awalan",
-        "Category": "Movies",
-        "Synopsis": "Le film suit notre protagoniste qui, à un mois de son trentième anniversaire, découvre dans son journal intime qu'elle s'est juré de ne pas se marier avant d'avoir exaucé ses huit souhaits. Sa vie professionnelle en est donc bouleversée, si bien qu'elle s'est confrontée aux tracas de la vie, mais cela lui permit d'apprendre de belles leçons.",
-        "Info": {
-            "Réalisateur": "Hicham Lasri",
-            "Scénariste": "Meriem Drissi        ,",
-            "Audio": "AR        ,",
-            "Genres": "Drame        ,",
-            "Distribution": "Mourad Zaoui        ,",
-            "Tags": "Ana Noura Awalan"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2417_vertical_image_1681992576325.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2417_poster_image_1681991254329.jpeg",
-        "StreamID": "80233"
-    },
-    {
-        "CUID": "18119",
-        "Title": "ACHAOUCH",
-        "Category": "Movies",
-        "Synopsis": "Sellam est coursier dans une administration. Il met souvent son nez dans les affaires d'autrui. Curieux et bavard, il prétend être un ami proche de l'un de ses supérieurs hiérarchiques. Il exhibe fièrement les quelques photos qu'il avait prises avec tous ceux qui se sont succédés sur le siège de responsable.Sellam ne rêve que d'une chose : grandir aux yeux de ses collègues et se frotter à « l'élite » de la ville. Bref, faire son entrée dans la sphère des riches. Un jour, Sellam tombe sur une note administrative concernant un projet de relogement des habitants de bidonvilles. Il cache ce document pour pouvoir se servir lui-même en premier.Sellam ne sait pas qu'en recourant à cette méthode malhonnête, il allait tomber dans le piège d'un arnaqueur...",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Drame        ,",
-            "Distribution": "Mohamed OUSFOUR        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18119_vertical_image_1730366767017.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18119_poster_image_1730366766997.jpeg",
-        "StreamID": "107969"
-    },
-    {
-        "CUID": "2446",
-        "Title": "Imourane",
-        "Category": "Movies",
-        "Synopsis": "C’est l’histoire de la jeune Tafoukt, soit le soleil en amazigh, et Bnadam, qui sont des enfants issus d’une seule tribu et qui se rencontrent dans la grotte d’Imourane… Un lieu plein de superstitions sur le mariage. Ils rêvent alors et font des projets d’avenir après leur union.",
-        "Info": {
-            "Réalisateur": "Abdellah Dari",
-            "Scénariste": "Lahoucine Mourabih",
-            "Audio": "Tamazight        ,",
-            "Sous-titres": "Arabe",
+            "Réalisateur": "Dani Youssouf",
+            "Scénariste": "Faten El Youssfi",
             "Genres": "Drame",
-            "Distribution": "Rachid Elhazmir         ,",
-            "Tags": "Imourane"
+            "Distribution": "Rabii Skalli        ,"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2446_vertical_image_1682076777978.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2446_poster_image_1682076324548.jpeg",
-        "StreamID": "80262"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21419_vertical_image_1741862968348.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21419_poster_image_1741790032678.jpeg",
+        "StreamID": "111724"
     },
     {
-        "CUID": "18085",
-        "Title": "AQBA LIK",
+        "CUID": "21837",
+        "Title": "DAMLIJ ZHIROU ",
         "Category": "Movies",
-        "Synopsis": "Zohra est une jeune et jolie trentenaire, indépendante financièrement, qui vit seule dans un appartement à Casablanca. A priori Zohra a tout pour être heureuse. Son unique problème : le célibat. En réalité, c'est plus un problème pour son entourage que pour elle : dès que Zohra est avec sa mère, ses tantes ou sa grand- mère, toutes n'ont qu'un mot à la bouche concernant le mariage : 'Okba Lik'.Afin de mettre fin à cette pression de plus en plus difficile à vivre ; Zohra se résout à chercher un mari. Mais comment faire ? Son collègue de bureau, Karim, a qui elle s'est confiée, lui suggère de s'inscrire sur un site de rencontres sur internet, ce qu'elle fait. C'est ainsi qu'elle rencontre Yassine, jeune cadre dynamique comme elle et qui a tout pour plaire. Zohra va se mettre à fréquenter Yassine de manière assidue et finit par tomber follement amoureuse de lui...",
+        "Synopsis": "Zhirou est l’unique fille de Haj Abdellaoui, un homme riche de la cité. Quand elle est demandée en mariage par Abdelwahab, jeune étudiant amoureux de poésie, la différence de classe sociale n’est pas pour arranger les choses… Après avoir égaré le bracelet de sa bien-aimée Zhirou, Abdelwahab se lance à sa recherche dans les ruelles de Fès, affrontant moult péripéties, défiant tentations et difficultés, quitte à sacrifier ce qu’il a de plus cher pour les beaux yeux de sa dulcinée. L’amour impossible va-t-il triompher ?",
         "Info": {
-            "Audio": "AR",
-            "Genres": "Drame        ,",
-            "Distribution": "Aziz HETTAB        ,"
+            "Audio": "Arabe",
+            "Genres": "Drame",
+            "Distribution": "Rabii Skalli        ,"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18085_vertical_image_1738237543839.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18085_poster_image_1738237543777.jpeg",
-        "StreamID": "107935"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21837_vertical_image_1741785115190.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21837_poster_image_1741785115155.jpeg",
+        "StreamID": "111903"
+    },
+    {
+        "CUID": "2422",
+        "Title": "Bayt Mina Zoujaj",
+        "Category": "Movies",
+        "Synopsis": "Ahmed est un homme d'affaires prospère, vivant heureux avec sa femme et sa fille unique. Cette dernière a été victime d'un accident d'avion. Puis un jour, par hasard, Ahmed rencontre une jeune femme qui ressemble beaucoup à sa fille et la présente à sa femme comme sa fille, afin qu'elle sorte de son chagrin.",
+        "Info": {
+            "Scénariste": "Reda Osman",
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Mohamed Khouyi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2422_vertical_image_1690213421003.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2422_poster_image_1690213057693.jpeg",
+        "StreamID": "80238"
+    },
+    {
+        "CUID": "22165",
+        "Title": "MAZAL AL HAL",
+        "Category": "Movies",
+        "Synopsis": "A Moulay Driss Zarhoun, une petite ville où les relations humaines souffrent de promiscuité, vit Nassrallah qui rêve de nouveaux horizons. Mais son père, qui lui a confié son bureau d'écrivain public, le contraint à se marier avec Kheira. Nassrallah, ayant exaucé le souhait de son père, ne considère pas autant Kheira comme sa femme. Celle-ci supporte mal le peu d'attention que lui porte son nouveau mari et les réflexions de sa belle-famille, qui compte pourtant sur le revenu supplémentaire qu'elle pourra apporter, en tant qu'infirmière. Kheira, en désespoir de cause, demande le divorce au moment où elle reçoit sa lettre d'affectation. Le couple se retrouve au tribunal, mais le juge les oblige à tenter une réconciliation et revivre ensemble pendant un mois..",
+        "Info": {
+            "Réalisateur": "Hicham El Jebbari",
+            "Scénariste": "Meryem Drissi",
+            "Audio": "Arabe",
+            "Distribution": "Fattah El Gharbaoui        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22165_vertical_image_1742677571894.png",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22165_poster_image_1742677663968.jpeg",
+        "StreamID": "112217"
+    },
+    {
+        "CUID": "21418",
+        "Title": "Forssa Tania",
+        "Category": "Movies",
+        "Synopsis": "Souad, une jeune femme de 24 ans, vit une existence simple avec son mari Adil, un employé de café modeste. Cependant, Souad rêve de tout autre chose : une vie de luxe, de célébrité et d’influence, comme celle de son idole Amal, une influenceuse à succès qu’elle suit sans relâche sur les réseaux sociaux. Ne se contentant plus de son quotidien, elle décide de tenter sa chance dans un jeu de hasard et, contre toute attente, remporte une fortune. Avec cette nouvelle richesse, Souad se sent prête à changer de vie, mais elle estime que son mari ne partage pas ses ambitions. Elle décide donc de mettre en place un plan avec l’aide de son amie Latifa pour pousser Adil à la quitter. Mais Adil, bien que profondément amoureux d’elle, découvre la vérité et décide de partir de lui-même. Libre de toute contrainte, Souad se lance dans une vie de luxe, un monde où la superficialité et la cupidité sont omniprésentes. Mais, en vivant cette vie de rêve, elle se rend vite compte que le vrai bonheur ne réside pas dans les apparences. La nostalgie de sa vie simple avec Adil la rattrape et elle se rend compte qu’elle a fait une erreur. Elle décide alors de partir à la recherche de son mari pour tenter de le récupérer. Lui donnera-t-il une seconde chance ? ",
+        "Info": {
+            "Réalisateur": "Hicham El Jebbari",
+            "Genres": "Drame",
+            "Distribution": "Fatima Ezzahra Lahrech        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21418_vertical_image_1743160560449.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21418_poster_image_1743160560419.jpeg",
+        "StreamID": "112436"
     },
     {
         "CUID": "14608",
@@ -149,6 +144,192 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
         "StreamID": "107968"
+    },
+    {
+        "CUID": "21419",
+        "Title": "Trik lycée",
+        "Category": "Movies",
+        "Synopsis": "Plongée dans les années 90, bien avant l’ère des réseaux sociaux, cette comédie romantique au cœur tendre raconte une histoire d’amour interdit entre deux jeunes voisins. Dans un quartier populaire, deux familles voisines s’entrecroisent : celle de Houria, une femme prétentieuse mariée à Allal, un bijoutier, et mère de deux enfants très différents – Aziza, la fille rebelle qui rêve de mariage, et Farid, le jeune homme studieux destiné à une brillante carrière d’ingénieur – et celle de Fatna et Jawad, des gens simples et bienveillants, menant une vie modeste avec leur fille modèle, Amina, qui aspire à devenir journaliste. Entre ces deux mondes opposés, une histoire d’amour naît : Farid et Amina s’aiment en secret depuis leur tendre enfance. Mais cet amour est confronté aux préjugés de Houria, qui refuse catégoriquement cette union, espérant pour son fils un avenir brillant en France, loin de cette “simple voisine”. Malgré les obstacles, Farid s’accroche à son amour pour Amina, allant jusqu’à défier ses parents et quitter la maison. Alors que la vie s’écoule entre les joies et drames du quotidien – la grossesse inattendue de Fatna, les rêves contrariés de Farid, et les espoirs d’Amina –, un événement tragique bouleverse tout : Fatna décède en mettant au monde une petite fille. Ce drame bouleverse Farid, qui décide de ne pas poursuivre ses études pour rester auprès d‘Amina et de son père. Mais, consciente des sacrifices qu’il fait pour elle, Amina prend une décision douloureuse : déménager en pleine nuit avec son père, laissant une lettre à Farid pour lui dire de ne pas la chercher. Après 15 ans de séparation, les souvenirs refont surface dans un monde désormais transformé par la technologie. Un heureux hasard sur Internet entre la petite sœur d’Amina et le fils d’Aziza, relance l’histoire. Aziza, toujours fidèle à son rôle de médiatrice, s’efforce de réunir son frère et son premier amour. Dans une scène poignante, ils se retrouvent sur le banc de leur enfance, prêts à renouer avec cet amour qui a traversé le temps et les épreuves. Entre nostalgie, humour et émotion, cette histoire explore les tensions familiales, les rêves brisés et la force des sentiments dans un Maroc des années 90, riche de traditions et de contradictions. ",
+        "Info": {
+            "Réalisateur": "Dani Youssouf",
+            "Scénariste": "Faten El Youssfi",
+            "Genres": "Drame",
+            "Distribution": "Rabii Skalli        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21419_vertical_image_1741862968348.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21419_poster_image_1741790032678.jpeg",
+        "StreamID": "111724"
+    },
+    {
+        "CUID": "21837",
+        "Title": "DAMLIJ ZHIROU ",
+        "Category": "Movies",
+        "Synopsis": "Zhirou est l’unique fille de Haj Abdellaoui, un homme riche de la cité. Quand elle est demandée en mariage par Abdelwahab, jeune étudiant amoureux de poésie, la différence de classe sociale n’est pas pour arranger les choses… Après avoir égaré le bracelet de sa bien-aimée Zhirou, Abdelwahab se lance à sa recherche dans les ruelles de Fès, affrontant moult péripéties, défiant tentations et difficultés, quitte à sacrifier ce qu’il a de plus cher pour les beaux yeux de sa dulcinée. L’amour impossible va-t-il triompher ?",
+        "Info": {
+            "Audio": "Arabe",
+            "Genres": "Drame",
+            "Distribution": "Rabii Skalli        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21837_vertical_image_1741785115190.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21837_poster_image_1741785115155.jpeg",
+        "StreamID": "111903"
+    },
+    {
+        "CUID": "2422",
+        "Title": "Bayt Mina Zoujaj",
+        "Category": "Movies",
+        "Synopsis": "Ahmed est un homme d'affaires prospère, vivant heureux avec sa femme et sa fille unique. Cette dernière a été victime d'un accident d'avion. Puis un jour, par hasard, Ahmed rencontre une jeune femme qui ressemble beaucoup à sa fille et la présente à sa femme comme sa fille, afin qu'elle sorte de son chagrin.",
+        "Info": {
+            "Scénariste": "Reda Osman",
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Mohamed Khouyi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2422_vertical_image_1690213421003.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2422_poster_image_1690213057693.jpeg",
+        "StreamID": "80238"
+    },
+    {
+        "CUID": "22165",
+        "Title": "MAZAL AL HAL",
+        "Category": "Movies",
+        "Synopsis": "A Moulay Driss Zarhoun, une petite ville où les relations humaines souffrent de promiscuité, vit Nassrallah qui rêve de nouveaux horizons. Mais son père, qui lui a confié son bureau d'écrivain public, le contraint à se marier avec Kheira. Nassrallah, ayant exaucé le souhait de son père, ne considère pas autant Kheira comme sa femme. Celle-ci supporte mal le peu d'attention que lui porte son nouveau mari et les réflexions de sa belle-famille, qui compte pourtant sur le revenu supplémentaire qu'elle pourra apporter, en tant qu'infirmière. Kheira, en désespoir de cause, demande le divorce au moment où elle reçoit sa lettre d'affectation. Le couple se retrouve au tribunal, mais le juge les oblige à tenter une réconciliation et revivre ensemble pendant un mois..",
+        "Info": {
+            "Réalisateur": "Hicham El Jebbari",
+            "Scénariste": "Meryem Drissi",
+            "Audio": "Arabe",
+            "Distribution": "Fattah El Gharbaoui        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22165_vertical_image_1742677571894.png",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22165_poster_image_1742677663968.jpeg",
+        "StreamID": "112217"
+    },
+    {
+        "CUID": "21418",
+        "Title": "Forssa Tania",
+        "Category": "Movies",
+        "Synopsis": "Souad, une jeune femme de 24 ans, vit une existence simple avec son mari Adil, un employé de café modeste. Cependant, Souad rêve de tout autre chose : une vie de luxe, de célébrité et d’influence, comme celle de son idole Amal, une influenceuse à succès qu’elle suit sans relâche sur les réseaux sociaux. Ne se contentant plus de son quotidien, elle décide de tenter sa chance dans un jeu de hasard et, contre toute attente, remporte une fortune. Avec cette nouvelle richesse, Souad se sent prête à changer de vie, mais elle estime que son mari ne partage pas ses ambitions. Elle décide donc de mettre en place un plan avec l’aide de son amie Latifa pour pousser Adil à la quitter. Mais Adil, bien que profondément amoureux d’elle, découvre la vérité et décide de partir de lui-même. Libre de toute contrainte, Souad se lance dans une vie de luxe, un monde où la superficialité et la cupidité sont omniprésentes. Mais, en vivant cette vie de rêve, elle se rend vite compte que le vrai bonheur ne réside pas dans les apparences. La nostalgie de sa vie simple avec Adil la rattrape et elle se rend compte qu’elle a fait une erreur. Elle décide alors de partir à la recherche de son mari pour tenter de le récupérer. Lui donnera-t-il une seconde chance ? ",
+        "Info": {
+            "Réalisateur": "Hicham El Jebbari",
+            "Genres": "Drame",
+            "Distribution": "Fatima Ezzahra Lahrech        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21418_vertical_image_1743160560449.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21418_poster_image_1743160560419.jpeg",
+        "StreamID": "112436"
+    },
+    {
+        "CUID": "21414",
+        "Title": "L&#x27;Anonyme",
+        "Category": "Movies",
+        "Synopsis": "L’Anonyme est un drame social familial ancré dans l’univers vibrant et captivant du rap à Casablanca. À travers un casting jeune et talentueux, soutenu par des acteurs expérimentés, le téléfilm explore les réalités d’une ville multiculturelle où la passion pour le rap devient un moyen d’expression authentique.  L’histoire suit un avocat stagiaire qui, malgré son talent pour le rap, est contraint de cacher sa passion. Son parcours nous plonge dans les dilemmes intimes, les rêves inassouvis et les obstacles qu’il doit surmonter pour rester fidèle à son authenticité dans un monde fait d’apparences.  Dans ce voyage émotionnel, l’auteur réalisateur puise dans ses propres expériences et souvenirs, mêlant réalité et fiction pour offrir une histoire profondément humaine.  Avec une mise en scène empreinte de réalisme et d’émotion, le film capture l’essence d’une jeunesse urbaine vibrante et transcende le simple aspect musical pour toucher à des thèmes universels tels que l’identité, la liberté d’expression et la quête de sens dans un monde en constante transformation.",
+        "Info": {
+            "Scénariste": "Samia Akariou",
+            "Distribution": "Dada        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21414_vertical_image_1741964067770.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21414_poster_image_1741964067737.jpeg",
+        "StreamID": "111947"
+    },
+    {
+        "CUID": "22297",
+        "Title": " Jihane",
+        "Category": "Movies",
+        "Synopsis": "Jihane, jeune étudiante en 1ère année du baccalauréat, est issue d’une famille  traditionnelle et conservatrice. Passionnée par le football, elle se voit sélectionnée pour faire partie du Onze de son établissement. Elle doit d’abord surmonter l’opposition catégorique de son père, être armée pour affronter avec courage la concurrence extrême et sans scrupule au sein de l’équipe de football et réussir à  pratiquer sa passion contre vents et marées.  ",
+        "Info": {
+            "Réalisateur": "Driss Roukhe",
+            "Distribution": "Abdellah Ajil        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22297_vertical_image_1743085510803.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22297_poster_image_1743085510781.jpeg",
+        "StreamID": "112353"
+    },
+    {
+        "CUID": "21860",
+        "Title": "HOTEL CASAFORNIA",
+        "Category": "Movies",
+        "Synopsis": "Désireuse de faire sa vie à Casablanca, Sabah s'installe dans une petite chambre d’hôtel. A sa grande surprise, elle découvre dans le placard, une mallette qui renferme une importante somme d’argent. Elle hésite entre déclarer sa trouvaille ou la garder et quitter l’hôtel discrètement. Elle choisit la deuxième option alléchante par ce montant non négligeable. Elle s’expose ainsi au danger du risque et des conséquences…  ",
+        "Info": {
+            "Réalisateur": "Driss Sawab",
+            "Audio": "Arabe",
+            "Genres": "Drame",
+            "Distribution": "Tarik Boukhari        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21860_vertical_image_1741797738525.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21860_poster_image_1741962455153.jpeg",
+        "StreamID": "111906"
+    },
+    {
+        "CUID": "22029",
+        "Title": "ALLAYL HINA YANTAHI  ",
+        "Category": "Movies",
+        "Synopsis": "Suite à sa séparation avec sa femme française, qui a quitté le pays avec son fils adolescent, le réalisateur Aziz Ben Achour vit dans la tristesse et manque d'inspiration. Sa perception de la vie change quand il fait la connaissance de Meriem, serveuse dans un café et mère d'un enfant handicapé...",
+        "Info": {
+            "Réalisateur": "Abdeslam Kelai",
+            "Scénariste": "Abdeslam Kelai",
+            "Audio": "Arabe",
+            "Genres": "Drame",
+            "Distribution": "Amine Ennaji        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22029_vertical_image_1742311362785.png",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22029_poster_image_1742311498751.jpeg",
+        "StreamID": "112129"
+    },
+    {
+        "CUID": "22411",
+        "Title": "Attahssina",
+        "Category": "Movies",
+        "Synopsis": "Jaafar, veuf enseignant à la retraite vit avec sa sœur, il décroche un nouveau poste dans un lycée privé.   C’est un homme qui s’habille et se coiffe de façon très classique. Il entame son nouveau travail et a un accrochage avec un très bon élève dont la coiffure est des plus modernes. Il reçoit alors la foudre de la maman bloggeuse de ce dernier, qui poste des photos de lui jeune, en cheveux de Hippies…  ",
+        "Info": {
+            "Audio": "Arabe",
+            "Distribution": "Abdellah chicha        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22411_vertical_image_1743408222140.png",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22411_poster_image_1743408222115.jpeg",
+        "StreamID": "112465"
+    },
+    {
+        "CUID": "22389",
+        "Title": "Aicha Oula Souhaila",
+        "Category": "Movies",
+        "Synopsis": "Tayeb septuagénaire, habite un appartement luxueux des beaux quartiers. C’est le patron d’une société d’événementiel qu’il gère personnellement. Tayeb est le père d’Omar et Fatema, qui ne lui rendent visite que très rarement. Tayeb se sent seul et pense au mariage… Hamza, son bras droit dans la société, tente de le marier à sa belle-soeur Souhaila, au moment où Tayeb se rapproche de Aicha, une cuisinière expérimentée qui travaille pour lui.  ",
+        "Info": {
+            "Audio": "Arabe",
+            "Distribution": "Tarik Boukhari        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22389_vertical_image_1743262351077.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22389_poster_image_1743262351055.jpeg",
+        "StreamID": "112444"
+    },
+    {
+        "CUID": "21900",
+        "Title": "Bent Laam",
+        "Category": "Movies",
+        "Synopsis": "Hasna, étudiante aux beaux-arts, perd ses parents dans un tragique accident et tombe dans la dépression. Son cousin en profite et la séquestre chez lui, avec la complicité de son épouse. Ils lui font ingérer de médicaments pour l’affaiblir mentalement et la déposséder de ses biens…Elle s’échappe et sa vie prend une nouvelle tournure, quand elle va être embauchée chez la famille de Miloudi, en tant que servante.  ",
+        "Info": {
+            "Réalisateur": "Hamid Ziane",
+            "Audio": "Arabe",
+            "Genres": "Drame",
+            "Distribution": "Sahar Seddiki        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21900_vertical_image_1742048522725.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21900_poster_image_1742048522698.jpeg",
+        "StreamID": "111985"
+    },
+    {
+        "CUID": "652",
+        "Title": "Âam Fi lghorba",
+        "Category": "Movies",
+        "Synopsis": "No synopsis available",
+        "Info": {
+            "Réalisateur": ",",
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": ","
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/652_vertical_image_1675334459094.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/652_poster_image_1675334459090.jpeg",
+        "StreamID": "77242"
     },
     {
         "CUID": "346",
@@ -872,224 +1053,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1891_vertical_image_1682420361254.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1891_poster_image_1682419566646.jpeg",
         "StreamID": "78243"
-    },
-    {
-        "CUID": "1892",
-        "Title": "Rajel Lemra",
-        "Category": "Movies",
-        "Synopsis": "Driss, jeune comptable de trente ans, se résigne à la vie d'homme au foyer alors que Jalila sa femme est une carriériste de première. Ce couple doit affronter le regard d'une société machiste, d'une famille dure a satisfaire mais aussi du voyeurisme des voisins. Comment ce couple atypique et en même temps très amoureux va-t-il surmonter l'intrusion dans leur vie privée et les jugements ?",
-        "Info": {
-            "Réalisateur": "Dani Youssouf",
-            "Scénariste": "Faten El Youssfi        ,",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Comédie        ,",
-            "Distribution": "Mehdi Tkito        ,",
-            "Tags": "Rajel Lemra"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1892_vertical_image_1689931554300.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1892_poster_image_1677075789481.jpeg",
-        "StreamID": "104217"
-    },
-    {
-        "CUID": "1899",
-        "Title": "Chrif Moul Lbaraka",
-        "Category": "Movies",
-        "Synopsis": "Lhaj Driss a tout pour lui : une femme aimante, une bijouterie en pleine expansion, une fortune enviée par tous.. Mais voilà que Cherif, un faux dévot, prônant la parole de Dieu, se glisse dans sa vie et la fait basculer. Du jour au lendemain, Lhaj se transforme et les femmes de sa famille en sont les premières victimes...",
-        "Info": {
-            "Réalisateur": "Samia Akariou",
-            "Scénariste": "Sonia Terrab",
-            "Audio": "Arabe        ,",
-            "Sous-titres": "Français",
-            "Genres": "Comédie",
-            "Distribution": "Zineb Ennajem        ,",
-            "Tags": "Chrif Moul Lbaraka"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1899_vertical_image_1681381003284.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1899_poster_image_1676901293772.jpeg",
-        "StreamID": "81004"
-    },
-    {
-        "CUID": "14236",
-        "Title": "AL MAKINA",
-        "Category": "Movies",
-        "Synopsis": "Said est un petit fonctionnaire âgé d'une quarantaine d'années. Pour faire plaisir à sa femme Zineb, qui aime se mettre en valeur devant ses voisines, il achète à crédit une machine à laver. Ce qui lui vaudra un cadeau de la part de la société de produits électroménagers : un week-end pour deux personnes à Agadir. C'est le début d'une aventure imprévue pour ce Marrakchi, qui croit avoir gagné un voyage de rêve !",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Abdellah Ferkous        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14236_vertical_image_1713278634592.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14236_poster_image_1713278634566.jpeg",
-        "StreamID": "103565"
-    },
-    {
-        "CUID": "2415",
-        "Title": "Awili O Marhaba",
-        "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": {
-            "Réalisateur": "Narjiss Nejjar",
-            "Scénariste": "Narjiss Nejjar",
-            "Audio": "Arabe        ,",
-            "Genres": "Comédie",
-            "Distribution": "Aziz Hattab        ,",
-            "Tags": "Awili O Marhaba"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2415_vertical_image_1691505996566.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2415_poster_image_1691506094652.jpeg",
-        "StreamID": "80231"
-    },
-    {
-        "CUID": "344",
-        "Title": "Iktichaf",
-        "Category": "Movies",
-        "Synopsis": "Adnan cherche à inventer et à découvrir de nouvelles choses qui profitent à la société, mais il rencontre de nombreux obstacles sur son chemin pour réaliser son rêve.",
-        "Info": {
-            "Réalisateur": "Yazid Al Qadri",
-            "Scénariste": "Moncef El Kadiri",
-            "Audio": "AR        ,",
-            "Genres": "Drame",
-            "Distribution": "Mohamed Choubi        ,",
-            "Tags": "Iktichaf"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/344_vertical_image_1673262481522.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/344_poster_image_1673262481521.jpeg",
-        "StreamID": "76614"
-    },
-    {
-        "CUID": "1073",
-        "Title": "Âami Noufel",
-        "Category": "Movies",
-        "Synopsis": "L'histoire d'un couple qui n'a pas pu avoir d'enfant et décide d'adopter un vieil homme, ce qui les expose aux critiques de leur entourage. Peut-être leur décision est-elle due au fait qu'ils ont vécu orphelins dans leur jeunesse et souhaitaient être compensés par la tendresse du père perdu.",
-        "Info": {
-            "Réalisateur": "Hicham Lasri",
-            "Scénariste": "Yahya El Fandi        ,",
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Yahya El Fandi        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1073_vertical_image_1683903269269.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1073_poster_image_1683903269232.jpeg",
-        "StreamID": "77239"
-    },
-    {
-        "CUID": "1067",
-        "Title": "Sira&#x27;e Al Hayat",
-        "Category": "Movies",
-        "Synopsis": "No synopsis available",
-        "Info": {
-            "Audio": "AR        ,",
-            "Genres": "Drame",
-            "Distribution": "Latefa Ahrrare        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1067_vertical_image_1683729335139.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1067_poster_image_1683729276614.jpeg",
-        "StreamID": "77233"
-    },
-    {
-        "CUID": "2020",
-        "Title": "Al Kanz Al Marsoud",
-        "Category": "Movies",
-        "Synopsis": "El Bachir est un modeste paysan éleveur, qui possède deux lopins de terre et une vingtaine de moutons. Conscient du fait que l’héritage est source de conflits et de ruptures, il décide de son vivant, de donner à chacun de ses deux fils sa part. Après avoir pris possession de leurs biens, Mahjoub et Mbarek délaissent leur père et s’occupent à faire fructifier leurs affaires et propriétés. El Bachir utilisera alors la ruse pour leur donner une leçon de vie...",
-        "Info": {
-            "Scénariste": "Brahim Ali Boubakdi",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Drame        ,",
-            "Distribution": "Kalila Bounaylat        ,",
-            "Tags": "Al Kanz Al Marsoud"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2020_vertical_image_1684499823885.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2020_poster_image_1684498556060.jpeg",
-        "StreamID": "78501"
-    },
-    {
-        "CUID": "3146",
-        "Title": "Chahadat Hayat",
-        "Category": "Movies",
-        "Synopsis": "Le film raconte l'histoire d'Ibrahim, un homme riche mais radin. Il passe son quotidien à récolter de l’argent et à chercher les bonnes affaires. Un jour, il s’évanouit et les villageois pensent qu’il est mort. Après son enterrement, ses enfants décident de partager l’héritage et profiter de sa fortune sans se douter qu’après quelque temps leur père sera de retour. Déçu du comportement de sa famille, Ibrahim tente de récupérer ses biens. Pour cela, il sera amené à obtenir un certificat de vie prouvant qu’il n'est pas mort...",
-        "Info": {
-            "Réalisateur": "Said Azar",
-            "Scénariste": "Abderrahim Bahir",
-            "Audio": "AR        ,",
-            "Genres": "Comédie",
-            "Distribution": "Abdellah Ajil        ,",
-            "Tags": "Chahadat Hayat"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/3146_vertical_image_1680703948279.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/3146_poster_image_1680704243166.jpeg",
-        "StreamID": "81411"
-    },
-    {
-        "CUID": "3147",
-        "Title": "Lbes Keddek",
-        "Category": "Movies",
-        "Synopsis": "Issue d’une famille modeste, Safia est une jeune femme qui rêve d’une vie ostentatoire . Elle épouse Mohcine, un jeune cadre ambitieux, qui se rend compte rapidement à quel point sa femme est dépensière.",
-        "Info": {
-            "Réalisateur": "Mohamed Amine Mounna",
-            "Scénariste": "Bouchra Malek",
-            "Audio": "AR        ,",
-            "Genres": "Drame",
-            "Distribution": "Meryem Bakouch        ,",
-            "Tags": "Lbes Kedek"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/3147_vertical_image_1712240234501.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/3147_poster_image_1712240234316.jpeg",
-        "StreamID": "81412"
-    },
-    {
-        "CUID": "1887",
-        "Title": "Sbaâ Lyali",
-        "Category": "Movies",
-        "Synopsis": "Vivre l'amour à quarante ans, l'âge où la maturité fait son travail et nous pousse à réfléchir profondément dans notre quête de l'âme sœur. C'est l'histoire d'une célibataire sans enfants, Kenza, propriétaire d'un Riad destiné au tourisme raffiné. La crise sanitaire et la solitude la poussent à vendre son bien et à quitter le Maroc. Une firme russe vivement intéressée par le Riad lui envoie un certain Alexis, spécialiste des investissements étrangers, pour conclure la vente. Le coup de foudre est immédiat. Mais Alexis, alias Ali, a besoin de retrouver la résilience avant de se lancer dans une histoire d'amour. Ils n'ont que 7 jours pour prendre une décision qui risque de chambouler toute leur existence.",
-        "Info": {
-            "Réalisateur": "Chaouki El Oufir",
-            "Scénariste": "Samia Akariou        ,",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Drame",
-            "Distribution": "Malika El Omari        ,",
-            "Tags": "Sba3 Lyali"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1887_vertical_image_1677584010216.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1887_poster_image_1677582814763.jpeg",
-        "StreamID": "78235"
-    },
-    {
-        "CUID": "1906",
-        "Title": "Achabih",
-        "Category": "Movies",
-        "Synopsis": "Driss et Ahmed, les deux fils du millionnaire Hajj Thami, complotent pour lui retirer la gestion de sa fortune, sous prétexte qu'il n'a plus toute sa tête. Ce dernier réussit à leur échapper et erre dans les rues de la ville. Mais les deux frères tombent sur un sosie de leur père et comptent bien profiter de cette incroyable ressemblance pour arriver à leur fin…",
-        "Info": {
-            "Réalisateur": "Abderrahim Majd",
-            "Scénariste": "ahmed amal        ,",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Drame        ,",
-            "Distribution": "Nabil Atif        ,",
-            "Tags": "Achabih"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1906_vertical_image_1681392581906.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1906_poster_image_1677241021463.jpeg",
-        "StreamID": "78273"
-    },
-    {
-        "CUID": "1907",
-        "Title": "Al Âati Allah",
-        "Category": "Movies",
-        "Synopsis": "Lhaj El Maâti est un vieux veuf tyrannique et extrêmement avare. Quand un héritage lui tombe dessus, ses enfants veulent enfin avoir une belle vie et décident de lui jouer un tour. Mais c'est sans compter sur la ruse et la perfidie de Lhaj, qui décide de retourner tous les complots en sa faveur... Rira bien qui rira le dernier !",
-        "Info": {
-            "Réalisateur": "Samia Akariou",
-            "Scénariste": "Samia Akariou        ,",
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Saadia Ladib        ,",
-            "Tags": "Al 3ati Allah"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1907_vertical_image_1706526498035.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1907_poster_image_1706522788112.jpeg",
-        "StreamID": "78275"
     },
     {
         "CUID": "15330",
