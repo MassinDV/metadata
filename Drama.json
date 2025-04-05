@@ -10304,6 +10304,13 @@
                 "Episode": "E04",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22465_tile_image_1743454979439.jpeg",
                 "streamId": "112519"
+            },
+            {
+                "CUID": "22500",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22500_tile_image_1743610869793.jpeg",
+                "streamId": "112553"
             }
         ]
     },
@@ -10608,6 +10615,20 @@
                 "Episode": "E28",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22433_tile_image_1743368841146.jpeg",
                 "streamId": "112487"
+            },
+            {
+                "CUID": "22488",
+                "Session": "S01",
+                "Episode": "E29",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22488_tile_image_1743612235103.jpeg",
+                "streamId": "112542"
+            },
+            {
+                "CUID": "22489",
+                "Session": "S01",
+                "Episode": "E30",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22489_tile_image_1743612334548.jpeg",
+                "streamId": "112543"
             }
         ]
     },
@@ -10872,6 +10893,20 @@
                 "Episode": "E28",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22450_tile_image_1743434658285.jpeg",
                 "streamId": "112504"
+            },
+            {
+                "CUID": "22491",
+                "Session": "S01",
+                "Episode": "E29",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22491_tile_image_1743612750763.jpeg",
+                "streamId": "112544"
+            },
+            {
+                "CUID": "22492",
+                "Session": "S01",
+                "Episode": "E30",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22492_tile_image_1743612904792.jpeg",
+                "streamId": "112545"
             }
         ]
     },
