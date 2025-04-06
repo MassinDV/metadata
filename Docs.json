@@ -4003,6 +4003,13 @@
                 "Episode": "E40",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/21312_tile_image_1740150098125.jpeg",
                 "streamId": "111392"
+            },
+            {
+                "CUID": "22560",
+                "Session": "S01",
+                "Episode": "E41",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22560_tile_image_1743874047251.png",
+                "streamId": "112604"
             }
         ]
     },
