@@ -888,19 +888,19 @@
         "StreamID": "104003"
     },
     {
-        "CUID": "13941",
+        "CUID": null,
         "Title": "BATIMA 42",
         "Category": "Movies",
         "Synopsis": "BATIMA 42",
         "Info": {
-            "Réalisateur": "Yassine Fennane",
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "El Mehdi Foullan        ,"
+            "المخرج": "Yassine Fennane",
+            "الصوت": "AR",
+            "تصنيفات": "Comédie",
+            "توزيع الأدوار": "El Mehdi Foullan        ,"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13941_vertical_image_1721425867607.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13941_poster_image_1721425845791.jpeg",
-        "StreamID": "103226"
+        "VerticalImage": "",
+        "PosterImage": "",
+        "StreamID": ""
     },
     {
         "CUID": "1884",
