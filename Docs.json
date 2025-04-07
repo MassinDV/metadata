@@ -4599,6 +4599,20 @@
                 "Episode": "E02",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22217_tile_image_1742773977315.jpeg",
                 "streamId": "112272"
+            },
+            {
+                "CUID": "22437",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22437_tile_image_1743966637419.jpeg",
+                "streamId": "112491"
+            },
+            {
+                "CUID": "22539",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22539_tile_image_1743776479058.jpeg",
+                "streamId": "112584"
             }
         ]
     },

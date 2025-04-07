@@ -1,5 +1,33 @@
 [
     {
+        "CUID": "20651",
+        "Title": "Regraguia",
+        "Category": "Movies",
+        "Synopsis": "Regraguia, comme toutes les autres femmes marocaines traditionnelles mène une vie de femme au foyer. Son quotidien se résume à gérer son foyer et s'occupait des quatre enfants de son mari. Durant ses moments de loisirs, elle faisait de la broderie et de la tapisserie à l'image des autres femmes de la région.Mais, pour Regraguia, l'amour des couleurs dépassait tout cela. Elle ressentait une envie profonde de reporter tout ce qu'elle voit et tout ce qu'elle ressent, en couleurs, sur une toile. Mais elle savait que sa famille n'allait pas voir tout cela d'un bon oeil. Une perte de temps et un jeu d'enfant ! C'est comme cela que la peinture est considérée, là-bas, dans le monde dans lequel vit Regraguia. Un monde où il faut travailler dur pour avoir de quoi vivre et faire vivre les siens.Après la mort de son mari, Regraguia s'accorde enfin un peu plus de liberté. Elle donne libre court à son imagination et sa créativité débordante...",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Fatema Khair        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/20651_vertical_image_1738575714830.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/20651_poster_image_1738575853158.jpeg",
+        "StreamID": "110657"
+    },
+    {
+        "CUID": "20647",
+        "Title": "Inkissar",
+        "Category": "Movies",
+        "Synopsis": "Salah, un policier alcoolique, est marié et père de quatre enfants. Il passe ses soirées à s'enliser chaque nuit un peu plus dans les méandres ténébreux du monde de la nuit. En plus de sa négligence, Salah ne se gêne pas pour martyriser ses deux filles, ses deux garçons et sa femme qu'il n'hésite pas de menacer avec son arme.Mais après l'une des soirées bien arrosées de Salah avec ses amis chez lui, le policier réalise qu'il a perdu son arme. Il ne se rappelle plus dans quelles circonstances cela s'est produit. Après cette faute grave, c'est le licenciement qui tombe comme une guillotine sur la carrière de ce père despote. Pour lui c'est le début de la fin. Dépouillé et ruiné, Salah se retrouve à la charge de sa famille qu'il a longtemps tyrannisée.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Fatima  ESSAHEL        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/20647_vertical_image_1738576001425.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/20647_poster_image_1738576052244.jpeg",
+        "StreamID": "110621"
+    },
+    {
         "CUID": "21417",
         "Title": "Bini ou Binek",
         "Category": "Movies",
@@ -41,36 +69,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21837_vertical_image_1741785115190.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21837_poster_image_1741785115155.jpeg",
         "StreamID": "111903"
-    },
-    {
-        "CUID": "2422",
-        "Title": "Bayt Mina Zoujaj",
-        "Category": "Movies",
-        "Synopsis": "Ahmed est un homme d'affaires prospère, vivant heureux avec sa femme et sa fille unique. Cette dernière a été victime d'un accident d'avion. Puis un jour, par hasard, Ahmed rencontre une jeune femme qui ressemble beaucoup à sa fille et la présente à sa femme comme sa fille, afin qu'elle sorte de son chagrin.",
-        "Info": {
-            "Scénariste": "Reda Osman",
-            "Audio": "AR",
-            "Genres": "Drame",
-            "Distribution": "Mohamed Khouyi        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2422_vertical_image_1690213421003.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2422_poster_image_1690213057693.jpeg",
-        "StreamID": "80238"
-    },
-    {
-        "CUID": "22165",
-        "Title": "MAZAL AL HAL",
-        "Category": "Movies",
-        "Synopsis": "A Moulay Driss Zarhoun, une petite ville où les relations humaines souffrent de promiscuité, vit Nassrallah qui rêve de nouveaux horizons. Mais son père, qui lui a confié son bureau d'écrivain public, le contraint à se marier avec Kheira. Nassrallah, ayant exaucé le souhait de son père, ne considère pas autant Kheira comme sa femme. Celle-ci supporte mal le peu d'attention que lui porte son nouveau mari et les réflexions de sa belle-famille, qui compte pourtant sur le revenu supplémentaire qu'elle pourra apporter, en tant qu'infirmière. Kheira, en désespoir de cause, demande le divorce au moment où elle reçoit sa lettre d'affectation. Le couple se retrouve au tribunal, mais le juge les oblige à tenter une réconciliation et revivre ensemble pendant un mois..",
-        "Info": {
-            "Réalisateur": "Hicham El Jebbari",
-            "Scénariste": "Meryem Drissi",
-            "Audio": "Arabe",
-            "Distribution": "Fattah El Gharbaoui        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22165_vertical_image_1742677571894.png",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22165_poster_image_1742677663968.jpeg",
-        "StreamID": "112217"
     },
     {
         "CUID": "14608",
@@ -144,6 +142,34 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
         "StreamID": "107968"
+    },
+    {
+        "CUID": "20651",
+        "Title": "Regraguia",
+        "Category": "Movies",
+        "Synopsis": "Regraguia, comme toutes les autres femmes marocaines traditionnelles mène une vie de femme au foyer. Son quotidien se résume à gérer son foyer et s'occupait des quatre enfants de son mari. Durant ses moments de loisirs, elle faisait de la broderie et de la tapisserie à l'image des autres femmes de la région.Mais, pour Regraguia, l'amour des couleurs dépassait tout cela. Elle ressentait une envie profonde de reporter tout ce qu'elle voit et tout ce qu'elle ressent, en couleurs, sur une toile. Mais elle savait que sa famille n'allait pas voir tout cela d'un bon oeil. Une perte de temps et un jeu d'enfant ! C'est comme cela que la peinture est considérée, là-bas, dans le monde dans lequel vit Regraguia. Un monde où il faut travailler dur pour avoir de quoi vivre et faire vivre les siens.Après la mort de son mari, Regraguia s'accorde enfin un peu plus de liberté. Elle donne libre court à son imagination et sa créativité débordante...",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Fatema Khair        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/20651_vertical_image_1738575714830.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/20651_poster_image_1738575853158.jpeg",
+        "StreamID": "110657"
+    },
+    {
+        "CUID": "20647",
+        "Title": "Inkissar",
+        "Category": "Movies",
+        "Synopsis": "Salah, un policier alcoolique, est marié et père de quatre enfants. Il passe ses soirées à s'enliser chaque nuit un peu plus dans les méandres ténébreux du monde de la nuit. En plus de sa négligence, Salah ne se gêne pas pour martyriser ses deux filles, ses deux garçons et sa femme qu'il n'hésite pas de menacer avec son arme.Mais après l'une des soirées bien arrosées de Salah avec ses amis chez lui, le policier réalise qu'il a perdu son arme. Il ne se rappelle plus dans quelles circonstances cela s'est produit. Après cette faute grave, c'est le licenciement qui tombe comme une guillotine sur la carrière de ce père despote. Pour lui c'est le début de la fin. Dépouillé et ruiné, Salah se retrouve à la charge de sa famille qu'il a longtemps tyrannisée.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Fatima  ESSAHEL        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/20647_vertical_image_1738576001425.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/20647_poster_image_1738576052244.jpeg",
+        "StreamID": "110621"
     },
     {
         "CUID": "21417",
@@ -888,19 +914,19 @@
         "StreamID": "104003"
     },
     {
-        "CUID": null,
+        "CUID": "13941",
         "Title": "BATIMA 42",
         "Category": "Movies",
         "Synopsis": "BATIMA 42",
         "Info": {
-            "المخرج": "Yassine Fennane",
-            "الصوت": "AR",
-            "تصنيفات": "Comédie",
-            "توزيع الأدوار": "El Mehdi Foullan        ,"
+            "Réalisateur": "Yassine Fennane",
+            "Audio": "AR",
+            "Genres": "Comédie",
+            "Distribution": "El Mehdi Foullan        ,"
         },
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13941_vertical_image_1721425867607.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13941_poster_image_1721425845791.jpeg",
+        "StreamID": "103226"
     },
     {
         "CUID": "1884",
@@ -1021,35 +1047,17 @@
         "StreamID": "78495"
     },
     {
-        "CUID": "646",
-        "Title": "Takrim",
-        "Category": "Movies",
-        "Synopsis": "Sarhane Nawrass, un écrivain et romancier célèbre qui accumulé de nombreuses publications littéraires, reçoit l’invitation d’une des associations de Casablanca afin d’assister à sa cérémonie d’honneur.  S’attendant à ce que cet honneur s’accompagne d’un montant financier de 10 millions de centimes, le voyage de Sarhane depuis Agadir vers Casablanca ne se passe finalement comme prévu.",
+        "CUID": "2865",
+        "Title": "Rass Lmahna",
+        "Category": "Theater",
+        "Synopsis": "Rass Lmahna",
         "Info": {
-            "Réalisateur": ",",
             "Audio": "AR",
-            "Distribution": ","
+            "Distribution": "Abdellah Ferkous"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/646_vertical_image_1675331020510.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/646_poster_image_1675331020509.jpeg",
-        "StreamID": "76834"
-    },
-    {
-        "CUID": "2427",
-        "Title": "Yamna ",
-        "Category": "Movies",
-        "Synopsis": "Yamna raconte une histoire d'amour entre mensonge et abandon. La belle Yamna ne fait que mentir et manipuler ceux qui tombent sous son charme. Cependant, ils ne peuvent pas la quitter car elle les captive d'une manière qui leur ferait tout abandonner pour elle...",
-        "Info": {
-            "Réalisateur": "Abdullah Al Yazni",
-            "Scénariste": "Hicham Amal",
-            "Audio": "AR        ,",
-            "Genres": "Comédie",
-            "Distribution": "Abderrazzak Al Zaytouni        ,",
-            "Tags": "Yamna"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2427_vertical_image_1681395860611.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2427_poster_image_1681395843600.jpeg",
-        "StreamID": "80243"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2865_vertical_image_1701700523046.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2865_poster_image_1701700497978.jpeg",
+        "StreamID": "80644"
     },
     {
         "CUID": "15330",
@@ -1104,18 +1112,17 @@
         "StreamID": "77616"
     },
     {
-        "CUID": "4948",
-        "Title": "Lah Yataamna Halal",
+        "CUID": "2865",
+        "Title": "Rass Lmahna",
         "Category": "Theater",
-        "Synopsis": "Que se passe-t-il lorsque la femme révèle l'infidélité de son mari et comment le mari agit-il dans cette situation pour se déclarer innocent ? Des événements que nous vivrons avec des personnages qui miment la réalité vécue.",
+        "Synopsis": "Rass Lmahna",
         "Info": {
-            "Réalisateur": "Mustapha Fakir",
             "Audio": "AR",
-            "Distribution": "Amina Rachid        ,"
+            "Distribution": "Abdellah Ferkous"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/4948_vertical_image_1689172565135.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/4948_poster_image_1689172553223.jpeg",
-        "StreamID": "83776"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2865_vertical_image_1701700523046.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2865_poster_image_1701700497978.jpeg",
+        "StreamID": "80644"
     },
     {
         "CUID": "15330",
