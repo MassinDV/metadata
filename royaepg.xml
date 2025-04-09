@@ -52,11 +52,7 @@
     <title lang="ar">طايع</title>
     <desc lang="ar">"طايع"، مسلسل يروي قصة خريج الطب المصري الذي يعبر عن رأيه الخاص في قضية الثأر، ولكن يتورط في مشاكل عدة، بما في ذلك تهريب الآثار، خاصةً مع ارتباط أعز أصدقائه بالشرطة.</desc>
   </programme>
-  <programme start="20250409143000 +0000" stop="20250409150000 +0000" channel="channel_1">
-    <title lang="ar">فترة الاطفال</title>
-    <desc lang="ar">مجموعة من برامج ورسوم متحركة خاصة بالأطفال .</desc>
-  </programme>
-  <programme start="20250409150000 +0000" stop="20250409153000 +0000" channel="channel_1">
+  <programme start="20250409143000 +0000" stop="20250409153000 +0000" channel="channel_1">
     <title lang="ar">فترة الاطفال</title>
     <desc lang="ar">مجموعة من برامج ورسوم متحركة خاصة بالأطفال .</desc>
   </programme>
