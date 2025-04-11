@@ -272,19 +272,6 @@
         "StreamID": "111947"
     },
     {
-        "CUID": "21414",
-        "Title": "L&#x27;Anonyme",
-        "Category": "Movies",
-        "Synopsis": "L’Anonyme est un drame social familial ancré dans l’univers vibrant et captivant du rap à Casablanca. À travers un casting jeune et talentueux, soutenu par des acteurs expérimentés, le téléfilm explore les réalités d’une ville multiculturelle où la passion pour le rap devient un moyen d’expression authentique.  L’histoire suit un avocat stagiaire qui, malgré son talent pour le rap, est contraint de cacher sa passion. Son parcours nous plonge dans les dilemmes intimes, les rêves inassouvis et les obstacles qu’il doit surmonter pour rester fidèle à son authenticité dans un monde fait d’apparences.  Dans ce voyage émotionnel, l’auteur réalisateur puise dans ses propres expériences et souvenirs, mêlant réalité et fiction pour offrir une histoire profondément humaine.  Avec une mise en scène empreinte de réalisme et d’émotion, le film capture l’essence d’une jeunesse urbaine vibrante et transcende le simple aspect musical pour toucher à des thèmes universels tels que l’identité, la liberté d’expression et la quête de sens dans un monde en constante transformation.",
-        "Info": {
-            "Scénariste": "Samia Akariou",
-            "Distribution": "Dada        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21414_vertical_image_1741964067770.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21414_poster_image_1741964067737.jpeg",
-        "StreamID": "111947"
-    },
-    {
         "CUID": "22297",
         "Title": " Jihane",
         "Category": "Movies",
@@ -1040,6 +1027,24 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13940_vertical_image_1721815265635.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13940_poster_image_1721815265612.jpeg",
         "StreamID": "103225"
+    },
+    {
+        "CUID": "2017",
+        "Title": "Souq Nssa",
+        "Category": "Movies",
+        "Synopsis": "\"Souq Nssa\" est une histoire pleine de rebondissements, dans laquelle le bien fait face aux forces du mal. Au coeur de l'intrigue, le Sultan des Tolbas (étudiants). Ce dernier, symbolise dans la mémoire collective, l’érudition en matière de langues, de théologie et de savoir en général.  Quand il décide de partir en voyage pour compléter ses connaissances théoriques, il se lance dans une aventure qui ne sera pas de tout repos. Jonchée d’embûches et marquée de rencontres comme celle avec la charmante Taja, une jeune femme qui incarne la ruse et l'intelligence au féminin.  Ce voyage initiatique sera, pour le Sultan des Tolbas, riche en enseignements et en découvertes. Des leçons d'une grande valeur autour de la vie et de la femme...",
+        "Info": {
+            "Réalisateur": "Fatima Ali Boubakdi",
+            "Scénariste": "Brahim Ali Boubakdi",
+            "Audio": "AR        ,",
+            "Sous-titres": "Français",
+            "Genres": "Patrimonial        ,",
+            "Distribution": "Hanane Zouhdi        ,",
+            "Tags": "Souq Nssa"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2017_vertical_image_1677753277425.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2017_poster_image_1677752450023.jpeg",
+        "StreamID": "78495"
     },
     {
         "CUID": "2865",
