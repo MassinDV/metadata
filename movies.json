@@ -1,5 +1,19 @@
 [
     {
+        "CUID": "22692",
+        "Title": "Jirah Al Madi",
+        "Category": "Movies",
+        "Synopsis": "Les blessures du passé peuvent-elles être guéries ?  « Amal », une pharmacienne à succès, reçoit un jour la visite de son oncle qui l’informe que son père est toujours en vie mais mourant.   Cette nouvelle va bouleverser le cours de sa vie et celle de son entourage, pour qui le père d’« Amal » était mort quand elle était enfant.   En réalité, « Amal » savait que son père était bel et bien vivant mais qu’il les avait abandonnées, elle et sa mère, quand elle n'avait que 5 ans.   Malgré tout, la curiosité d’« Amal » finira par l'emporter et elle décide d’aller à la rencontre de son père. Ces retrouvailles vont réveiller de vieilles blessures chez   « Amal » qui veut savoir pourquoi son père est parti. Elle est choquée en apprenant les véritables raisons derrière cet abandon. En fouillant dans son passé, elle découvre que tout n'était basé que sur une parole non fondée, ou ce qu'on appelle une rumeur.   Le film est basé sur une histoire vraie qui aborde des sujets liés au fléau des rumeurs et aux tragédies qu'elles peuvent causer. ",
+        "Info": {
+            "Réalisateur": "Az Larabe Alaoui",
+            "Scénariste": "Abdelilah Hamdouchi",
+            "Distribution": "Hicham El Ouali        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22692_vertical_image_1744385260902.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22692_poster_image_1744385253030.jpeg",
+        "StreamID": "112737"
+    },
+    {
         "CUID": "20651",
         "Title": "Regraguia",
         "Category": "Movies",
@@ -55,20 +69,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21419_vertical_image_1741862968348.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21419_poster_image_1741790032678.jpeg",
         "StreamID": "111724"
-    },
-    {
-        "CUID": "21837",
-        "Title": "DAMLIJ ZHIROU ",
-        "Category": "Movies",
-        "Synopsis": "Zhirou est l’unique fille de Haj Abdellaoui, un homme riche de la cité. Quand elle est demandée en mariage par Abdelwahab, jeune étudiant amoureux de poésie, la différence de classe sociale n’est pas pour arranger les choses… Après avoir égaré le bracelet de sa bien-aimée Zhirou, Abdelwahab se lance à sa recherche dans les ruelles de Fès, affrontant moult péripéties, défiant tentations et difficultés, quitte à sacrifier ce qu’il a de plus cher pour les beaux yeux de sa dulcinée. L’amour impossible va-t-il triompher ?",
-        "Info": {
-            "Audio": "Arabe",
-            "Genres": "Drame",
-            "Distribution": "Rabii Skalli        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21837_vertical_image_1741785115190.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21837_poster_image_1741785115155.jpeg",
-        "StreamID": "111903"
     },
     {
         "CUID": "14608",
@@ -142,6 +142,20 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
         "StreamID": "107968"
+    },
+    {
+        "CUID": "22692",
+        "Title": "Jirah Al Madi",
+        "Category": "Movies",
+        "Synopsis": "Les blessures du passé peuvent-elles être guéries ?  « Amal », une pharmacienne à succès, reçoit un jour la visite de son oncle qui l’informe que son père est toujours en vie mais mourant.   Cette nouvelle va bouleverser le cours de sa vie et celle de son entourage, pour qui le père d’« Amal » était mort quand elle était enfant.   En réalité, « Amal » savait que son père était bel et bien vivant mais qu’il les avait abandonnées, elle et sa mère, quand elle n'avait que 5 ans.   Malgré tout, la curiosité d’« Amal » finira par l'emporter et elle décide d’aller à la rencontre de son père. Ces retrouvailles vont réveiller de vieilles blessures chez   « Amal » qui veut savoir pourquoi son père est parti. Elle est choquée en apprenant les véritables raisons derrière cet abandon. En fouillant dans son passé, elle découvre que tout n'était basé que sur une parole non fondée, ou ce qu'on appelle une rumeur.   Le film est basé sur une histoire vraie qui aborde des sujets liés au fléau des rumeurs et aux tragédies qu'elles peuvent causer. ",
+        "Info": {
+            "Réalisateur": "Az Larabe Alaoui",
+            "Scénariste": "Abdelilah Hamdouchi",
+            "Distribution": "Hicham El Ouali        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22692_vertical_image_1744385260902.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22692_poster_image_1744385253030.jpeg",
+        "StreamID": "112737"
     },
     {
         "CUID": "20651",
@@ -1027,24 +1041,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13940_vertical_image_1721815265635.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13940_poster_image_1721815265612.jpeg",
         "StreamID": "103225"
-    },
-    {
-        "CUID": "2017",
-        "Title": "Souq Nssa",
-        "Category": "Movies",
-        "Synopsis": "\"Souq Nssa\" est une histoire pleine de rebondissements, dans laquelle le bien fait face aux forces du mal. Au coeur de l'intrigue, le Sultan des Tolbas (étudiants). Ce dernier, symbolise dans la mémoire collective, l’érudition en matière de langues, de théologie et de savoir en général.  Quand il décide de partir en voyage pour compléter ses connaissances théoriques, il se lance dans une aventure qui ne sera pas de tout repos. Jonchée d’embûches et marquée de rencontres comme celle avec la charmante Taja, une jeune femme qui incarne la ruse et l'intelligence au féminin.  Ce voyage initiatique sera, pour le Sultan des Tolbas, riche en enseignements et en découvertes. Des leçons d'une grande valeur autour de la vie et de la femme...",
-        "Info": {
-            "Réalisateur": "Fatima Ali Boubakdi",
-            "Scénariste": "Brahim Ali Boubakdi",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Patrimonial        ,",
-            "Distribution": "Hanane Zouhdi        ,",
-            "Tags": "Souq Nssa"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2017_vertical_image_1677753277425.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2017_poster_image_1677752450023.jpeg",
-        "StreamID": "78495"
     },
     {
         "CUID": "2865",
