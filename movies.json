@@ -1,5 +1,18 @@
 [
     {
+        "CUID": "2420",
+        "Title": "3 Filles",
+        "Category": "Movies",
+        "Synopsis": "3 Filles",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
+        "StreamID": "80236"
+    },
+    {
         "CUID": "22692",
         "Title": "Jirah Al Madi",
         "Category": "Movies",
@@ -54,21 +67,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21417_vertical_image_1743763174066.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21417_poster_image_1743763174030.jpeg",
         "StreamID": "112580"
-    },
-    {
-        "CUID": "21419",
-        "Title": "Trik lycée",
-        "Category": "Movies",
-        "Synopsis": "Plongée dans les années 90, bien avant l’ère des réseaux sociaux, cette comédie romantique au cœur tendre raconte une histoire d’amour interdit entre deux jeunes voisins. Dans un quartier populaire, deux familles voisines s’entrecroisent : celle de Houria, une femme prétentieuse mariée à Allal, un bijoutier, et mère de deux enfants très différents – Aziza, la fille rebelle qui rêve de mariage, et Farid, le jeune homme studieux destiné à une brillante carrière d’ingénieur – et celle de Fatna et Jawad, des gens simples et bienveillants, menant une vie modeste avec leur fille modèle, Amina, qui aspire à devenir journaliste. Entre ces deux mondes opposés, une histoire d’amour naît : Farid et Amina s’aiment en secret depuis leur tendre enfance. Mais cet amour est confronté aux préjugés de Houria, qui refuse catégoriquement cette union, espérant pour son fils un avenir brillant en France, loin de cette “simple voisine”. Malgré les obstacles, Farid s’accroche à son amour pour Amina, allant jusqu’à défier ses parents et quitter la maison. Alors que la vie s’écoule entre les joies et drames du quotidien – la grossesse inattendue de Fatna, les rêves contrariés de Farid, et les espoirs d’Amina –, un événement tragique bouleverse tout : Fatna décède en mettant au monde une petite fille. Ce drame bouleverse Farid, qui décide de ne pas poursuivre ses études pour rester auprès d‘Amina et de son père. Mais, consciente des sacrifices qu’il fait pour elle, Amina prend une décision douloureuse : déménager en pleine nuit avec son père, laissant une lettre à Farid pour lui dire de ne pas la chercher. Après 15 ans de séparation, les souvenirs refont surface dans un monde désormais transformé par la technologie. Un heureux hasard sur Internet entre la petite sœur d’Amina et le fils d’Aziza, relance l’histoire. Aziza, toujours fidèle à son rôle de médiatrice, s’efforce de réunir son frère et son premier amour. Dans une scène poignante, ils se retrouvent sur le banc de leur enfance, prêts à renouer avec cet amour qui a traversé le temps et les épreuves. Entre nostalgie, humour et émotion, cette histoire explore les tensions familiales, les rêves brisés et la force des sentiments dans un Maroc des années 90, riche de traditions et de contradictions. ",
-        "Info": {
-            "Réalisateur": "Dani Youssouf",
-            "Scénariste": "Faten El Youssfi",
-            "Genres": "Drame",
-            "Distribution": "Rabii Skalli        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21419_vertical_image_1741862968348.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21419_poster_image_1741790032678.jpeg",
-        "StreamID": "111724"
     },
     {
         "CUID": "14608",
@@ -142,6 +140,19 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18118_poster_image_1730364944724.jpeg",
         "StreamID": "107968"
+    },
+    {
+        "CUID": "2420",
+        "Title": "3 Filles",
+        "Category": "Movies",
+        "Synopsis": "3 Filles",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
+        "StreamID": "80236"
     },
     {
         "CUID": "22692",
@@ -1029,18 +1040,16 @@
         "StreamID": "99939"
     },
     {
-        "CUID": "13940",
-        "Title": "JAREB TCHOF",
-        "Category": "Movies",
-        "Synopsis": "Saleh, un employé de la bibliothèque municipal qui mène une vie tout à fait normale. C’est un homme sérieux et travailleur qui craint l'autorité et ne sait pas faire entendre sa voix. Jusqu'au jour où les autorités locales menacent de fermer la bibliothèque et la remplacer par une salle de fête.   Un jour, il découvre l’existence d’un génie entre les livres. Ce dernier serait capable de transformer la personnalité de Saleh grâce à des manuscrits magiques.  S'ensuit une série de situations plus drôles les unes que les autres, au gré des changements de personnalité de Saleh… ",
+        "CUID": "15317",
+        "Title": "Arajolo Ladi",
+        "Category": "Theater",
+        "Synopsis": "Une pièce théâtrale qui présente des problèmes immédiats multiples et conflictuels, aboutissant à des paradoxes qui se caractérisent par la nature de l'observation et du plaisir, le tout dans une histoire intéressante avec un début et une fin... La famille prouve qu'il n'y a pas le mal dans cette vie quand il y a compréhension... coopération... et tolérance.",
         "Info": {
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Aziz Dadas        ,"
+            "Audio": "AR"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13940_vertical_image_1721815265635.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13940_poster_image_1721815265612.jpeg",
-        "StreamID": "103225"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15317_vertical_image_1721139897320.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15317_poster_image_1721139897186.jpeg",
+        "StreamID": "105047"
     },
     {
         "CUID": "2865",
@@ -1095,17 +1104,16 @@
         "StreamID": "84776"
     },
     {
-        "CUID": "1553",
-        "Title": "star acadeby",
+        "CUID": "15317",
+        "Title": "Arajolo Ladi",
         "Category": "Theater",
-        "Synopsis": "Semblables à des compétitions connues, nous vivons des situations satiriques et parodiques dans Sattar Akadibi, qui fait des contes une pièce divertissante où la musique se mêle à l'humour. Les personnages caricaturaux créent des événements comiques.",
+        "Synopsis": "Une pièce théâtrale qui présente des problèmes immédiats multiples et conflictuels, aboutissant à des paradoxes qui se caractérisent par la nature de l'observation et du plaisir, le tout dans une histoire intéressante avec un début et une fin... La famille prouve qu'il n'y a pas le mal dans cette vie quand il y a compréhension... coopération... et tolérance.",
         "Info": {
-            "Audio": "AR",
-            "Distribution": "Anouar El Joundi        ,"
+            "Audio": "AR"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1553_vertical_image_1684937954103.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1553_poster_image_1701690308926.jpeg",
-        "StreamID": "77616"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15317_vertical_image_1721139897320.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15317_poster_image_1721139897186.jpeg",
+        "StreamID": "105047"
     },
     {
         "CUID": "2865",
