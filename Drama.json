@@ -11146,5 +11146,46 @@
                 "streamId": "112530"
             }
         ]
+    },
+    {
+        "Name": "Maqtoue Men Chajra",
+        "Category": "Drama",
+        "Episodes": [
+            {
+                "CUID": "8530",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/8530_tile_image_1709121511216.jpeg",
+                "streamId": "94170"
+            },
+            {
+                "CUID": "8532",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/8532_tile_image_1709121554166.jpeg",
+                "streamId": "94172"
+            },
+            {
+                "CUID": "8533",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/8533_tile_image_1709121568850.jpeg",
+                "streamId": "94173"
+            },
+            {
+                "CUID": "8534",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/8534_tile_image_1709121583973.jpeg",
+                "streamId": "94174"
+            },
+            {
+                "CUID": "8535",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/8535_tile_image_1709121598959.jpeg",
+                "streamId": "94175"
+            }
+        ]
     }
 ]
