@@ -15166,6 +15166,13 @@
                 "Episode": "E10",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22869_tile_image_1745247265247.jpeg",
                 "streamId": "112903"
+            },
+            {
+                "CUID": "22889",
+                "Session": "S01",
+                "Episode": "E11",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22889_tile_image_1745334602264.jpeg",
+                "streamId": "112926"
             }
         ]
     },
@@ -15569,6 +15576,222 @@
                 "Episode": "E05",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/22517_tile_image_1743683305444.jpeg",
                 "streamId": "112566"
+            }
+        ]
+    },
+    {
+        "Name": "Zanqat Assaada",
+        "Category": "Comedy",
+        "Episodes": [
+            {
+                "CUID": "1762",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1762_tile_image_1678274592356.jpeg",
+                "streamId": "77828"
+            },
+            {
+                "CUID": "1756",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1756_tile_image_1678274575249.jpeg",
+                "streamId": "77822"
+            },
+            {
+                "CUID": "1752",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1752_tile_image_1678274550549.jpeg",
+                "streamId": "77818"
+            },
+            {
+                "CUID": "1751",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1751_tile_image_1678274530297.jpeg",
+                "streamId": "77817"
+            },
+            {
+                "CUID": "1747",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1747_tile_image_1678274507851.jpeg",
+                "streamId": "77813"
+            },
+            {
+                "CUID": "1743",
+                "Session": "S01",
+                "Episode": "E06",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1743_tile_image_1678274484628.jpeg",
+                "streamId": "77809"
+            },
+            {
+                "CUID": "1739",
+                "Session": "S01",
+                "Episode": "E07",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1739_tile_image_1678274463196.jpeg",
+                "streamId": "77805"
+            },
+            {
+                "CUID": "1759",
+                "Session": "S01",
+                "Episode": "E08",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1759_tile_image_1678274438107.jpeg",
+                "streamId": "77825"
+            },
+            {
+                "CUID": "1744",
+                "Session": "S01",
+                "Episode": "E09",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1744_tile_image_1678274416752.jpeg",
+                "streamId": "77810"
+            },
+            {
+                "CUID": "1754",
+                "Session": "S01",
+                "Episode": "E10",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1754_tile_image_1678274391865.jpeg",
+                "streamId": "77820"
+            },
+            {
+                "CUID": "1764",
+                "Session": "S01",
+                "Episode": "E11",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1764_tile_image_1678274372398.jpeg",
+                "streamId": "77830"
+            },
+            {
+                "CUID": "1738",
+                "Session": "S01",
+                "Episode": "E12",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1738_tile_image_1678274353315.jpeg",
+                "streamId": "77804"
+            },
+            {
+                "CUID": "1745",
+                "Session": "S01",
+                "Episode": "E13",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1745_tile_image_1678274335323.jpeg",
+                "streamId": "77811"
+            },
+            {
+                "CUID": "1761",
+                "Session": "S01",
+                "Episode": "E14",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1761_tile_image_1678274293212.jpeg",
+                "streamId": "77827"
+            },
+            {
+                "CUID": "1746",
+                "Session": "S01",
+                "Episode": "E15",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1746_tile_image_1678274629785.jpeg",
+                "streamId": "77812"
+            },
+            {
+                "CUID": "1742",
+                "Session": "S01",
+                "Episode": "E16",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1742_tile_image_1678274645058.jpeg",
+                "streamId": "77808"
+            },
+            {
+                "CUID": "1740",
+                "Session": "S01",
+                "Episode": "E17",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1740_tile_image_1678274667113.jpeg",
+                "streamId": "77806"
+            },
+            {
+                "CUID": "1741",
+                "Session": "S01",
+                "Episode": "E18",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1741_tile_image_1678274683018.jpeg",
+                "streamId": "77807"
+            },
+            {
+                "CUID": "1748",
+                "Session": "S01",
+                "Episode": "E19",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1748_tile_image_1678274706407.jpeg",
+                "streamId": "77814"
+            },
+            {
+                "CUID": "1765",
+                "Session": "S01",
+                "Episode": "E20",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1765_tile_image_1678274738948.jpeg",
+                "streamId": "77831"
+            },
+            {
+                "CUID": "1753",
+                "Session": "S01",
+                "Episode": "E21",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1753_tile_image_1678274756885.jpeg",
+                "streamId": "77819"
+            },
+            {
+                "CUID": "1750",
+                "Session": "S01",
+                "Episode": "E22",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1750_tile_image_1678274776797.jpeg",
+                "streamId": "77816"
+            },
+            {
+                "CUID": "1760",
+                "Session": "S01",
+                "Episode": "E23",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1760_tile_image_1678274794564.jpeg",
+                "streamId": "77826"
+            },
+            {
+                "CUID": "1766",
+                "Session": "S01",
+                "Episode": "E24",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1766_tile_image_1678274814625.jpeg",
+                "streamId": "77832"
+            },
+            {
+                "CUID": "1763",
+                "Session": "S01",
+                "Episode": "E25",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1763_tile_image_1678274832590.jpeg",
+                "streamId": "77829"
+            },
+            {
+                "CUID": "1737",
+                "Session": "S01",
+                "Episode": "E26",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1737_tile_image_1678274852208.jpeg",
+                "streamId": "77803"
+            },
+            {
+                "CUID": "1755",
+                "Session": "S01",
+                "Episode": "E27",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1755_tile_image_1678274882908.jpeg",
+                "streamId": "77821"
+            },
+            {
+                "CUID": "1758",
+                "Session": "S01",
+                "Episode": "E28",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1758_tile_image_1678274996010.jpeg",
+                "streamId": "77824"
+            },
+            {
+                "CUID": "1757",
+                "Session": "S01",
+                "Episode": "E29",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1757_tile_image_1678275013033.jpeg",
+                "streamId": "77823"
+            },
+            {
+                "CUID": "1749",
+                "Session": "S01",
+                "Episode": "E30",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1749_tile_image_1703237248612.jpeg",
+                "streamId": "77815"
             }
         ]
     }
