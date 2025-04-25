@@ -1149,17 +1149,17 @@
         "StreamID": "84781"
     },
     {
-        "CUID": null,
+        "CUID": "5859",
         "Title": "Qdam Rbah",
         "Category": "Theater",
         "Synopsis": "Une pièce théâtrale comique qui tourne autour de Jilali, qui, après avoir été à la retraite, s’est livré à une activité commerciale avec la participation de sa femme, mais est rapidement victime de détournements de fonds, avec des situations sociales comiques qui l'accompagnent.",
         "Info": {
-            "الصوت": "AR",
-            "توزيع الأدوار": "Nezha Regragui        ,"
+            "Audio": "AR",
+            "Distribution": "Nezha Regragui        ,"
         },
-        "VerticalImage": "",
-        "PosterImage": "",
-        "StreamID": ""
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5859_vertical_image_1701945989833.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5859_poster_image_1701945975839.jpeg",
+        "StreamID": "84776"
     },
     {
         "CUID": "1553",
