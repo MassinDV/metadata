@@ -1,5 +1,36 @@
 [
     {
+        "CUID": "2434",
+        "Title": "Addem Al Maghdour",
+        "Category": "Movies",
+        "Synopsis": "Les habitants d'un village vivent dans un calme absolu, la plupart des hommes du village travaillent dans la mine, où les conflits entre eux ont tendance à s'aggraver et peuvent avoir de lourdes conséquences.",
+        "Info": {
+            "Réalisateur": "Adil Elfadili",
+            "Scénariste": "Ahmed Tahiri Idrissi",
+            "Audio": "AR",
+            "Genres": "Drame        ,",
+            "Distribution": "Mohamed Bastaoui        ,",
+            "Tags": "Addem Al Maghdour"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2434_vertical_image_1677592727211.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2434_poster_image_1676642318268.jpeg",
+        "StreamID": "80250"
+    },
+    {
+        "CUID": "5219",
+        "Title": " LA ROUTE",
+        "Category": "Movies",
+        "Synopsis": "L'histoire du film tourne autour d'un vendeur de VCD se déplaçant de ville en ville pour vendre sa marchandise. Un jour, alors qu'il voyageait en périphérie, il a failli être renversé par un camion. Il remarquera rapidement que ce camion n'est pas comme tous les autres camions.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Mansour Badri        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5219_vertical_image_1684408221985.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5219_poster_image_1684408215037.jpeg",
+        "StreamID": "84070"
+    },
+    {
         "CUID": "2450",
         "Title": "Âala Difat Al Kalb",
         "Category": "Movies",
@@ -41,34 +72,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22692_vertical_image_1744385260902.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22692_poster_image_1744385253030.jpeg",
         "StreamID": "112737"
-    },
-    {
-        "CUID": "20651",
-        "Title": "Regraguia",
-        "Category": "Movies",
-        "Synopsis": "Regraguia, comme toutes les autres femmes marocaines traditionnelles mène une vie de femme au foyer. Son quotidien se résume à gérer son foyer et s'occupait des quatre enfants de son mari. Durant ses moments de loisirs, elle faisait de la broderie et de la tapisserie à l'image des autres femmes de la région.Mais, pour Regraguia, l'amour des couleurs dépassait tout cela. Elle ressentait une envie profonde de reporter tout ce qu'elle voit et tout ce qu'elle ressent, en couleurs, sur une toile. Mais elle savait que sa famille n'allait pas voir tout cela d'un bon oeil. Une perte de temps et un jeu d'enfant ! C'est comme cela que la peinture est considérée, là-bas, dans le monde dans lequel vit Regraguia. Un monde où il faut travailler dur pour avoir de quoi vivre et faire vivre les siens.Après la mort de son mari, Regraguia s'accorde enfin un peu plus de liberté. Elle donne libre court à son imagination et sa créativité débordante...",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Drame",
-            "Distribution": "Fatema Khair        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/20651_vertical_image_1738575714830.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/20651_poster_image_1738575853158.jpeg",
-        "StreamID": "110657"
-    },
-    {
-        "CUID": "20647",
-        "Title": "Inkissar",
-        "Category": "Movies",
-        "Synopsis": "Salah, un policier alcoolique, est marié et père de quatre enfants. Il passe ses soirées à s'enliser chaque nuit un peu plus dans les méandres ténébreux du monde de la nuit. En plus de sa négligence, Salah ne se gêne pas pour martyriser ses deux filles, ses deux garçons et sa femme qu'il n'hésite pas de menacer avec son arme.Mais après l'une des soirées bien arrosées de Salah avec ses amis chez lui, le policier réalise qu'il a perdu son arme. Il ne se rappelle plus dans quelles circonstances cela s'est produit. Après cette faute grave, c'est le licenciement qui tombe comme une guillotine sur la carrière de ce père despote. Pour lui c'est le début de la fin. Dépouillé et ruiné, Salah se retrouve à la charge de sa famille qu'il a longtemps tyrannisée.",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Drame",
-            "Distribution": "Fatima  ESSAHEL        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/20647_vertical_image_1738576001425.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/20647_poster_image_1738576052244.jpeg",
-        "StreamID": "110621"
     },
     {
         "CUID": "21417",
@@ -139,6 +142,37 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
         "StreamID": "80236"
+    },
+    {
+        "CUID": "2434",
+        "Title": "Addem Al Maghdour",
+        "Category": "Movies",
+        "Synopsis": "Les habitants d'un village vivent dans un calme absolu, la plupart des hommes du village travaillent dans la mine, où les conflits entre eux ont tendance à s'aggraver et peuvent avoir de lourdes conséquences.",
+        "Info": {
+            "Réalisateur": "Adil Elfadili",
+            "Scénariste": "Ahmed Tahiri Idrissi",
+            "Audio": "AR",
+            "Genres": "Drame        ,",
+            "Distribution": "Mohamed Bastaoui        ,",
+            "Tags": "Addem Al Maghdour"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2434_vertical_image_1677592727211.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2434_poster_image_1676642318268.jpeg",
+        "StreamID": "80250"
+    },
+    {
+        "CUID": "5219",
+        "Title": " LA ROUTE",
+        "Category": "Movies",
+        "Synopsis": "L'histoire du film tourne autour d'un vendeur de VCD se déplaçant de ville en ville pour vendre sa marchandise. Un jour, alors qu'il voyageait en périphérie, il a failli être renversé par un camion. Il remarquera rapidement que ce camion n'est pas comme tous les autres camions.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Mansour Badri        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5219_vertical_image_1684408221985.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5219_poster_image_1684408215037.jpeg",
+        "StreamID": "84070"
     },
     {
         "CUID": "2450",
@@ -997,41 +1031,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1902_vertical_image_1695120530664.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1902_poster_image_1677491600656.jpeg",
         "StreamID": "78265"
-    },
-    {
-        "CUID": "470",
-        "Title": "Menni Mennek",
-        "Category": "Movies",
-        "Synopsis": "Salah et Radia   sont la risée de leur entourage. Tous les prétextes sont bons pour se disputer et il ne passe pas un jour sans qu’ils ne se chamaillent.  Cette situation ne fait pas l’affaire de leur fils unique qui, avec sa femme Nadia, habite sous le même toit que ses parents.   Comment les réconcilier sans prendre parti… C’est le dilemme de son quotidien sachant que les deux n’hésitent pas à lui faire payer ses prises de position. Comment sortir alors de cet imbroglio ? L’intervention des voisins ne va que rajouter à la confusion dans une succession de situations comiques qui n’en sont pas moins porteuses de messages concernant notre société.   Mais au fond, Salah et Radia ont-ils vraiment besoin de quelqu’un pour les réconcilier ? Leurs disputes constituent-elles une réelle menace pour leur couple ? C’est là toute la question…",
-        "Info": {
-            "Réalisateur": "Abdellah Ferkous",
-            "Scénariste": "Abdelmajid Lmhdoubi",
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Zahira Sadik        ,",
-            "Tags": "Menni Mennek"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/470_vertical_image_1681381618708.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/470_poster_image_1674049581537.jpeg",
-        "StreamID": "76824"
-    },
-    {
-        "CUID": "1898",
-        "Title": "Baba Tconecta",
-        "Category": "Movies",
-        "Synopsis": "Lhaj Chaoui, traiteur marrakchi, s'implique dans l'education de ses trois filles apres le deces de sa femme. Ses journees sont reglees comme du papier a musique, jusqu'au jour ou il decouvre l'ecran de l'ordinateur une photo de lui rajeuni, aux cotes de sa mere devenue blonde par la magie de Photoshop ! Il decide de s'interesser de pres au  monde virtuel de l'internet pour mieux connaitre ses filles.",
-        "Info": {
-            "Réalisateur": "Farida Bourquia",
-            "Scénariste": "Abdessamad  El Fettal",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Comédie",
-            "Distribution": "Aicha Mahmah        ,",
-            "Tags": "Baba Tconecta"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1898_vertical_image_1681394368705.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1898_poster_image_1677075330709.jpeg",
-        "StreamID": "81372"
     },
     {
         "CUID": "15317",
