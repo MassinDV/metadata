@@ -12024,5 +12024,46 @@
                 "streamId": "112992"
             }
         ]
+    },
+    {
+        "Name": "Kadiat Al Omr",
+        "Category": "Drama",
+        "Episodes": [
+            {
+                "CUID": "871",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/871_tile_image_1671784895340.jpeg",
+                "streamId": "77032"
+            },
+            {
+                "CUID": "870",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/870_tile_image_1671793921761.jpeg",
+                "streamId": "77031"
+            },
+            {
+                "CUID": "869",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/869_tile_image_1671794162606.jpeg",
+                "streamId": "77030"
+            },
+            {
+                "CUID": "868",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/868_tile_image_1671794703083.jpeg",
+                "streamId": "77029"
+            },
+            {
+                "CUID": "867",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/867_tile_image_1671805286982.jpeg",
+                "streamId": "77028"
+            }
+        ]
     }
 ]
