@@ -1,5 +1,32 @@
 [
     {
+        "CUID": "14240",
+        "Title": "HAYAT BARIA",
+        "Category": "Movies",
+        "Synopsis": "Hind, une jeune médecin ambitieuse, commence sa mission dans un modeste dispensaire rural. Elle découvre que dans le village, les mariages de mineures sont monnaie courante. Hind tente d'aider la petite Zahra, forcée à se marier... Le jeune médecin devra affronter L'haj Omar, le chef du village, pour arriver à changer les mentalités et les idées éculées.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Aicha SAJID        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14240_vertical_image_1713956177752.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14240_poster_image_1713956177729.jpeg",
+        "StreamID": "103569"
+    },
+    {
+        "CUID": "14238",
+        "Title": "AL MAESTRO",
+        "Category": "Movies",
+        "Synopsis": "Lhaj Ahmed, surnommé le maestro, est un chef cuisinier réputé à Casablanca. Après des années passées à concocter les meilleurs plats du restaurant Zaytoune, il souffre de troubles de mémoire. Ce qui lui vaut un départ en retraite qu'il a du mal à gérer. Déprimé, son fils l'emmène chez le médecin qui diagnostique la maladie d'Alzheimer. comment la famille va-t-elle gérer la situation ?",
+        "Info": {
+            "Scénariste": "Zakaria  Lahlou",
+            "Audio": "AR",
+            "Distribution": "Hamid Zoughi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14238_vertical_image_1713278555469.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14238_poster_image_1713278555430.jpeg",
+        "StreamID": "103567"
+    },
+    {
         "CUID": "2434",
         "Title": "Addem Al Maghdour",
         "Category": "Movies",
@@ -45,33 +72,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2450_vertical_image_1681911160041.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2450_poster_image_1681911135287.jpeg",
         "StreamID": "80266"
-    },
-    {
-        "CUID": "2420",
-        "Title": "3 Filles",
-        "Category": "Movies",
-        "Synopsis": "3 Filles",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Drame"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
-        "StreamID": "80236"
-    },
-    {
-        "CUID": "22692",
-        "Title": "Jirah Al Madi",
-        "Category": "Movies",
-        "Synopsis": "Les blessures du passé peuvent-elles être guéries ?  « Amal », une pharmacienne à succès, reçoit un jour la visite de son oncle qui l’informe que son père est toujours en vie mais mourant.   Cette nouvelle va bouleverser le cours de sa vie et celle de son entourage, pour qui le père d’« Amal » était mort quand elle était enfant.   En réalité, « Amal » savait que son père était bel et bien vivant mais qu’il les avait abandonnées, elle et sa mère, quand elle n'avait que 5 ans.   Malgré tout, la curiosité d’« Amal » finira par l'emporter et elle décide d’aller à la rencontre de son père. Ces retrouvailles vont réveiller de vieilles blessures chez   « Amal » qui veut savoir pourquoi son père est parti. Elle est choquée en apprenant les véritables raisons derrière cet abandon. En fouillant dans son passé, elle découvre que tout n'était basé que sur une parole non fondée, ou ce qu'on appelle une rumeur.   Le film est basé sur une histoire vraie qui aborde des sujets liés au fléau des rumeurs et aux tragédies qu'elles peuvent causer. ",
-        "Info": {
-            "Réalisateur": "Az Larabe Alaoui",
-            "Scénariste": "Abdelilah Hamdouchi",
-            "Distribution": "Hicham El Ouali        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22692_vertical_image_1744385260902.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22692_poster_image_1744385253030.jpeg",
-        "StreamID": "112737"
     },
     {
         "CUID": "21417",
@@ -142,6 +142,33 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
         "StreamID": "80236"
+    },
+    {
+        "CUID": "14240",
+        "Title": "HAYAT BARIA",
+        "Category": "Movies",
+        "Synopsis": "Hind, une jeune médecin ambitieuse, commence sa mission dans un modeste dispensaire rural. Elle découvre que dans le village, les mariages de mineures sont monnaie courante. Hind tente d'aider la petite Zahra, forcée à se marier... Le jeune médecin devra affronter L'haj Omar, le chef du village, pour arriver à changer les mentalités et les idées éculées.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Aicha SAJID        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14240_vertical_image_1713956177752.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14240_poster_image_1713956177729.jpeg",
+        "StreamID": "103569"
+    },
+    {
+        "CUID": "14238",
+        "Title": "AL MAESTRO",
+        "Category": "Movies",
+        "Synopsis": "Lhaj Ahmed, surnommé le maestro, est un chef cuisinier réputé à Casablanca. Après des années passées à concocter les meilleurs plats du restaurant Zaytoune, il souffre de troubles de mémoire. Ce qui lui vaut un départ en retraite qu'il a du mal à gérer. Déprimé, son fils l'emmène chez le médecin qui diagnostique la maladie d'Alzheimer. comment la famille va-t-elle gérer la situation ?",
+        "Info": {
+            "Scénariste": "Zakaria  Lahlou",
+            "Audio": "AR",
+            "Distribution": "Hamid Zoughi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14238_vertical_image_1713278555469.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14238_poster_image_1713278555430.jpeg",
+        "StreamID": "103567"
     },
     {
         "CUID": "2434",
@@ -997,40 +1024,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13941_vertical_image_1721425867607.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13941_poster_image_1721425845791.jpeg",
         "StreamID": "103226"
-    },
-    {
-        "CUID": "1884",
-        "Title": "Aarss Addib",
-        "Category": "Movies",
-        "Synopsis": "El Kamla vit un drame, lorsque son père lui enlève le bébé qu'il vient de mettre au monde, au moment même ou on lui annonce le décès de son mari, tue dans le désert. Triste et abattue, elle se mure dans le silence. Son mariage arrange avec un riche commerçant veuf ne comblera pas le vide affectif qu'il ressent. Marginalisée par sa belle-famille qui la trouve étrange, elle partage quelques rares moments de joie avec la fille de son nouveau mari. Un jour, elle croise un petit garçon qu'il croit, poussée par son instinct maternel, être son fils enlevé",
-        "Info": {
-            "Réalisateur": "Sana Akroud",
-            "Audio": "AR        ,",
-            "Genres": "Drame        ,",
-            "Distribution": "Fatima Boujou        ,",
-            "Tags": "3arss Addib"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1884_vertical_image_1680090860876.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1884_poster_image_1680090838239.jpeg",
-        "StreamID": "78229"
-    },
-    {
-        "CUID": "1902",
-        "Title": "Qalbi Bghah ",
-        "Category": "Movies",
-        "Synopsis": "Zineb, responsable événements et banquets, travaille sous les ordres de Mourad,  Directeur commercial arrogant d'une grande chaine d'hotels de luxe.   Jeune et sur de lui, il  pointe  les fautes des employés, et celles de Zineb en particulier. Aussi, quand il demande a Zineb de l'épouser, elle tombe des nues. Il ne parle pas d'amour, mais de motivations rationnelles et pratiques. En se rapprochant de lui petit a petit, elle découvre un nouveau visage de Mourad.",
-        "Info": {
-            "Réalisateur": "Hicham El Jebbari",
-            "Scénariste": "Meryem Drissi",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Drame",
-            "Distribution": "Nasser Akabab        ,",
-            "Tags": "Qalbi Bghah"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1902_vertical_image_1695120530664.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1902_poster_image_1677491600656.jpeg",
-        "StreamID": "78265"
     },
     {
         "CUID": "1192",
