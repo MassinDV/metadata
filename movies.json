@@ -1,5 +1,34 @@
 [
     {
+        "CUID": "18084",
+        "Title": "AL BAHIT",
+        "Category": "Movies",
+        "Synopsis": "Salah et Bouchaïb sont très amis. Pourtant tout les sépare! Salah est professeur de mathématique et Bouchaïb est un homme simple, presque inculte. Le secret de cette amitié ? Une passion dévorante pour les jeux du hasard ! Salah qui ne rate aucune occasion pour s'adonner à son addiction, a fini par s'attirer les foudres de sa famille ! Tout son argent passe dans le jeu et il n'est pas prêt de s'arrêter...Il est convaincu que, grâce aux mathématiques, il est possible de calculer les probabilités et avoir la bonne combinaison pour décrocher le jackpot ! En tout c'est ce qu'il s'évertue à expliquer chaque fois à sa famille pour échapper à leurs remontrances. Salah se considère comme incompris et ne trouve répit qu'en compagnie de son ami Bouchaïb. C'est avec ce dernier qu'il parle de sa passion. Les deux hommes se retrouvent à leur grand bonheur pour faire leurs mises après se mettre d'accords sur les combinaisons à jouer...",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Fadila Benmoussa"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18084_vertical_image_1745580010043.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18084_poster_image_1745580010017.jpeg",
+        "StreamID": "107934"
+    },
+    {
+        "CUID": "11954",
+        "Title": "Boughaba",
+        "Category": "Movies",
+        "Synopsis": "Bughaba, qui vit en pleine nature, est marié à Yamna, la fille du chef du village en lisière de forêt. Un jour, il remarque une lueur étrange dans le ciel, et à partir de là, ses problèmes commencent.",
+        "Info": {
+            "Scénariste": "Taoufik Hmani",
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Farah El Fassi"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11954_vertical_image_1721816283151.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11954_poster_image_1721816283133.jpeg",
+        "StreamID": "99942"
+    },
+    {
         "CUID": "14240",
         "Title": "HAYAT BARIA",
         "Category": "Movies",
@@ -41,34 +70,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2434_vertical_image_1677592727211.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2434_poster_image_1676642318268.jpeg",
         "StreamID": "80250"
-    },
-    {
-        "CUID": "5219",
-        "Title": " LA ROUTE",
-        "Category": "Movies",
-        "Synopsis": "L'histoire du film tourne autour d'un vendeur de VCD se déplaçant de ville en ville pour vendre sa marchandise. Un jour, alors qu'il voyageait en périphérie, il a failli être renversé par un camion. Il remarquera rapidement que ce camion n'est pas comme tous les autres camions.",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Drame"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5219_vertical_image_1684408221985.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5219_poster_image_1684408215037.jpeg",
-        "StreamID": "84070"
-    },
-    {
-        "CUID": "2450",
-        "Title": "Âala Difat Al Kalb",
-        "Category": "Movies",
-        "Synopsis": "Il s'agit de l'histoire des quatre filles du Hajj al-Bashir font face à la cupidité de leurs maris pour la richesse de leur père. Samira, sa fille cadette, est têtue, et contrainte d'épouser un ingénieur agronome du village. Ce mariage, fonctionnera-t-il ?",
-        "Info": {
-            "Réalisateur": "Mohamed Mankhar",
-            "Audio": "AR        ,",
-            "Genres": "Drame",
-            "Tags": "Âala Difat Al Kalb"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2450_vertical_image_1681911160041.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2450_poster_image_1681911135287.jpeg",
-        "StreamID": "80266"
     },
     {
         "CUID": "21417",
@@ -137,6 +138,35 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
         "StreamID": "80236"
+    },
+    {
+        "CUID": "18084",
+        "Title": "AL BAHIT",
+        "Category": "Movies",
+        "Synopsis": "Salah et Bouchaïb sont très amis. Pourtant tout les sépare! Salah est professeur de mathématique et Bouchaïb est un homme simple, presque inculte. Le secret de cette amitié ? Une passion dévorante pour les jeux du hasard ! Salah qui ne rate aucune occasion pour s'adonner à son addiction, a fini par s'attirer les foudres de sa famille ! Tout son argent passe dans le jeu et il n'est pas prêt de s'arrêter...Il est convaincu que, grâce aux mathématiques, il est possible de calculer les probabilités et avoir la bonne combinaison pour décrocher le jackpot ! En tout c'est ce qu'il s'évertue à expliquer chaque fois à sa famille pour échapper à leurs remontrances. Salah se considère comme incompris et ne trouve répit qu'en compagnie de son ami Bouchaïb. C'est avec ce dernier qu'il parle de sa passion. Les deux hommes se retrouvent à leur grand bonheur pour faire leurs mises après se mettre d'accords sur les combinaisons à jouer...",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Fadila Benmoussa"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18084_vertical_image_1745580010043.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18084_poster_image_1745580010017.jpeg",
+        "StreamID": "107934"
+    },
+    {
+        "CUID": "11954",
+        "Title": "Boughaba",
+        "Category": "Movies",
+        "Synopsis": "Bughaba, qui vit en pleine nature, est marié à Yamna, la fille du chef du village en lisière de forêt. Un jour, il remarque une lueur étrange dans le ciel, et à partir de là, ses problèmes commencent.",
+        "Info": {
+            "Scénariste": "Taoufik Hmani",
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Farah El Fassi"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11954_vertical_image_1721816283151.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11954_poster_image_1721816283133.jpeg",
+        "StreamID": "99942"
     },
     {
         "CUID": "14240",
@@ -963,35 +993,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15464_vertical_image_1727882429153.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15464_poster_image_1727263204424.jpeg",
         "StreamID": "105100"
-    },
-    {
-        "CUID": "14604",
-        "Title": "Lweekend",
-        "Category": "Movies",
-        "Synopsis": "Saleh accepte, après insistance de son épouse, de quitter Marrakech pour passer le week-end à Essaouira en famille.Sur la route, il s'arrête pour contrôler la voiture empruntée à un ami. Son fils Saad profite de la pause et descend de la voiture.Le père redémarre, oubliant son fils au bord de la route... Le week-end s'annonce compromis.",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Fadila Benmoussa"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14604_vertical_image_1714991378806.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14604_poster_image_1713959232249.jpeg",
-        "StreamID": "104003"
-    },
-    {
-        "CUID": "13941",
-        "Title": "BATIMA 42",
-        "Category": "Movies",
-        "Synopsis": "BATIMA 42",
-        "Info": {
-            "Réalisateur": "Yassine Fennane",
-            "Audio": "AR",
-            "Genres": "Comédie",
-            "Distribution": "Nasser Akabab"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/13941_vertical_image_1721425867607.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/13941_poster_image_1721425845791.jpeg",
-        "StreamID": "103226"
     },
     {
         "CUID": "1192",
