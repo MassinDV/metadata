@@ -995,6 +995,19 @@
         "StreamID": "105100"
     },
     {
+        "CUID": "1194",
+        "Title": "Acheq Lgadi",
+        "Category": "Theater",
+        "Synopsis": "L'histoire des héros est celle d'une mère âgée atteinte de la maladie d'Alzheimer qui n'arrive pas à déchiffrer le code d'un coffre laissé par son défunt mari, qui lui permettra et à son fils unique d'obtenir l'héritage du père décédé... Et entre la guérison et la perte de mémoire, on découvre que la dame âgée s’est associée au mari décédé sans amour et il a disparu après ce rejet.",
+        "Info": {
+            "Audio": "AR",
+            "Distribution": "Souad Khouyi        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1194_vertical_image_1700832530303.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1194_poster_image_1700831240719.jpeg",
+        "StreamID": "77368"
+    },
+    {
         "CUID": "1192",
         "Title": "Al Habl",
         "Category": "Theater",
@@ -1043,17 +1056,17 @@
         "StreamID": "105180"
     },
     {
-        "CUID": "5864",
-        "Title": "Nssib Al-wazir",
+        "CUID": "1194",
+        "Title": "Acheq Lgadi",
         "Category": "Theater",
-        "Synopsis": "La pièce présente l'abus d'influence d'un gendre du ministre qui a utilisé la parenté pour escroquer les gens, alors le ministre a douté de ses actions, il lui a tendu un piège jusqu'à ce qu'il soit pris en flagrant délit et puni comme toutes les autres personnes, ainsi le ministre limite les malheurs de son gendre envers les citoyens..",
+        "Synopsis": "L'histoire des héros est celle d'une mère âgée atteinte de la maladie d'Alzheimer qui n'arrive pas à déchiffrer le code d'un coffre laissé par son défunt mari, qui lui permettra et à son fils unique d'obtenir l'héritage du père décédé... Et entre la guérison et la perte de mémoire, on découvre que la dame âgée s’est associée au mari décédé sans amour et il a disparu après ce rejet.",
         "Info": {
-            "Réalisateur": "Mustapha Fakir",
-            "Audio": "AR"
+            "Audio": "AR",
+            "Distribution": "Souad Khouyi        ,"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5864_vertical_image_1685097144973.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5864_poster_image_1685097144932.jpeg",
-        "StreamID": "84781"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1194_vertical_image_1700832530303.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1194_poster_image_1700831240719.jpeg",
+        "StreamID": "77368"
     },
     {
         "CUID": "1192",
