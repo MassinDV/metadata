@@ -580,6 +580,7 @@
         "Synopsis": "Mokhtar est un père riche mais avare. Propriétaire de fermes, il oblige ses enfants à vivre dans la misère. En fait, Mokhtar n'a pas oublié la misère qu'il a vécue dans son enfance. C'est un vieil homme brisé qui s'inflige un dénuement total. L'avarice le pousse à des extrêmes, au point de s'interdire tout, même des vêtements neufs: il porte toujours le même manteau rapiécé.Son fils Khalid, qui rêve de succès, désespère d'avoir de l'aide de son père. Ce jeune diplômé désepère aussi de trouver un travail. Il n'a plus qu'une idée en tête: émigrer. Et pourquoi pas emporter le manteau de son père. La vie de Mokhtar devient infernale, lorsqu'il entre en conflit même avec ses filles.",
         "Info": {
             "Audio": "AR",
+            "Genres": "Drame",
             "Distribution": "Youssef El Joundi        ,"
         },
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18118_vertical_image_1730364933927.jpeg",
@@ -865,7 +866,7 @@
         "Info": {
             "Réalisateur": "Mohamed Kortobi",
             "Audio": "AR        ,",
-            "Genres": "Drame        ,",
+            "Genres": "Drame",
             "Distribution": "Azelarab Kaghat         ,",
             "Tags": "Al Kenz"
         },
