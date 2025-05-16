@@ -12725,5 +12725,18 @@
                 "streamId": "109349"
             }
         ]
+    },
+    {
+        "Name": "Brigade Anti-gang ",
+        "Category": "Drama",
+        "Episodes": [
+            {
+                "CUID": "23317",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/23317_tile_image_1747308672616.jpeg",
+                "streamId": "113363"
+            }
+        ]
     }
 ]
