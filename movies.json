@@ -1,5 +1,33 @@
 [
     {
+        "CUID": "18204",
+        "Title": "SAIDA",
+        "Category": "Movies",
+        "Synopsis": "Fonctionnaire exemplaire, femme au foyer idéale, elle mène une vie de couple sans le moindre nuage. Un jour elle prend le mauvais taxi et soudain elle se trouve embarquée dans une histoire macabre et hallucinante. Victime d'un viol, elle échappe de justesse à la mort mais doit affronter la nouvelle situation. Son existence bascule du jour au lendemain. Saïda, la femme épanouie se transforme soudain en être craintif. La meurtrissure étant profonde dans son corps et son âme. Elle doit vivre son nouveau statut de femme violentée, aller au fond d'elle-même, puiser dans ses ressources afin de remonter la pente. Elle se lance alors courageusement à la recherche de ses violeurs.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Saad Tsouli        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18204_vertical_image_1730365052190.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18204_poster_image_1730365052149.jpeg",
+        "StreamID": "108054"
+    },
+    {
+        "CUID": "457",
+        "Title": "Al Warit",
+        "Category": "Movies",
+        "Synopsis": "Après la mort d'un père, marchand de tapis, la condition de son fils cadet change, qui deviendra l'otage de l'image de son père, l'imitant en tout, compliquant ainsi la vie de la famille.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Farouk Aznabet"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/457_vertical_image_1684318560285.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/457_poster_image_1684318547197.jpeg",
+        "StreamID": "76612"
+    },
+    {
         "CUID": "18084",
         "Title": "AL BAHIT",
         "Category": "Movies",
@@ -41,37 +69,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14240_vertical_image_1713956177752.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14240_poster_image_1713956177729.jpeg",
         "StreamID": "103569"
-    },
-    {
-        "CUID": "14238",
-        "Title": "AL MAESTRO",
-        "Category": "Movies",
-        "Synopsis": "Lhaj Ahmed, surnommé le maestro, est un chef cuisinier réputé à Casablanca. Après des années passées à concocter les meilleurs plats du restaurant Zaytoune, il souffre de troubles de mémoire. Ce qui lui vaut un départ en retraite qu'il a du mal à gérer. Déprimé, son fils l'emmène chez le médecin qui diagnostique la maladie d'Alzheimer. comment la famille va-t-elle gérer la situation ?",
-        "Info": {
-            "Scénariste": "Zakaria  Lahlou",
-            "Audio": "AR",
-            "Distribution": "Hamid Zoughi        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14238_vertical_image_1713278555469.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14238_poster_image_1713278555430.jpeg",
-        "StreamID": "103567"
-    },
-    {
-        "CUID": "2434",
-        "Title": "Addem Al Maghdour",
-        "Category": "Movies",
-        "Synopsis": "Les habitants d'un village vivent dans un calme absolu, la plupart des hommes du village travaillent dans la mine, où les conflits entre eux ont tendance à s'aggraver et peuvent avoir de lourdes conséquences.",
-        "Info": {
-            "Réalisateur": "Adil Elfadili",
-            "Scénariste": "Ahmed Tahiri Idrissi",
-            "Audio": "AR",
-            "Genres": "Drame        ,",
-            "Distribution": "Mohamed Bastaoui        ,",
-            "Tags": "Addem Al Maghdour"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2434_vertical_image_1677592727211.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2434_poster_image_1676642318268.jpeg",
-        "StreamID": "80250"
     },
     {
         "CUID": "21417",
@@ -142,6 +139,34 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
         "StreamID": "80236"
+    },
+    {
+        "CUID": "18204",
+        "Title": "SAIDA",
+        "Category": "Movies",
+        "Synopsis": "Fonctionnaire exemplaire, femme au foyer idéale, elle mène une vie de couple sans le moindre nuage. Un jour elle prend le mauvais taxi et soudain elle se trouve embarquée dans une histoire macabre et hallucinante. Victime d'un viol, elle échappe de justesse à la mort mais doit affronter la nouvelle situation. Son existence bascule du jour au lendemain. Saïda, la femme épanouie se transforme soudain en être craintif. La meurtrissure étant profonde dans son corps et son âme. Elle doit vivre son nouveau statut de femme violentée, aller au fond d'elle-même, puiser dans ses ressources afin de remonter la pente. Elle se lance alors courageusement à la recherche de ses violeurs.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Saad Tsouli        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18204_vertical_image_1730365052190.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18204_poster_image_1730365052149.jpeg",
+        "StreamID": "108054"
+    },
+    {
+        "CUID": "457",
+        "Title": "Al Warit",
+        "Category": "Movies",
+        "Synopsis": "Après la mort d'un père, marchand de tapis, la condition de son fils cadet change, qui deviendra l'otage de l'image de son père, l'imitant en tout, compliquant ainsi la vie de la famille.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Farouk Aznabet"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/457_vertical_image_1684318560285.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/457_poster_image_1684318547197.jpeg",
+        "StreamID": "76612"
     },
     {
         "CUID": "18084",
@@ -992,39 +1017,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/17790_vertical_image_1726685618165.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/17790_poster_image_1727278148029.jpeg",
         "StreamID": "107644"
-    },
-    {
-        "CUID": "1910",
-        "Title": "Ahlam Mouajjala",
-        "Category": "Movies",
-        "Synopsis": "Abdelhay, quadragénaire marie a la veuve de son défunt patron, supporte la possessivité de son épouse Lhajja Zahra, en espérant devenir un jour propriétaire de son usine. Il s'entiche de sa femme de ménage, la jeune Drissia qui, elle, rêve de se marier avec Aziz, modeste garçon de café. Leurs vies vont basculer quand ce dernier va pénétrer dans la villa pour tenter de voler le coffre-fort.",
-        "Info": {
-            "Réalisateur": "Abderrahim Majd",
-            "Scénariste": "Reda Osman",
-            "Audio": "AR        ,",
-            "Sous-titres": "Français",
-            "Genres": "Drame",
-            "Distribution": "Hicham Ibrahimi        ,",
-            "Tags": "Ahlam Mouajjala"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1910_vertical_image_1677597283445.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1910_poster_image_1677596909528.jpeg",
-        "StreamID": "78281"
-    },
-    {
-        "CUID": "15464",
-        "Title": "Coucou lbnat",
-        "Category": "Movies",
-        "Synopsis": "Halima devient une star des réseaux sociaux en partageant son quotidien sur YouTube, comblant sa solitude grâce à sa communauté grandissante. Cependant, son mari Ali est jaloux et réticent face à cette vie virtuelle. Un incident imprévu multiplie ses abonnés et ses revenus. Comment Ali réagira-t-il ? Succombera-t-il au luxe ou restera-t-il fidèle à ses principes dans un monde obsédé par les apparences ? \"Une vie virtuelle\" explore ce phénomène de société moderne.",
-        "Info": {
-            "Réalisateur": "Safaa Baraka",
-            "Audio": "AR",
-            "Genres": "Drame",
-            "Distribution": "Ibtissam Laaroussi        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15464_vertical_image_1727882429153.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15464_poster_image_1727263204424.jpeg",
-        "StreamID": "105100"
     },
     {
         "CUID": "1194",
