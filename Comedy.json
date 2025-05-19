@@ -16318,5 +16318,46 @@
                 "streamId": "78405"
             }
         ]
+    },
+    {
+        "Name": "Al Khawa",
+        "Category": "Comedy",
+        "Episodes": [
+            {
+                "CUID": "1941",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1941_tile_image_1675165511831.jpeg",
+                "streamId": "78343"
+            },
+            {
+                "CUID": "1940",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1940_tile_image_1675165518205.jpeg",
+                "streamId": "78341"
+            },
+            {
+                "CUID": "1939",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1939_tile_image_1675165523834.jpeg",
+                "streamId": "78339"
+            },
+            {
+                "CUID": "1938",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1938_tile_image_1675165530335.jpeg",
+                "streamId": "78337"
+            },
+            {
+                "CUID": "1937",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1937_tile_image_1675165537347.jpeg",
+                "streamId": "78335"
+            }
+        ]
     }
 ]
