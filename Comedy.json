@@ -15383,6 +15383,13 @@
                 "Episode": "E18",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/23446_tile_image_1747666544387.jpeg",
                 "streamId": "113507"
+            },
+            {
+                "CUID": "23490",
+                "Session": "S01",
+                "Episode": "E19",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/23490_tile_image_1747818675322.jpeg",
+                "streamId": "113539"
             }
         ]
     },
@@ -16434,6 +16441,47 @@
                 "Episode": "E15",
                 "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/1927_tile_image_1675165627699.jpeg",
                 "streamId": "78315"
+            }
+        ]
+    },
+    {
+        "Name": "Machaf Mara",
+        "Category": "Comedy",
+        "Episodes": [
+            {
+                "CUID": "5254",
+                "Session": "S01",
+                "Episode": "E01",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/5254_tile_image_1696338406774.jpeg",
+                "streamId": "84108"
+            },
+            {
+                "CUID": "5255",
+                "Session": "S01",
+                "Episode": "E02",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/5255_tile_image_1696338415772.jpeg",
+                "streamId": "84109"
+            },
+            {
+                "CUID": "5256",
+                "Session": "S01",
+                "Episode": "E03",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/5256_tile_image_1696338426607.jpeg",
+                "streamId": "84111"
+            },
+            {
+                "CUID": "5257",
+                "Session": "S01",
+                "Episode": "E04",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/5257_tile_image_1696338437278.jpeg",
+                "streamId": "84112"
+            },
+            {
+                "CUID": "5258",
+                "Session": "S01",
+                "Episode": "E05",
+                "imageUrl": "https:\/\/api.forja.ma\/static\/contents\/5258_tile_image_1696338472125.jpeg",
+                "streamId": "84113"
             }
         ]
     }
