@@ -1057,19 +1057,6 @@
         "StreamID": "105047"
     },
     {
-        "CUID": "2865",
-        "Title": "Rass Lmahna",
-        "Category": "Theater",
-        "Synopsis": "Rass Lmahna",
-        "Info": {
-            "Audio": "AR",
-            "Distribution": "Abdellah Ferkous"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2865_vertical_image_1701700523046.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2865_poster_image_1701700497978.jpeg",
-        "StreamID": "80644"
-    },
-    {
         "CUID": "15330",
         "Title": "Kabarha Tesghar ",
         "Category": "Theater",
@@ -1080,6 +1067,20 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15330_vertical_image_1739703292538.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15330_poster_image_1739703292494.jpeg",
         "StreamID": "105180"
+    },
+    {
+        "CUID": "5864",
+        "Title": "Nssib Al-wazir",
+        "Category": "Theater",
+        "Synopsis": "La pièce présente l'abus d'influence d'un gendre du ministre qui a utilisé la parenté pour escroquer les gens, alors le ministre a douté de ses actions, il lui a tendu un piège jusqu'à ce qu'il soit pris en flagrant délit et puni comme toutes les autres personnes, ainsi le ministre limite les malheurs de son gendre envers les citoyens..",
+        "Info": {
+            "Réalisateur": "Mustapha Fakir",
+            "Audio": "AR",
+            "Distribution": "Zhor Slimani"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5864_vertical_image_1685097144973.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5864_poster_image_1685097144932.jpeg",
+        "StreamID": "84781"
     },
     {
         "CUID": "1194",
@@ -1118,19 +1119,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15317_vertical_image_1721139897320.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15317_poster_image_1721139897186.jpeg",
         "StreamID": "105047"
-    },
-    {
-        "CUID": "2865",
-        "Title": "Rass Lmahna",
-        "Category": "Theater",
-        "Synopsis": "Rass Lmahna",
-        "Info": {
-            "Audio": "AR",
-            "Distribution": "Abdellah Ferkous"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2865_vertical_image_1701700523046.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2865_poster_image_1701700497978.jpeg",
-        "StreamID": "80644"
     },
     {
         "CUID": "15330",
@@ -1364,19 +1352,6 @@
         "StreamID": "83778"
     },
     {
-        "CUID": "5848",
-        "Title": "Daret Bina Dora",
-        "Category": "Theater",
-        "Synopsis": "La pièce raconte l'histoire de la famille « Salem », surprise par un inconnu qui est entré dans leur maison.  « Lghalia » , la mère de famille et sa fille « Radia » vont alors tout faire pour sauver leur famille de ce nouveau venu qui prétend être le fils de « Salem»...",
-        "Info": {
-            "Audio": "AR        ,",
-            "Distribution": "Sanaa Bahaj"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5848_vertical_image_1701697829283.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5848_poster_image_1701697799353.jpeg",
-        "StreamID": "84765"
-    },
-    {
         "CUID": "5861",
         "Title": "AL Moudir AL Jadid",
         "Category": "Theater",
@@ -1426,18 +1401,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/15318_vertical_image_1718952798642.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/15318_poster_image_1718952798611.jpeg",
         "StreamID": "105127"
-    },
-    {
-        "CUID": "5834",
-        "Title": "Bin Lbareh w Lyom",
-        "Category": "Theater",
-        "Synopsis": "« Bin Lbareh w Lyoum » traite sous forme de revue, l'histoire artistique du groupe Jil Jilala, à travers une comparaison entre le passé de ce groupe international et son présent avec des scènes basées sur l'humour, la danse et la musique... Vous allez revivre les succès du célèbre groupe marocain !",
-        "Info": {
-            "Audio": "AR"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/5834_vertical_image_1702391857493.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/5834_poster_image_1702391839087.jpeg",
-        "StreamID": "84751"
     },
     {
         "CUID": "5846",
