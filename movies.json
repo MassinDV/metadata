@@ -1,5 +1,22 @@
 [
     {
+        "CUID": "2436",
+        "Title": "Jabarout",
+        "Category": "Movies",
+        "Synopsis": "Une histoire inspirée de faits historique que le Maroc a vécue au XIXe siècle, se déroulant dans la région (Al-Siba), où un conflit opposait la tribu Ibn Azzouz, dirigée par un chef tyrannique et puissant, et la tribu de Rhamna.",
+        "Info": {
+            "Réalisateur": "Leila Triki",
+            "Scénariste": "Mohamed Tabai",
+            "Audio": "Arabe        ,",
+            "Genres": "Patrimonial",
+            "Distribution": "Aziz Bouazzaoui        ,",
+            "Tags": "Jabarout"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2436_vertical_image_1681136101697.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2436_poster_image_1681136101656.jpeg",
+        "StreamID": "80252"
+    },
+    {
         "CUID": "18204",
         "Title": "SAIDA",
         "Category": "Movies",
@@ -55,20 +72,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/11954_vertical_image_1721816283151.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/11954_poster_image_1721816283133.jpeg",
         "StreamID": "99942"
-    },
-    {
-        "CUID": "14240",
-        "Title": "HAYAT BARIA",
-        "Category": "Movies",
-        "Synopsis": "Hind, une jeune médecin ambitieuse, commence sa mission dans un modeste dispensaire rural. Elle découvre que dans le village, les mariages de mineures sont monnaie courante. Hind tente d'aider la petite Zahra, forcée à se marier... Le jeune médecin devra affronter L'haj Omar, le chef du village, pour arriver à changer les mentalités et les idées éculées.",
-        "Info": {
-            "Audio": "AR",
-            "Genres": "Drame",
-            "Distribution": "Aicha SAJID        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/14240_vertical_image_1713956177752.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/14240_poster_image_1713956177729.jpeg",
-        "StreamID": "103569"
     },
     {
         "CUID": "21417",
@@ -139,6 +142,23 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
         "StreamID": "80236"
+    },
+    {
+        "CUID": "2436",
+        "Title": "Jabarout",
+        "Category": "Movies",
+        "Synopsis": "Une histoire inspirée de faits historique que le Maroc a vécue au XIXe siècle, se déroulant dans la région (Al-Siba), où un conflit opposait la tribu Ibn Azzouz, dirigée par un chef tyrannique et puissant, et la tribu de Rhamna.",
+        "Info": {
+            "Réalisateur": "Leila Triki",
+            "Scénariste": "Mohamed Tabai",
+            "Audio": "Arabe        ,",
+            "Genres": "Patrimonial",
+            "Distribution": "Aziz Bouazzaoui        ,",
+            "Tags": "Jabarout"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2436_vertical_image_1681136101697.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2436_poster_image_1681136101656.jpeg",
+        "StreamID": "80252"
     },
     {
         "CUID": "18204",
@@ -1004,19 +1024,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/1894_vertical_image_1677159752450.png",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/1894_poster_image_1677158734523.jpeg",
         "StreamID": "78249"
-    },
-    {
-        "CUID": "17790",
-        "Title": "Moule Ihsae",
-        "Category": "Movies",
-        "Synopsis": "Moule Ihsae",
-        "Info": {
-            "Audio": "Arabe",
-            "Genres": "Comédie"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/17790_vertical_image_1726685618165.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/17790_poster_image_1727278148029.jpeg",
-        "StreamID": "107644"
     },
     {
         "CUID": "1194",
