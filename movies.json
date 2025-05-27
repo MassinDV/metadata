@@ -74,6 +74,20 @@
         "StreamID": "99942"
     },
     {
+        "CUID": "18204",
+        "Title": "SAIDA",
+        "Category": "Movies",
+        "Synopsis": "Fonctionnaire exemplaire, femme au foyer idéale, elle mène une vie de couple sans le moindre nuage. Un jour elle prend le mauvais taxi et soudain elle se trouve embarquée dans une histoire macabre et hallucinante. Victime d'un viol, elle échappe de justesse à la mort mais doit affronter la nouvelle situation. Son existence bascule du jour au lendemain. Saïda, la femme épanouie se transforme soudain en être craintif. La meurtrissure étant profonde dans son corps et son âme. Elle doit vivre son nouveau statut de femme violentée, aller au fond d'elle-même, puiser dans ses ressources afin de remonter la pente. Elle se lance alors courageusement à la recherche de ses violeurs.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Saad Tsouli        ,"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18204_vertical_image_1730365052190.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18204_poster_image_1730365052149.jpeg",
+        "StreamID": "108054"
+    },
+    {
         "CUID": "21417",
         "Title": "Bini ou Binek",
         "Category": "Movies",
@@ -86,20 +100,6 @@
         "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21417_vertical_image_1743763174066.jpeg",
         "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21417_poster_image_1743763174030.jpeg",
         "StreamID": "112580"
-    },
-    {
-        "CUID": "21418",
-        "Title": "Forssa Tania",
-        "Category": "Movies",
-        "Synopsis": "Souad, une jeune femme de 24 ans, vit une existence simple avec son mari Adil, un employé de café modeste. Cependant, Souad rêve de tout autre chose : une vie de luxe, de célébrité et d’influence, comme celle de son idole Amal, une influenceuse à succès qu’elle suit sans relâche sur les réseaux sociaux. Ne se contentant plus de son quotidien, elle décide de tenter sa chance dans un jeu de hasard et, contre toute attente, remporte une fortune. Avec cette nouvelle richesse, Souad se sent prête à changer de vie, mais elle estime que son mari ne partage pas ses ambitions. Elle décide donc de mettre en place un plan avec l’aide de son amie Latifa pour pousser Adil à la quitter. Mais Adil, bien que profondément amoureux d’elle, découvre la vérité et décide de partir de lui-même. Libre de toute contrainte, Souad se lance dans une vie de luxe, un monde où la superficialité et la cupidité sont omniprésentes. Mais, en vivant cette vie de rêve, elle se rend vite compte que le vrai bonheur ne réside pas dans les apparences. La nostalgie de sa vie simple avec Adil la rattrape et elle se rend compte qu’elle a fait une erreur. Elle décide alors de partir à la recherche de son mari pour tenter de le récupérer. Lui donnera-t-il une seconde chance ? ",
-        "Info": {
-            "Réalisateur": "Hicham El Jebbari",
-            "Genres": "Drame",
-            "Distribution": "Fatima Ezzahra Lahrech        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/21418_vertical_image_1743160560449.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/21418_poster_image_1743160560419.jpeg",
-        "StreamID": "112436"
     },
     {
         "CUID": "21419",
@@ -117,31 +117,32 @@
         "StreamID": "111724"
     },
     {
-        "CUID": "22692",
-        "Title": "Jirah Al Madi",
+        "CUID": "18084",
+        "Title": "AL BAHIT",
         "Category": "Movies",
-        "Synopsis": "Les blessures du passé peuvent-elles être guéries ?  « Amal », une pharmacienne à succès, reçoit un jour la visite de son oncle qui l’informe que son père est toujours en vie mais mourant.   Cette nouvelle va bouleverser le cours de sa vie et celle de son entourage, pour qui le père d’« Amal » était mort quand elle était enfant.   En réalité, « Amal » savait que son père était bel et bien vivant mais qu’il les avait abandonnées, elle et sa mère, quand elle n'avait que 5 ans.   Malgré tout, la curiosité d’« Amal » finira par l'emporter et elle décide d’aller à la rencontre de son père. Ces retrouvailles vont réveiller de vieilles blessures chez   « Amal » qui veut savoir pourquoi son père est parti. Elle est choquée en apprenant les véritables raisons derrière cet abandon. En fouillant dans son passé, elle découvre que tout n'était basé que sur une parole non fondée, ou ce qu'on appelle une rumeur.   Le film est basé sur une histoire vraie qui aborde des sujets liés au fléau des rumeurs et aux tragédies qu'elles peuvent causer. ",
-        "Info": {
-            "Réalisateur": "Az Larabe Alaoui",
-            "Scénariste": "Abdelilah Hamdouchi",
-            "Distribution": "Hicham El Ouali        ,"
-        },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/22692_vertical_image_1744385260902.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/22692_poster_image_1744385253030.jpeg",
-        "StreamID": "112737"
-    },
-    {
-        "CUID": "2420",
-        "Title": "3 Filles",
-        "Category": "Movies",
-        "Synopsis": "3 Filles",
+        "Synopsis": "Salah et Bouchaïb sont très amis. Pourtant tout les sépare! Salah est professeur de mathématique et Bouchaïb est un homme simple, presque inculte. Le secret de cette amitié ? Une passion dévorante pour les jeux du hasard ! Salah qui ne rate aucune occasion pour s'adonner à son addiction, a fini par s'attirer les foudres de sa famille ! Tout son argent passe dans le jeu et il n'est pas prêt de s'arrêter...Il est convaincu que, grâce aux mathématiques, il est possible de calculer les probabilités et avoir la bonne combinaison pour décrocher le jackpot ! En tout c'est ce qu'il s'évertue à expliquer chaque fois à sa famille pour échapper à leurs remontrances. Salah se considère comme incompris et ne trouve répit qu'en compagnie de son ami Bouchaïb. C'est avec ce dernier qu'il parle de sa passion. Les deux hommes se retrouvent à leur grand bonheur pour faire leurs mises après se mettre d'accords sur les combinaisons à jouer...",
         "Info": {
             "Audio": "AR",
-            "Genres": "Drame"
+            "Genres": "Drame",
+            "Distribution": "Aziz HOUBAIBI        ,"
         },
-        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/2420_vertical_image_1676301931079.jpeg",
-        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/2420_poster_image_1676301931078.jpeg",
-        "StreamID": "80236"
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/18084_vertical_image_1745580010043.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/18084_poster_image_1745580010017.jpeg",
+        "StreamID": "107934"
+    },
+    {
+        "CUID": "457",
+        "Title": "Al Warit",
+        "Category": "Movies",
+        "Synopsis": "Après la mort d'un père, marchand de tapis, la condition de son fils cadet change, qui deviendra l'otage de l'image de son père, l'imitant en tout, compliquant ainsi la vie de la famille.",
+        "Info": {
+            "Audio": "AR",
+            "Genres": "Drame",
+            "Distribution": "Farouk Aznabet"
+        },
+        "VerticalImage": "https:\/\/api.forja.ma\/static\/contents\/457_vertical_image_1684318560285.jpeg",
+        "PosterImage": "https:\/\/api.forja.ma\/static\/contents\/457_poster_image_1684318547197.jpeg",
+        "StreamID": "76612"
     },
     {
         "CUID": "2436",
